@@ -1,0 +1,3387 @@
+[
+  {
+    "item_no": "1004",
+    "description": "3C+E 4 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.7552
+  },
+  {
+    "item_no": "1004UA",
+    "description": "3C+E 4 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.339
+  },
+  {
+    "item_no": "1004UA-47",
+    "description": "3C+E 4 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.2975
+  },
+  {
+    "item_no": "1006",
+    "description": "3C+E 6 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.8702
+  },
+  {
+    "item_no": "1006UA",
+    "description": "3C+E 6 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.4164
+  },
+  {
+    "item_no": "1006UA-47",
+    "description": "3C+E 6 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.3825
+  },
+  {
+    "item_no": "1010",
+    "description": "3C+E 10 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 1.087
+  },
+  {
+    "item_no": "1010UA",
+    "description": "3C+E 10 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.5817
+  },
+  {
+    "item_no": "1015",
+    "description": "3C+E 1.5 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.4249
+  },
+  {
+    "item_no": "1015UA",
+    "description": "3C+E 1.5 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.1928
+  },
+  {
+    "item_no": "1015UA-47",
+    "description": "3C+E 1.5 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.142
+  },
+  {
+    "item_no": "1016",
+    "description": "3C+E 16 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 1.3728
+  },
+  {
+    "item_no": "1016UA",
+    "description": "3C+E 16 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 0.6904
+  },
+  {
+    "item_no": "1025",
+    "description": "3C+E 2.5 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.6186
+  },
+  {
+    "item_no": "1025UA",
+    "description": "3C+E 2.5 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.2513
+  },
+  {
+    "item_no": "1025UA-47",
+    "description": "3C+E 2.5 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.223
+  },
+  {
+    "item_no": "1031",
+    "description": "2C+E 1.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.3911
+  },
+  {
+    "item_no": "1031UA",
+    "description": "2C+E 1.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.1534
+  },
+  {
+    "item_no": "1032",
+    "description": "2C+E 2.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.4746
+  },
+  {
+    "item_no": "1032UA",
+    "description": "2C+E 2.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.2048
+  },
+  {
+    "item_no": "1035",
+    "description": "3C+E 35 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 2.1841
+  },
+  {
+    "item_no": "1035UA",
+    "description": "3C+E 35 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 1.3201
+  },
+  {
+    "item_no": "1041",
+    "description": "3C+E 1.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.4453
+  },
+  {
+    "item_no": "1042",
+    "description": "3C+E 2.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.5486
+  },
+  {
+    "item_no": "1050",
+    "description": "3C+E 50 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 2.8415
+  },
+  {
+    "item_no": "1050UA",
+    "description": "3C+E 50 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 1.8379
+  },
+  {
+    "item_no": "1051",
+    "description": "4C+E 1.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.5101
+  },
+  {
+    "item_no": "1051-OR",
+    "description": "4C+E 1.5 BC/PVC/SWA/PVC 1KV ORG CTRL",
+    "weight_per_meter": 0.51
+  },
+  {
+    "item_no": "1051UA",
+    "description": "4C+E 1.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.2233
+  },
+  {
+    "item_no": "1052",
+    "description": "4C+E 2.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.7627
+  },
+  {
+    "item_no": "1052UA",
+    "description": "4C+E 2.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.3054
+  },
+  {
+    "item_no": "1070",
+    "description": "3C+E 70 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 4.0502
+  },
+  {
+    "item_no": "1070UA",
+    "description": "3C+E 70 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 2.5675
+  },
+  {
+    "item_no": "1095",
+    "description": "3C+E 95 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 4.9159
+  },
+  {
+    "item_no": "1095UA",
+    "description": "3C+E 95 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 3.2996
+  },
+  {
+    "item_no": "1111",
+    "description": "10C+E 1.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.8607
+  },
+  {
+    "item_no": "1111UA",
+    "description": "10C+E 1.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.3653
+  },
+  {
+    "item_no": "1112",
+    "description": "10C+E 2.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 1.0711
+  },
+  {
+    "item_no": "1112UA",
+    "description": "10C+E 2.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.5148
+  },
+  {
+    "item_no": "1115ERTC",
+    "description": "11C+E 1.5 TCCL5/EPR/CPE 1KV H07 ",
+    "weight_per_meter": 0.0
+  },
+  {
+    "item_no": "1118ERTC",
+    "description": "17C+E 1.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.0
+  },
+  {
+    "item_no": "1120",
+    "description": "3C+E 120 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 6.4036
+  },
+  {
+    "item_no": "1120UA",
+    "description": "3C+E 120 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 4.1711
+  },
+  {
+    "item_no": "1125",
+    "description": "3C+E 25 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 1.7688
+  },
+  {
+    "item_no": "1125UA",
+    "description": "3C+E 25 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 0.9837
+  },
+  {
+    "item_no": "1131",
+    "description": "12C+E 1.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.9338
+  },
+  {
+    "item_no": "1131UA",
+    "description": "12C+E 1.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.415
+  },
+  {
+    "item_no": "1132",
+    "description": "12C+E 2.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 1.3278
+  },
+  {
+    "item_no": "1132UA",
+    "description": "12C+E 2.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.5895
+  },
+  {
+    "item_no": "1161",
+    "description": "15C+E 1.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 1.0366
+  },
+  {
+    "item_no": "1161UA",
+    "description": "15C+E 1.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.492
+  },
+  {
+    "item_no": "1162",
+    "description": "15C+E 2.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 1.481
+  },
+  {
+    "item_no": "1162UA",
+    "description": "15C+E 2.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.7054
+  },
+  {
+    "item_no": "120E",
+    "description": "1C120 Bare Copper Earth Wire",
+    "weight_per_meter": 1.506
+  },
+  {
+    "item_no": "1210",
+    "description": "11C+E 1 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.2269
+  },
+  {
+    "item_no": "1211",
+    "description": "20C+E 1.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 1.3708
+  },
+  {
+    "item_no": "1211UA",
+    "description": "20C+E 1.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.6103
+  },
+  {
+    "item_no": "1212",
+    "description": "20C+E 2.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 1.7417
+  },
+  {
+    "item_no": "1212UA",
+    "description": "20C+E 2.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.8841
+  },
+  {
+    "item_no": "1215",
+    "description": "11C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.2989
+  },
+  {
+    "item_no": "1225ERTC",
+    "description": "11C+E 2.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.0
+  },
+  {
+    "item_no": "1250",
+    "description": "11C+E 0.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1456
+  },
+  {
+    "item_no": "1261",
+    "description": "25C+E 1.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 1.5917
+  },
+  {
+    "item_no": "1261UA",
+    "description": "25C+E 1.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.7393
+  },
+  {
+    "item_no": "1262UA",
+    "description": "25C+E 2.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 1.0887
+  },
+  {
+    "item_no": "1275",
+    "description": "11C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1976
+  },
+  {
+    "item_no": "1301",
+    "description": "2C+E 1.5 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.3755
+  },
+  {
+    "item_no": "1301UA",
+    "description": "2C+E 1.5 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.1631
+  },
+  {
+    "item_no": "1301UA-47",
+    "description": "2C+E 1.5 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.1107
+  },
+  {
+    "item_no": "1302",
+    "description": "2C+E 2.5 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.4403
+  },
+  {
+    "item_no": "1302UA",
+    "description": "2C+E 2.5 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.2091
+  },
+  {
+    "item_no": "1302UA-47",
+    "description": "2C+E 2.5 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.1716
+  },
+  {
+    "item_no": "1304",
+    "description": "2C+E 4 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.5325
+  },
+  {
+    "item_no": "1304UA",
+    "description": "2C+E 4 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.2728
+  },
+  {
+    "item_no": "1304UA-47",
+    "description": "2C+E 4 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.2304
+  },
+  {
+    "item_no": "1306",
+    "description": "2C+E 6 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.739
+  },
+  {
+    "item_no": "1306UA",
+    "description": "2C+E 6 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.3313
+  },
+  {
+    "item_no": "1306UA-47",
+    "description": "2C+E 6 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.2838
+  },
+  {
+    "item_no": "1310",
+    "description": "2C+E 10 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.911
+  },
+  {
+    "item_no": "1310UA",
+    "description": "2C+E 10 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.4535
+  },
+  {
+    "item_no": "1311UA",
+    "description": "30C+E 1.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.415
+  },
+  {
+    "item_no": "1312UA",
+    "description": "30C+E 2.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 1.2802
+  },
+  {
+    "item_no": "1316",
+    "description": "2C+E 16 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 1.0402
+  },
+  {
+    "item_no": "1316UA",
+    "description": "2C+E 16 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 0.5283
+  },
+  {
+    "item_no": "1325",
+    "description": "2C+E 25 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 1.3364
+  },
+  {
+    "item_no": "1325UA",
+    "description": "2C+E 25 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 0.7412
+  },
+  {
+    "item_no": "1335UA",
+    "description": "2C+E 35 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 0.9866
+  },
+  {
+    "item_no": "1350",
+    "description": "2C+E 50 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 6.1695
+  },
+  {
+    "item_no": "1502",
+    "description": "4C+E 2.5 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.5808
+  },
+  {
+    "item_no": "1502UA",
+    "description": "4C+E 2.5 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.3082
+  },
+  {
+    "item_no": "1502UA-47",
+    "description": "4C+E 2.5 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.2646
+  },
+  {
+    "item_no": "1504",
+    "description": "4C+E 4 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.8828
+  },
+  {
+    "item_no": "1504HFSMICA-FLEX",
+    "description": "4C+E 4 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 0.4841
+  },
+  {
+    "item_no": "1504UA",
+    "description": "4C+E 4 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.4254
+  },
+  {
+    "item_no": "1504UA-47",
+    "description": "4C+E 4 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.3782
+  },
+  {
+    "item_no": "1505",
+    "description": "4C+E 1.5 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 0.4829
+  },
+  {
+    "item_no": "1505UA",
+    "description": "4C+E 1.5 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.2345
+  },
+  {
+    "item_no": "1505UA-47",
+    "description": "4C+E 1.5 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.1719
+  },
+  {
+    "item_no": "1506",
+    "description": "4C+E 6 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 1.0268
+  },
+  {
+    "item_no": "1506HFSMICA-FLEX",
+    "description": "4C+E 6 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 0.5804
+  },
+  {
+    "item_no": "1506UA",
+    "description": "4C+E 6 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.5255
+  },
+  {
+    "item_no": "1506UA-47",
+    "description": "4C+E 6 BC/PVC/PVC 450/750V O/C",
+    "weight_per_meter": 0.483
+  },
+  {
+    "item_no": "1510",
+    "description": "4C+E 10 BC/PVC/SWA/PVC 1KV O/C",
+    "weight_per_meter": 1.4443
+  },
+  {
+    "item_no": "1510HFSMICA-FLEX",
+    "description": "4C+E 10 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 0.803
+  },
+  {
+    "item_no": "1510UA",
+    "description": "4C+E 10 BC/PVC/PVC 1KV O/C",
+    "weight_per_meter": 0.7422
+  },
+  {
+    "item_no": "1515",
+    "description": "4C+E 150 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 9.7667
+  },
+  {
+    "item_no": "1515UA",
+    "description": "4C+E 150 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 6.8053
+  },
+  {
+    "item_no": "1516",
+    "description": "4C+E 16 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 1.6275
+  },
+  {
+    "item_no": "1516HFSMICA-FLEX",
+    "description": "4C+E 16 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 1.122
+  },
+  {
+    "item_no": "1516UA",
+    "description": "4C+E 16 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 0.8775
+  },
+  {
+    "item_no": "1520",
+    "description": "4C+E 120 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 7.9702
+  },
+  {
+    "item_no": "1520UA",
+    "description": "4C+E 120 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 5.4068
+  },
+  {
+    "item_no": "1524",
+    "description": "4C+E 240 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 15.4026
+  },
+  {
+    "item_no": "1524UA",
+    "description": "4C+E 240 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 10.9184
+  },
+  {
+    "item_no": "1525",
+    "description": "4C+E 25 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 2.1537
+  },
+  {
+    "item_no": "1525HFSMICA-FLEX",
+    "description": "4C+E 25 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 1.5786
+  },
+  {
+    "item_no": "1525UA",
+    "description": "4C+E 25 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 1.2645
+  },
+  {
+    "item_no": "1526",
+    "description": "2C0.5 TCCL5/PVC/TCB/PVC 400V UV ",
+    "weight_per_meter": 0.0391
+  },
+  {
+    "item_no": "1535",
+    "description": "4C+E 35 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 2.6966
+  },
+  {
+    "item_no": "1535HFSMICA-FLEX",
+    "description": "4C+E 35 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 2.1242
+  },
+  {
+    "item_no": "1535UA",
+    "description": "4C+E 35 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 1.6999
+  },
+  {
+    "item_no": "1536",
+    "description": "3C0.5 TCCL5/PVC/TCB/PVC 400V UV",
+    "weight_per_meter": 0.0488
+  },
+  {
+    "item_no": "1546",
+    "description": "4C0.5 TCCL5/PVC/TCB/PVC 400V UV",
+    "weight_per_meter": 0.0599
+  },
+  {
+    "item_no": "1550",
+    "description": "4C+E 50 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 3.8095
+  },
+  {
+    "item_no": "1550HFSMICA-FLEX",
+    "description": "4C+E 50 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 2.9192
+  },
+  {
+    "item_no": "1550UA",
+    "description": "4C+E 50 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 2.3852
+  },
+  {
+    "item_no": "1566",
+    "description": "6C0.5 TC/PVC/TCB/PVC 400V UV",
+    "weight_per_meter": 0.0802
+  },
+  {
+    "item_no": "1566BC",
+    "description": "6C0.5 BC/PVC/TCB/PVC 400V UV",
+    "weight_per_meter": 0.0
+  },
+  {
+    "item_no": "1570",
+    "description": "4C+E 70 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 5.0129
+  },
+  {
+    "item_no": "1570UA",
+    "description": "4C+E 70 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 3.3091
+  },
+  {
+    "item_no": "1585",
+    "description": "4C+E 185 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 11.7607
+  },
+  {
+    "item_no": "1585UA",
+    "description": "4C+E 185 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 8.4767
+  },
+  {
+    "item_no": "1595",
+    "description": "4C+E 95 BC/XLPE/SWA/PVC 1KV O/C",
+    "weight_per_meter": 6.6081
+  },
+  {
+    "item_no": "1595UA",
+    "description": "4C+E 95 BC/XLPE/PVC 1KV O/C",
+    "weight_per_meter": 4.2817
+  },
+  {
+    "item_no": "1701",
+    "description": "6C+E 1.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.5175
+  },
+  {
+    "item_no": "1701UA",
+    "description": "6C+E 1.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.2484
+  },
+  {
+    "item_no": "1702",
+    "description": "6C+E 2.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.7811
+  },
+  {
+    "item_no": "1702UA",
+    "description": "6C+E 2.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.3452
+  },
+  {
+    "item_no": "1810",
+    "description": "17C+E 1 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.3287
+  },
+  {
+    "item_no": "1815",
+    "description": "17C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.4395
+  },
+  {
+    "item_no": "1850",
+    "description": "17C+E 0.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.2102
+  },
+  {
+    "item_no": "1875",
+    "description": "17C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.2784
+  },
+  {
+    "item_no": "1901",
+    "description": "8C+E 1.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.7802
+  },
+  {
+    "item_no": "1901UA",
+    "description": "8C+E 1.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.3166
+  },
+  {
+    "item_no": "1902",
+    "description": "8C+E 2.5 BC/PVC/SWA/PVC 1KV CTRL",
+    "weight_per_meter": 0.9614
+  },
+  {
+    "item_no": "1902UA",
+    "description": "8C+E 2.5 BC/PVC/PVC 1KV CTRL",
+    "weight_per_meter": 0.4421
+  },
+  {
+    "item_no": "2015ERTC",
+    "description": "2C1.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.1055
+  },
+  {
+    "item_no": "2275",
+    "description": "2C0.75 BCCL5/PVC/PVC V75 500V C/C",
+    "weight_per_meter": 0.0464
+  },
+  {
+    "item_no": "2310",
+    "description": "2C+E 1.0 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0682
+  },
+  {
+    "item_no": "2315",
+    "description": "2C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0833
+  },
+  {
+    "item_no": "2325",
+    "description": "2C+E 2.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1307
+  },
+  {
+    "item_no": "2375",
+    "description": "2C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0565
+  },
+  {
+    "item_no": "2410",
+    "description": "3C+E 1.0 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0845
+  },
+  {
+    "item_no": "2415",
+    "description": "3C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1077
+  },
+  {
+    "item_no": "2425",
+    "description": "3C+E 0.25 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.036
+  },
+  {
+    "item_no": "2452",
+    "description": "3C+E 2.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1643
+  },
+  {
+    "item_no": "2475",
+    "description": "3C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0694
+  },
+  {
+    "item_no": "2510",
+    "description": "24C+E 1.0 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.4847
+  },
+  {
+    "item_no": "2515",
+    "description": "24C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.6429
+  },
+  {
+    "item_no": "2550",
+    "description": "24C+E 0.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.3149
+  },
+  {
+    "item_no": "2575",
+    "description": "24C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.4058
+  },
+  {
+    "item_no": "2715ERTC",
+    "description": "26C+E 1.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 1.2234
+  },
+  {
+    "item_no": "3010ERTC",
+    "description": "2C+E 1.0 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.1062
+  },
+  {
+    "item_no": "3015ERTC",
+    "description": "2C+E 1.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.1373
+  },
+  {
+    "item_no": "3025ERTC",
+    "description": "2C+E 2.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.1952
+  },
+  {
+    "item_no": "3040ERTC",
+    "description": "2C+E 4 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.2734
+  },
+  {
+    "item_no": "3060ERTC",
+    "description": "2C+E 6 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.3593
+  },
+  {
+    "item_no": "3610",
+    "description": "35C+E 1.0 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.6584
+  },
+  {
+    "item_no": "3615",
+    "description": "35C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.8524
+  },
+  {
+    "item_no": "4001",
+    "description": "1Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "weight_per_meter": 0.019
+  },
+  {
+    "item_no": "4002",
+    "description": "2Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "weight_per_meter": 0.0314
+  },
+  {
+    "item_no": "4003",
+    "description": "3Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "weight_per_meter": 0.0431
+  },
+  {
+    "item_no": "4004",
+    "description": "4Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "weight_per_meter": 0.0484
+  },
+  {
+    "item_no": "4006",
+    "description": "6Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "weight_per_meter": 0.0725
+  },
+  {
+    "item_no": "4008",
+    "description": "8Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "weight_per_meter": 0.0954
+  },
+  {
+    "item_no": "4010",
+    "description": "10Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "weight_per_meter": 0.1052
+  },
+  {
+    "item_no": "4011ERTC",
+    "description": "3C+E 1.0 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.1339
+  },
+  {
+    "item_no": "4012",
+    "description": "12Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "weight_per_meter": 0.1205
+  },
+  {
+    "item_no": "4015ERTC",
+    "description": "3C+E 1.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.1726
+  },
+  {
+    "item_no": "4025ERTC",
+    "description": "3C+E 2.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.2455
+  },
+  {
+    "item_no": "4040ERTC",
+    "description": "3C+E 4 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.346
+  },
+  {
+    "item_no": "4060ERTC",
+    "description": "3C+E 6 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.47
+  },
+  {
+    "item_no": "4100ERTC",
+    "description": "3C+E 10 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.8647
+  },
+  {
+    "item_no": "4102",
+    "description": "2Pr 24AWG TC/PP/IOS/PVC V75 300V",
+    "weight_per_meter": 0.0495
+  },
+  {
+    "item_no": "4103",
+    "description": "3Pr 24AWG TC/PP/IOS/PVC V75 300V",
+    "weight_per_meter": 0.0569
+  },
+  {
+    "item_no": "4160ERTC",
+    "description": "3C+E 16 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 1.1646
+  },
+  {
+    "item_no": "4201",
+    "description": "1Pr 22AWG BC/PP/OS/PVC V75 300V",
+    "weight_per_meter": 0.008
+  },
+  {
+    "item_no": "4204",
+    "description": "4C 24AWG TC/PVC/OS/PVC V75 300V",
+    "weight_per_meter": 0.023
+  },
+  {
+    "item_no": "4206",
+    "description": "6C 24AWG TC/PVC/OS/PVC V75 300V",
+    "weight_per_meter": 0.0304
+  },
+  {
+    "item_no": "4207",
+    "description": "7C 20AWG TCCL5/PVC/OS/PVC V75 300V",
+    "weight_per_meter": 0.0561
+  },
+  {
+    "item_no": "4208",
+    "description": "8C 24AWG TC/PVC/OS/PVC V75 300V",
+    "weight_per_meter": 0.04
+  },
+  {
+    "item_no": "4212",
+    "description": "12C 24AWG TC/PVC/OS/PVC V75 300V",
+    "weight_per_meter": 0.0554
+  },
+  {
+    "item_no": "4218",
+    "description": "18C 24AWG TC/PVC/OS/PVC V75 300V",
+    "weight_per_meter": 0.0755
+  },
+  {
+    "item_no": "4225",
+    "description": "25C 24AWG TC/PVC/OS/PVC V75 300V",
+    "weight_per_meter": 0.1022
+  },
+  {
+    "item_no": "4236",
+    "description": "36C 24AWG TC/PVC/OS/PVC V75 300V",
+    "weight_per_meter": 0.1448
+  },
+  {
+    "item_no": "4250ERTC",
+    "description": "3C+E 25 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 1.7357
+  },
+  {
+    "item_no": "4350ERTC",
+    "description": "3C+E 35 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 2.3349
+  },
+  {
+    "item_no": "4500ERTC",
+    "description": "3C+E 50 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 3.2378
+  },
+  {
+    "item_no": "4700ERTC",
+    "description": "3C+E 70 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 4.1846
+  },
+  {
+    "item_no": "4950ERTC",
+    "description": "3C+E 95 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 5.5159
+  },
+  {
+    "item_no": "5001",
+    "description": "1Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0586
+  },
+  {
+    "item_no": "5002",
+    "description": "2Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.1053
+  },
+  {
+    "item_no": "5003",
+    "description": "3Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.1412
+  },
+  {
+    "item_no": "5004",
+    "description": "4Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.1919
+  },
+  {
+    "item_no": "5006",
+    "description": "6Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.2805
+  },
+  {
+    "item_no": "5008",
+    "description": "8Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.3553
+  },
+  {
+    "item_no": "5010",
+    "description": "10Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.4492
+  },
+  {
+    "item_no": "5012",
+    "description": "12Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.5297
+  },
+  {
+    "item_no": "5015BC",
+    "description": "4C+E 1.5 BCCL5/RUBBER/CPE 1KV H07RNF",
+    "weight_per_meter": 0.0
+  },
+  {
+    "item_no": "5015ERTC",
+    "description": "4C+E 1.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.2164
+  },
+  {
+    "item_no": "5016",
+    "description": "16Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.688
+  },
+  {
+    "item_no": "5020",
+    "description": "20Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.8561
+  },
+  {
+    "item_no": "5024",
+    "description": "24Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 1.0422
+  },
+  {
+    "item_no": "5025ERTC",
+    "description": "4C+E 2.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.3077
+  },
+  {
+    "item_no": "5036",
+    "description": "36Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 1.5083
+  },
+  {
+    "item_no": "5040ERTC",
+    "description": "4C+E 4 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.4435
+  },
+  {
+    "item_no": "5050",
+    "description": "50Pr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 2.0344
+  },
+  {
+    "item_no": "5060ERTC",
+    "description": "4C+E 6 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.5906
+  },
+  {
+    "item_no": "5100ERTC",
+    "description": "4C+E 10 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 1.0601
+  },
+  {
+    "item_no": "5101",
+    "description": "1Pr1.0 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0436
+  },
+  {
+    "item_no": "5102",
+    "description": "2Pr1.0 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0814
+  },
+  {
+    "item_no": "5103",
+    "description": "3Pr1.0 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.1069
+  },
+  {
+    "item_no": "5110",
+    "description": "2Tr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.0848
+  },
+  {
+    "item_no": "5110N",
+    "description": "2Tr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.0848
+  },
+  {
+    "item_no": "5111",
+    "description": "4Tr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.1488
+  },
+  {
+    "item_no": "5111N",
+    "description": "4Tr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.1488
+  },
+  {
+    "item_no": "5112",
+    "description": "6Tr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.2157
+  },
+  {
+    "item_no": "5112N",
+    "description": "6Tr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.2157
+  },
+  {
+    "item_no": "5115",
+    "description": "12Tr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.4155
+  },
+  {
+    "item_no": "5115N",
+    "description": "12Tr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.4155
+  },
+  {
+    "item_no": "5122",
+    "description": "4Tr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.2937
+  },
+  {
+    "item_no": "5122N",
+    "description": "4Tr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.2937
+  },
+  {
+    "item_no": "5123",
+    "description": "6Tr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.4245
+  },
+  {
+    "item_no": "5123N",
+    "description": "6Tr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.4245
+  },
+  {
+    "item_no": "5126",
+    "description": "12Tr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.8103
+  },
+  {
+    "item_no": "5126N",
+    "description": "12Tr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.8103
+  },
+  {
+    "item_no": "5127",
+    "description": "16Tr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 1.0654
+  },
+  {
+    "item_no": "5127N",
+    "description": "16Tr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 1.0654
+  },
+  {
+    "item_no": "5131",
+    "description": "36Tr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 2.3042
+  },
+  {
+    "item_no": "5131N",
+    "description": "36Tr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 2.3042
+  },
+  {
+    "item_no": "5133",
+    "description": "3Tr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.1188
+  },
+  {
+    "item_no": "5143",
+    "description": "3Tr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.2198
+  },
+  {
+    "item_no": "5160ERTC",
+    "description": "4C+E 16 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 1.4472
+  },
+  {
+    "item_no": "5201",
+    "description": "1Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0353
+  },
+  {
+    "item_no": "5202",
+    "description": "2Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.059
+  },
+  {
+    "item_no": "5203",
+    "description": "3Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0755
+  },
+  {
+    "item_no": "5204",
+    "description": "4Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0982
+  },
+  {
+    "item_no": "5206",
+    "description": "6Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.1341
+  },
+  {
+    "item_no": "5208",
+    "description": "8Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.1658
+  },
+  {
+    "item_no": "5210",
+    "description": "10Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.2095
+  },
+  {
+    "item_no": "5212",
+    "description": "12Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.2521
+  },
+  {
+    "item_no": "5216",
+    "description": "16Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.3424
+  },
+  {
+    "item_no": "5218",
+    "description": "18Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.3776
+  },
+  {
+    "item_no": "5220",
+    "description": "20Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.41
+  },
+  {
+    "item_no": "5224",
+    "description": "24Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.4979
+  },
+  {
+    "item_no": "5236",
+    "description": "36Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.727
+  },
+  {
+    "item_no": "5250ERTC",
+    "description": "4C+E 25 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 2.1562
+  },
+  {
+    "item_no": "5251",
+    "description": "50Pr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.9961
+  },
+  {
+    "item_no": "5303",
+    "description": "1Tr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0412
+  },
+  {
+    "item_no": "5304",
+    "description": "2Tr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0765
+  },
+  {
+    "item_no": "5305",
+    "description": "3Tr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.1027
+  },
+  {
+    "item_no": "5307",
+    "description": "6Tr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.1821
+  },
+  {
+    "item_no": "5310",
+    "description": "12Tr0.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.3726
+  },
+  {
+    "item_no": "5313",
+    "description": "10Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.9152
+  },
+  {
+    "item_no": "5313N",
+    "description": "10Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.9152
+  },
+  {
+    "item_no": "5315",
+    "description": "10Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.5617
+  },
+  {
+    "item_no": "5315N",
+    "description": "10Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.5617
+  },
+  {
+    "item_no": "5333",
+    "description": "3Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.3758
+  },
+  {
+    "item_no": "5333N",
+    "description": "3Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.3758
+  },
+  {
+    "item_no": "5335",
+    "description": "3Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.6747
+  },
+  {
+    "item_no": "5335N",
+    "description": "3Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.6747
+  },
+  {
+    "item_no": "5343",
+    "description": "4Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.5528
+  },
+  {
+    "item_no": "5343N",
+    "description": "4Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.5528
+  },
+  {
+    "item_no": "5345",
+    "description": "4Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.7773
+  },
+  {
+    "item_no": "5345N",
+    "description": "4Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.7773
+  },
+  {
+    "item_no": "5346",
+    "description": "6Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.1385
+  },
+  {
+    "item_no": "5346N",
+    "description": "6Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.1385
+  },
+  {
+    "item_no": "5348",
+    "description": "8Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.3156
+  },
+  {
+    "item_no": "5348N",
+    "description": "8Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.3156
+  },
+  {
+    "item_no": "5350ERTC",
+    "description": "4C+E 35 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 3.1003
+  },
+  {
+    "item_no": "5363",
+    "description": "6Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.6847
+  },
+  {
+    "item_no": "5363N",
+    "description": "6Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.6847
+  },
+  {
+    "item_no": "5403",
+    "description": "1Tr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0768
+  },
+  {
+    "item_no": "5403BLU",
+    "description": "1Tr1.5 BC/PVC/OS/PVC 110V BLU",
+    "weight_per_meter": 0.0768
+  },
+  {
+    "item_no": "5404",
+    "description": "2Tr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.146
+  },
+  {
+    "item_no": "5405",
+    "description": "1Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.2838
+  },
+  {
+    "item_no": "5405BLU",
+    "description": "1Tr1.5 BC/PVC/OS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.2838
+  },
+  {
+    "item_no": "5406",
+    "description": "3Tr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.1992
+  },
+  {
+    "item_no": "5406BLU",
+    "description": "3Tr1.5 BC/PVC/OS/PVC 110V BLU",
+    "weight_per_meter": 0.1992
+  },
+  {
+    "item_no": "5407",
+    "description": "4Tr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.2599
+  },
+  {
+    "item_no": "5408",
+    "description": "6Tr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.3874
+  },
+  {
+    "item_no": "5411",
+    "description": "12Tr1.5 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.7469
+  },
+  {
+    "item_no": "5413",
+    "description": "10Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.8491
+  },
+  {
+    "item_no": "5415",
+    "description": "10Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 1.4906
+  },
+  {
+    "item_no": "5420",
+    "description": "1Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.2168
+  },
+  {
+    "item_no": "5433",
+    "description": "3Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.3537
+  },
+  {
+    "item_no": "5435",
+    "description": "3Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.6487
+  },
+  {
+    "item_no": "5443",
+    "description": "4Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.4009
+  },
+  {
+    "item_no": "5445",
+    "description": "4Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.7452
+  },
+  {
+    "item_no": "5449",
+    "description": "12Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.914
+  },
+  {
+    "item_no": "5463",
+    "description": "6Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.6406
+  },
+  {
+    "item_no": "5465",
+    "description": "6Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.9523
+  },
+  {
+    "item_no": "5486",
+    "description": "12Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 1.6261
+  },
+  {
+    "item_no": "5500ERTC",
+    "description": "4C+E 50 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 4.3403
+  },
+  {
+    "item_no": "5501",
+    "description": "1Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.2611
+  },
+  {
+    "item_no": "5501BLU",
+    "description": "1Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 0.2611
+  },
+  {
+    "item_no": "5502",
+    "description": "2Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.3886
+  },
+  {
+    "item_no": "5502BLU",
+    "description": "2Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 0.3886
+  },
+  {
+    "item_no": "5504",
+    "description": "4Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.6466
+  },
+  {
+    "item_no": "5504BLU",
+    "description": "4Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 0.6466
+  },
+  {
+    "item_no": "5506",
+    "description": "6Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.8303
+  },
+  {
+    "item_no": "5506BLU",
+    "description": "6Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 0.8303
+  },
+  {
+    "item_no": "5508",
+    "description": "8Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.9293
+  },
+  {
+    "item_no": "5508BLU",
+    "description": "8Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 0.9293
+  },
+  {
+    "item_no": "5510",
+    "description": "10Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 1.258
+  },
+  {
+    "item_no": "5510BLU",
+    "description": "10Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 1.258
+  },
+  {
+    "item_no": "5512",
+    "description": "12Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 1.3576
+  },
+  {
+    "item_no": "5512BLU",
+    "description": "12Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 1.3576
+  },
+  {
+    "item_no": "5516",
+    "description": "16Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 1.6018
+  },
+  {
+    "item_no": "5516BLU",
+    "description": "16Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 1.6018
+  },
+  {
+    "item_no": "5520",
+    "description": "20Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 1.8303
+  },
+  {
+    "item_no": "5524",
+    "description": "24Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 2.3928
+  },
+  {
+    "item_no": "5524BLU",
+    "description": "24Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 2.3928
+  },
+  {
+    "item_no": "5530",
+    "description": "10Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.7364
+  },
+  {
+    "item_no": "5530BLU",
+    "description": "10Pr0.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 0.7364
+  },
+  {
+    "item_no": "5531",
+    "description": "1Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.2016
+  },
+  {
+    "item_no": "5532",
+    "description": "2Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.2871
+  },
+  {
+    "item_no": "5533",
+    "description": "4Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.3544
+  },
+  {
+    "item_no": "5534",
+    "description": "6Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.5681
+  },
+  {
+    "item_no": "5535",
+    "description": "8Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.6338
+  },
+  {
+    "item_no": "5535BLU",
+    "description": "8Pr0.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 0.6338
+  },
+  {
+    "item_no": "5536",
+    "description": "12Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 0.7857
+  },
+  {
+    "item_no": "5536BLU",
+    "description": "12Pr0.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "weight_per_meter": 0.7857
+  },
+  {
+    "item_no": "5537",
+    "description": "16Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 1.0544
+  },
+  {
+    "item_no": "5538",
+    "description": "24Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 1.3617
+  },
+  {
+    "item_no": "5539",
+    "description": "36Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 1.6886
+  },
+  {
+    "item_no": "5550",
+    "description": "50Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 3.9306
+  },
+  {
+    "item_no": "5556",
+    "description": "36Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "weight_per_meter": 3.0951
+  },
+  {
+    "item_no": "5601",
+    "description": "1Pr0.75 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0385
+  },
+  {
+    "item_no": "5602",
+    "description": "2Pr0.75 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0699
+  },
+  {
+    "item_no": "5603",
+    "description": "3Pr0.75 BC/PVC/OS/PVC 110V",
+    "weight_per_meter": 0.0927
+  },
+  {
+    "item_no": "5610",
+    "description": "10Pr0.5 BC/PVC/OS/SWA/PVC 600V ",
+    "weight_per_meter": 1.1241
+  },
+  {
+    "item_no": "5611",
+    "description": "1Pr1.5 BC/PVC/OS/SWA/PVC 600V ",
+    "weight_per_meter": 0.3121
+  },
+  {
+    "item_no": "5612",
+    "description": "2Pr1.5 BC/PVC/OS/SWA/PVC 600V ",
+    "weight_per_meter": 0.6391
+  },
+  {
+    "item_no": "5613",
+    "description": "4Pr1.5 BC/PVC/OS/SWA/PVC 600V ",
+    "weight_per_meter": 0.819
+  },
+  {
+    "item_no": "5641",
+    "description": "1Pr0.5 BC/PVC/OS/SWA/PVC 600V ",
+    "weight_per_meter": 0.2427
+  },
+  {
+    "item_no": "5642",
+    "description": "2Pr0.5 BC/PVC/OS/SWA/PVC 600V ",
+    "weight_per_meter": 0.4849
+  },
+  {
+    "item_no": "5644",
+    "description": "4Pr0.5 BC/PVC/OS/SWA/PVC 600V ",
+    "weight_per_meter": 0.5926
+  },
+  {
+    "item_no": "5700ERTC",
+    "description": "4C+E 70 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 5.5494
+  },
+  {
+    "item_no": "5702",
+    "description": "2Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.0683
+  },
+  {
+    "item_no": "5702N",
+    "description": "2Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.0683
+  },
+  {
+    "item_no": "5704",
+    "description": "4Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.1169
+  },
+  {
+    "item_no": "5704N",
+    "description": "4Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.1169
+  },
+  {
+    "item_no": "5706",
+    "description": "6Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.168
+  },
+  {
+    "item_no": "5706N",
+    "description": "6Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.168
+  },
+  {
+    "item_no": "5710",
+    "description": "10Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.2688
+  },
+  {
+    "item_no": "5710N",
+    "description": "10Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.2688
+  },
+  {
+    "item_no": "5712",
+    "description": "12Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.309
+  },
+  {
+    "item_no": "5712N",
+    "description": "12Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.309
+  },
+  {
+    "item_no": "5716",
+    "description": "16Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.4016
+  },
+  {
+    "item_no": "5716N",
+    "description": "16Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.4016
+  },
+  {
+    "item_no": "5724",
+    "description": "24Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.6032
+  },
+  {
+    "item_no": "5724N",
+    "description": "24Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.6032
+  },
+  {
+    "item_no": "5730",
+    "description": "10Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.5089
+  },
+  {
+    "item_no": "5730N",
+    "description": "10Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.5089
+  },
+  {
+    "item_no": "5732",
+    "description": "2Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.1183
+  },
+  {
+    "item_no": "5732BLU",
+    "description": "2Pr1.5 BC/PVC/IOS/PVC 110V BLU",
+    "weight_per_meter": 0.1183
+  },
+  {
+    "item_no": "5732BLU-N",
+    "description": "2Pr1.5 BC/PVC/IOS/PVC 110V BLU",
+    "weight_per_meter": 0.1183
+  },
+  {
+    "item_no": "5732N",
+    "description": "2Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.1183
+  },
+  {
+    "item_no": "5734",
+    "description": "4Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.209
+  },
+  {
+    "item_no": "5734N",
+    "description": "4Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.209
+  },
+  {
+    "item_no": "5736",
+    "description": "6Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.3063
+  },
+  {
+    "item_no": "5736BLU",
+    "description": "6Pr1.5 BC/PVC/IOS/PVC 110V BLU",
+    "weight_per_meter": 0.3063
+  },
+  {
+    "item_no": "5736BLU-N",
+    "description": "6Pr1.5 BC/PVC/IOS/PVC 110V BLU",
+    "weight_per_meter": 0.3063
+  },
+  {
+    "item_no": "5736N",
+    "description": "6Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.3063
+  },
+  {
+    "item_no": "5737",
+    "description": "36Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.8905
+  },
+  {
+    "item_no": "5737N",
+    "description": "36Pr0.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.8905
+  },
+  {
+    "item_no": "5738",
+    "description": "8Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.3962
+  },
+  {
+    "item_no": "5738N",
+    "description": "8Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.3962
+  },
+  {
+    "item_no": "5740",
+    "description": "12Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.5886
+  },
+  {
+    "item_no": "5740N",
+    "description": "12Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.5886
+  },
+  {
+    "item_no": "5742",
+    "description": "16Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.7751
+  },
+  {
+    "item_no": "5742N",
+    "description": "16Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.7751
+  },
+  {
+    "item_no": "5743",
+    "description": "20Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.9403
+  },
+  {
+    "item_no": "5743N",
+    "description": "20Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 0.9403
+  },
+  {
+    "item_no": "5744",
+    "description": "24Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 1.1693
+  },
+  {
+    "item_no": "5744N",
+    "description": "24Pr1.5 BC/PVC/IOS/PVC 110V",
+    "weight_per_meter": 1.1693
+  },
+  {
+    "item_no": "5801",
+    "description": "1Pr0.5 BC/PVC/OS/PVC Type 600 ",
+    "weight_per_meter": 0.0427
+  },
+  {
+    "item_no": "5802",
+    "description": "2Pr0.5 BC/PVC/OS/PVC Type 600 ",
+    "weight_per_meter": 0.0838
+  },
+  {
+    "item_no": "5803",
+    "description": "3Pr0.5 BC/PVC/OS/PVC Type 600 ",
+    "weight_per_meter": 0.107
+  },
+  {
+    "item_no": "5804",
+    "description": "4Pr0.5 BC/PVC/OS/PVC Type 600 ",
+    "weight_per_meter": 0.1372
+  },
+  {
+    "item_no": "5806",
+    "description": "6Pr0.5 BC/PVC/OS/PVC Type 600 ",
+    "weight_per_meter": 0.1995
+  },
+  {
+    "item_no": "5812",
+    "description": "12Pr0.5 BC/PVC/OS/PVC 600V ",
+    "weight_per_meter": 0.3894
+  },
+  {
+    "item_no": "5816",
+    "description": "16Pr0.5 BC/PVC/OS/PVC 600V ",
+    "weight_per_meter": 0.5084
+  },
+  {
+    "item_no": "5824",
+    "description": "24Pr0.5 BC/PVC/OS/PVC 600V ",
+    "weight_per_meter": 0.7546
+  },
+  {
+    "item_no": "5854",
+    "description": "24Pr0.5 BC/PVC/IOS/SWA/PVC 600V BLU",
+    "weight_per_meter": 2.225
+  },
+  {
+    "item_no": "5901",
+    "description": "1Pr1.5 BC/PVC/OS/PVC Type 600 ",
+    "weight_per_meter": 0.0744
+  },
+  {
+    "item_no": "5902",
+    "description": "2Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.7632
+  },
+  {
+    "item_no": "5902BLU",
+    "description": "2Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.7632
+  },
+  {
+    "item_no": "5902BLU-N",
+    "description": "2Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.7632
+  },
+  {
+    "item_no": "5902N",
+    "description": "2Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.7632
+  },
+  {
+    "item_no": "5904",
+    "description": "4Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.6785
+  },
+  {
+    "item_no": "5904BLU",
+    "description": "4Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.6785
+  },
+  {
+    "item_no": "5904BLU-N",
+    "description": "4Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.6785
+  },
+  {
+    "item_no": "5904N",
+    "description": "4Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.6785
+  },
+  {
+    "item_no": "5906",
+    "description": "6Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.8548
+  },
+  {
+    "item_no": "5906BLU",
+    "description": "6Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.8548
+  },
+  {
+    "item_no": "5906BLU-N",
+    "description": "6Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.8548
+  },
+  {
+    "item_no": "5906N",
+    "description": "6Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.8548
+  },
+  {
+    "item_no": "5908",
+    "description": "8Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.1283
+  },
+  {
+    "item_no": "5908BLU",
+    "description": "8Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 1.1283
+  },
+  {
+    "item_no": "5908BLU-N",
+    "description": "8Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 1.1283
+  },
+  {
+    "item_no": "5908N",
+    "description": "8Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.1283
+  },
+  {
+    "item_no": "5910",
+    "description": "10Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.3298
+  },
+  {
+    "item_no": "5910N",
+    "description": "10Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.3298
+  },
+  {
+    "item_no": "5912",
+    "description": "12Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.4379
+  },
+  {
+    "item_no": "5912BLU",
+    "description": "12Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 1.4379
+  },
+  {
+    "item_no": "5912BLU-N",
+    "description": "12Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 1.4379
+  },
+  {
+    "item_no": "5912N",
+    "description": "12Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.4379
+  },
+  {
+    "item_no": "5916",
+    "description": "16Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.7034
+  },
+  {
+    "item_no": "5916N",
+    "description": "16Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.7034
+  },
+  {
+    "item_no": "5920",
+    "description": "20Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.9512
+  },
+  {
+    "item_no": "5920N",
+    "description": "20Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 1.9512
+  },
+  {
+    "item_no": "5924",
+    "description": "24Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 2.547
+  },
+  {
+    "item_no": "5924N",
+    "description": "24Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 2.547
+  },
+  {
+    "item_no": "5960",
+    "description": "2Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.3054
+  },
+  {
+    "item_no": "5960BLU",
+    "description": "2Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.3054
+  },
+  {
+    "item_no": "5960BLU-N",
+    "description": "2Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.3054
+  },
+  {
+    "item_no": "5960N",
+    "description": "2Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.3054
+  },
+  {
+    "item_no": "5961",
+    "description": "4Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.382
+  },
+  {
+    "item_no": "5961BLU",
+    "description": "4Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.382
+  },
+  {
+    "item_no": "5961BLU-N",
+    "description": "4Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.382
+  },
+  {
+    "item_no": "5961N",
+    "description": "4Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.382
+  },
+  {
+    "item_no": "5962",
+    "description": "6Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.612
+  },
+  {
+    "item_no": "5962BLU",
+    "description": "6Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.612
+  },
+  {
+    "item_no": "5962BLU-N",
+    "description": "6Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.612
+  },
+  {
+    "item_no": "5962N",
+    "description": "6Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.612
+  },
+  {
+    "item_no": "5963",
+    "description": "8Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.688
+  },
+  {
+    "item_no": "5963BLU",
+    "description": "8Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.688
+  },
+  {
+    "item_no": "5963BLU-N",
+    "description": "8Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.688
+  },
+  {
+    "item_no": "5963N",
+    "description": "8Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.688
+  },
+  {
+    "item_no": "5964",
+    "description": "10Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.8033
+  },
+  {
+    "item_no": "5964N",
+    "description": "10Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.8033
+  },
+  {
+    "item_no": "5965",
+    "description": "12Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.8608
+  },
+  {
+    "item_no": "5965BLU",
+    "description": "12Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.8608
+  },
+  {
+    "item_no": "5965BLU-N",
+    "description": "12Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "weight_per_meter": 0.8608
+  },
+  {
+    "item_no": "5965N",
+    "description": "12Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "weight_per_meter": 0.8608
+  },
+  {
+    "item_no": "5990",
+    "description": "2Pr1.5 BC/PVC/OS/PVC 600V  BLU",
+    "weight_per_meter": 0.1468
+  },
+  {
+    "item_no": "5992",
+    "description": "4Pr1.5 BC/PVC/OS/PVC 600V  BLU",
+    "weight_per_meter": 0.2592
+  },
+  {
+    "item_no": "5993",
+    "description": "6Pr1.5 BC/PVC/OS/PVC 600V  BLU",
+    "weight_per_meter": 0.3881
+  },
+  {
+    "item_no": "7015ERTC",
+    "description": "6C+E 1.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.3061
+  },
+  {
+    "item_no": "7025ERTC",
+    "description": "6C+E 2.5 TCCL5/EPR/CPE 1KV H07",
+    "weight_per_meter": 0.4269
+  },
+  {
+    "item_no": "70E",
+    "description": "1C70 Bare Copper Earth Wire",
+    "weight_per_meter": 0.611
+  },
+  {
+    "item_no": "7301",
+    "description": "2C0.75 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0464
+  },
+  {
+    "item_no": "7302",
+    "description": "2C2.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1077
+  },
+  {
+    "item_no": "7303",
+    "description": "3C0.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0449
+  },
+  {
+    "item_no": "7304",
+    "description": "3C0.75 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0565
+  },
+  {
+    "item_no": "7305",
+    "description": "3C1.0 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0682
+  },
+  {
+    "item_no": "7306",
+    "description": "3C1.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0833
+  },
+  {
+    "item_no": "7307",
+    "description": "3C2.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1307
+  },
+  {
+    "item_no": "7308",
+    "description": "4C0.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0531
+  },
+  {
+    "item_no": "7309",
+    "description": "4C0.75 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0694
+  },
+  {
+    "item_no": "7310",
+    "description": "4C1.0 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0845
+  },
+  {
+    "item_no": "7311",
+    "description": "4C1.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1077
+  },
+  {
+    "item_no": "7312",
+    "description": "7C1.0 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1335
+  },
+  {
+    "item_no": "7313",
+    "description": "4C0.25 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.165
+  },
+  {
+    "item_no": "7805HFSMICA-FLEX",
+    "description": "1C500 BCCl5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 5.2767
+  },
+  {
+    "item_no": "7805XV",
+    "description": "1C500 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 4.892
+  },
+  {
+    "item_no": "7812HFSMICA-FLEX",
+    "description": "1C120 BCCl5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 1.3747
+  },
+  {
+    "item_no": "7812XT-OR",
+    "description": "1C120 BCCL5/XLPE/PVC 1KV ORG",
+    "weight_per_meter": 1.248
+  },
+  {
+    "item_no": "7812XV",
+    "description": "1C120 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 1.2233
+  },
+  {
+    "item_no": "7815HFSMICA-FLEX",
+    "description": "1C150 BCCl5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 1.6891
+  },
+  {
+    "item_no": "7815XT-OR",
+    "description": "1C150 BCCL5/XLPE/PVC 1KV ORG",
+    "weight_per_meter": 1.5523
+  },
+  {
+    "item_no": "7815XV",
+    "description": "1C150 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 1.5258
+  },
+  {
+    "item_no": "7816HFSMICA-FLEX",
+    "description": "1C16 BCCL5/MICA/XHF/HFS-110 0.6/kV",
+    "weight_per_meter": 0.251
+  },
+  {
+    "item_no": "7816XT-OR",
+    "description": "1C16 BCCL5/XLPE/PVC 1KV ORG",
+    "weight_per_meter": 0.2081
+  },
+  {
+    "item_no": "7816XV",
+    "description": "1C16 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 0.2038
+  },
+  {
+    "item_no": "7818HFSMICA-FLEX",
+    "description": "1C185 BCCl5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 2.0646
+  },
+  {
+    "item_no": "7818XT-OR",
+    "description": "1C185 BCCL5/XLPE/PVC 1KV ORG",
+    "weight_per_meter": 1.9051
+  },
+  {
+    "item_no": "7818XV",
+    "description": "1C185 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 1.876
+  },
+  {
+    "item_no": "7824HFSMICA-FLEX",
+    "description": "1C240 BCCl5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 2.6334
+  },
+  {
+    "item_no": "7824XT-OR",
+    "description": "1C240 BCCL5/XLPE/PVC 1KV ORG",
+    "weight_per_meter": 2.433
+  },
+  {
+    "item_no": "7824XV",
+    "description": "1C240 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 2.405
+  },
+  {
+    "item_no": "7825HFSMICA-FLEX",
+    "description": "1C25 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 0.3599
+  },
+  {
+    "item_no": "7825XT-OR",
+    "description": "1C25 BCCL5/XLPE/PVC 1KV ORG",
+    "weight_per_meter": 0.3055
+  },
+  {
+    "item_no": "7825XV",
+    "description": "1C25 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 0.3006
+  },
+  {
+    "item_no": "7825XVNY-BLK-PAWA",
+    "description": "1C25 BC/XLPE/NY/PVC 1KV BLK PAWA",
+    "weight_per_meter": 0.0
+  },
+  {
+    "item_no": "7825XVNY-RED-PAWA",
+    "description": "1C25 BC/XLPE/NY/PVC 1KV RED PAWA",
+    "weight_per_meter": 0.0
+  },
+  {
+    "item_no": "7830HFSMICA-FLEX",
+    "description": "1C300 BCCl5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 3.2369
+  },
+  {
+    "item_no": "7830XT-OR",
+    "description": "1C300 BCCL5/XLPE/PVC 1KV ORG",
+    "weight_per_meter": 3.0103
+  },
+  {
+    "item_no": "7830XV",
+    "description": "1C300 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 2.9682
+  },
+  {
+    "item_no": "7835HFSMICA-FLEX",
+    "description": "1C35 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 0.4745
+  },
+  {
+    "item_no": "7835XT-OR",
+    "description": "1C35 BCCL5/XLPE/PVC 1KV ORG",
+    "weight_per_meter": 0.4097
+  },
+  {
+    "item_no": "7835XV",
+    "description": "1C35 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 0.3974
+  },
+  {
+    "item_no": "7840HFSMICA-FLEX",
+    "description": "1C400 BCCl5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 4.2642
+  },
+  {
+    "item_no": "7840XV",
+    "description": "1C400 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 3.9331
+  },
+  {
+    "item_no": "7850HFSMICA-FLEX",
+    "description": "1C50 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 0.6451
+  },
+  {
+    "item_no": "7850XT-OR",
+    "description": "1C50 BCCL5/XLPE/PVC 1KV ORG",
+    "weight_per_meter": 0.5605
+  },
+  {
+    "item_no": "7850XV",
+    "description": "1C50 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 0.5453
+  },
+  {
+    "item_no": "7863HFSMICA-FLEX",
+    "description": "1C630 BCCl5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 6.6226
+  },
+  {
+    "item_no": "7863XV",
+    "description": "1C630 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 6.1271
+  },
+  {
+    "item_no": "7870HFSMICA-FLEX",
+    "description": "1C70 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 0.8512
+  },
+  {
+    "item_no": "7870XT-OR",
+    "description": "1C70 BCCL5/XLPE/PVC 1KV ORG",
+    "weight_per_meter": 0.7614
+  },
+  {
+    "item_no": "7870XV",
+    "description": "1C70 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 0.7417
+  },
+  {
+    "item_no": "7895HFSMICA-FLEX",
+    "description": "1C95 BCCL5/MICA/XHF/HFS110 1KV",
+    "weight_per_meter": 1.1037
+  },
+  {
+    "item_no": "7895XT-OR",
+    "description": "1C95 BCCL5/XLPE/PVC 1KV ORG",
+    "weight_per_meter": 0.9951
+  },
+  {
+    "item_no": "7895XV",
+    "description": "1C95 BC/XLPE/PVC 1KV SDI",
+    "weight_per_meter": 0.9841
+  },
+  {
+    "item_no": "8100",
+    "description": "2C+E 1.5 BCCL5/PVC/TCB/TPE 1KV EMC",
+    "weight_per_meter": 0.1872
+  },
+  {
+    "item_no": "8101",
+    "description": "2C+E 2.5 BCCL5/PVC/TCB/TPE 1KV EMC",
+    "weight_per_meter": 0.2406
+  },
+  {
+    "item_no": "8102",
+    "description": "4C+E 1.5 BCCL5/PVC/TCB/TPE 1KV EMC",
+    "weight_per_meter": 0.2945
+  },
+  {
+    "item_no": "8103",
+    "description": "4C+E 2.5 BCCL5/PVC/TCB/TPE 1KV EMC",
+    "weight_per_meter": 0.365
+  },
+  {
+    "item_no": "8104",
+    "description": "6C+E 1.5 BCCL5/PVC/TCB/TPE 1KV EMC",
+    "weight_per_meter": 0.3628
+  },
+  {
+    "item_no": "8105",
+    "description": "6C+E 2.5 BCCL5/PVC/TCB/TPE 1KV EMC",
+    "weight_per_meter": 0.4452
+  },
+  {
+    "item_no": "8106",
+    "description": "11C+E 1.5 BCCL5/PVC/TCB/TPE 1KV EMC",
+    "weight_per_meter": 0.5958
+  },
+  {
+    "item_no": "8107",
+    "description": "11C+E 2.5 BCCL5/PVC/TCB/TPE 1KV EMC",
+    "weight_per_meter": 0.7884
+  },
+  {
+    "item_no": "8108",
+    "description": "18C+E 1.5 BCCL5/PVC/TCB/TPE 1KV EMC",
+    "weight_per_meter": 0.852
+  },
+  {
+    "item_no": "8109",
+    "description": "3C+E 4 BCCL5/PVC/TCB/TPE 1KV EMC",
+    "weight_per_meter": 0.4096
+  },
+  {
+    "item_no": "8110",
+    "description": "4C+E 4 BCCL5/PVC/TCB/TPE 1KV EMC",
+    "weight_per_meter": 0.489
+  },
+  {
+    "item_no": "8200",
+    "description": "2C+E 0.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.0803
+  },
+  {
+    "item_no": "8201",
+    "description": "3C+E 0.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.0948
+  },
+  {
+    "item_no": "8202",
+    "description": "4C+E 0.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.1135
+  },
+  {
+    "item_no": "8203",
+    "description": "6C+E 0.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.135
+  },
+  {
+    "item_no": "8204",
+    "description": "11C+E 0.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.2134
+  },
+  {
+    "item_no": "8205",
+    "description": "24C+E 0.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.4159
+  },
+  {
+    "item_no": "8206",
+    "description": "3C+E 0.75 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.1156
+  },
+  {
+    "item_no": "8207",
+    "description": "6C+E 0.75 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.1701
+  },
+  {
+    "item_no": "8208",
+    "description": "11C+E 0.75 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.2604
+  },
+  {
+    "item_no": "8209",
+    "description": "17C+E 0.75 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.3771
+  },
+  {
+    "item_no": "8210",
+    "description": "2C+E 1.0 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.1095
+  },
+  {
+    "item_no": "8211",
+    "description": "3C+E 1.0 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.1315
+  },
+  {
+    "item_no": "8212",
+    "description": "6C+E 1.0 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.191
+  },
+  {
+    "item_no": "8213",
+    "description": "11C+E 1.0 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.3309
+  },
+  {
+    "item_no": "8214",
+    "description": "17C+E 1.0 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.4571
+  },
+  {
+    "item_no": "8215",
+    "description": "24C+E 1.0 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.6305
+  },
+  {
+    "item_no": "8216",
+    "description": "3C+E 1.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.1625
+  },
+  {
+    "item_no": "8217",
+    "description": "4C+E 1.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.1924
+  },
+  {
+    "item_no": "8218",
+    "description": "6C+E 1.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.2355
+  },
+  {
+    "item_no": "8219",
+    "description": "11C+E 1.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.4041
+  },
+  {
+    "item_no": "8220",
+    "description": "24C+E 1.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.7799
+  },
+  {
+    "item_no": "8221",
+    "description": "2C+E 2.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.1954
+  },
+  {
+    "item_no": "8222",
+    "description": "3C+E 2.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.2496
+  },
+  {
+    "item_no": "8223",
+    "description": "2C+E 1.5 BCCL5/PVC/TCB/PVC 500V EMC",
+    "weight_per_meter": 0.136
+  },
+  {
+    "item_no": "9315",
+    "description": "2C+E 1.5 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 0.1809
+  },
+  {
+    "item_no": "9325",
+    "description": "2C+E 2.5 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 0.2405
+  },
+  {
+    "item_no": "9400",
+    "description": "3C+E 1.0 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 0.1991
+  },
+  {
+    "item_no": "9401",
+    "description": "3C+E 1.5 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 0.2286
+  },
+  {
+    "item_no": "9402",
+    "description": "3C+E 2.5 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 0.311
+  },
+  {
+    "item_no": "9404",
+    "description": "3C+E 4 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 0.4225
+  },
+  {
+    "item_no": "9406",
+    "description": "3C+E 6 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 0.5234
+  },
+  {
+    "item_no": "9410",
+    "description": "3C+E 10 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 0.7228
+  },
+  {
+    "item_no": "9412XCTPV",
+    "description": "3C3E120 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "weight_per_meter": 3.4206
+  },
+  {
+    "item_no": "9416",
+    "description": "3C+E 16 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 1.228
+  },
+  {
+    "item_no": "9418XCTPV",
+    "description": "3C3E185 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "weight_per_meter": 5.1469
+  },
+  {
+    "item_no": "9424XCTPV",
+    "description": "3C3E240 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "weight_per_meter": 6.6025
+  },
+  {
+    "item_no": "9425",
+    "description": "3C3E25 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 1.5045
+  },
+  {
+    "item_no": "9425XCTPV",
+    "description": "3C3E25 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "weight_per_meter": 0.9587
+  },
+  {
+    "item_no": "9435",
+    "description": "3C3E35 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 1.8979
+  },
+  {
+    "item_no": "9435XCTPV",
+    "description": "3C3E35 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "weight_per_meter": 1.2357
+  },
+  {
+    "item_no": "9450",
+    "description": "3C3E50 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 2.6726
+  },
+  {
+    "item_no": "9450XCTPV",
+    "description": "3C3E50 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "weight_per_meter": 1.6601
+  },
+  {
+    "item_no": "9470",
+    "description": "3C3E70 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 3.4847
+  },
+  {
+    "item_no": "9470XCTPV",
+    "description": "3C3E70 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "weight_per_meter": 2.1805
+  },
+  {
+    "item_no": "9495",
+    "description": "3C3E95 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "weight_per_meter": 4.5186
+  },
+  {
+    "item_no": "9495XCTPV",
+    "description": "3C3E95 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "weight_per_meter": 6.6025
+  },
+  {
+    "item_no": "9510",
+    "description": "4C+E 1.0 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1059
+  },
+  {
+    "item_no": "9515",
+    "description": "4C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1311
+  },
+  {
+    "item_no": "9525",
+    "description": "4C+E 2.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.2057
+  },
+  {
+    "item_no": "9550",
+    "description": "4C+E 0.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0663
+  },
+  {
+    "item_no": "9575",
+    "description": "4C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0847
+  },
+  {
+    "item_no": "95E",
+    "description": "1C95 Bare Copper Earth Wire",
+    "weight_per_meter": 0.852
+  },
+  {
+    "item_no": "95EHD",
+    "description": "1C95 Bare Copper Earth Hard Drawn",
+    "weight_per_meter": 0.852
+  },
+  {
+    "item_no": "9710",
+    "description": "6C+E 1.0 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1335
+  },
+  {
+    "item_no": "9715",
+    "description": "6C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1672
+  },
+  {
+    "item_no": "9750",
+    "description": "6C+E 0.5 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.0828
+  },
+  {
+    "item_no": "9775",
+    "description": "6C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "weight_per_meter": 0.1103
+  },
+  {
+    "item_no": "E2V10",
+    "description": "1C10 BC/PVC  Earth Wire Cable",
+    "weight_per_meter": 0.1112
+  },
+  {
+    "item_no": "E2V120",
+    "description": "1C120 BC/PVC  Earth Wire Cable",
+    "weight_per_meter": 1.1608
+  },
+  {
+    "item_no": "E2V150",
+    "description": "1C150 BC/PVC  Earth Wire Cable",
+    "weight_per_meter": 1.4522
+  },
+  {
+    "item_no": "E2V16",
+    "description": "1C16 BC/PVC  Earth Wire Cable",
+    "weight_per_meter": 0.1684
+  },
+  {
+    "item_no": "E2V25",
+    "description": "1C25 BC/PVC  Earth Wire Cable",
+    "weight_per_meter": 0.2608
+  },
+  {
+    "item_no": "E2V35",
+    "description": "1C35 BC/PVC  Earth Wire Cable",
+    "weight_per_meter": 0.3539
+  },
+  {
+    "item_no": "E2V4",
+    "description": "1C4 BC/PVC  Earth Wire Cable",
+    "weight_per_meter": 0.052
+  },
+  {
+    "item_no": "E2V50",
+    "description": "1C50 BC/PVC  Earth Wire Cable",
+    "weight_per_meter": 0.5028
+  },
+  {
+    "item_no": "E2V6",
+    "description": "1C6 BC/PVC  Earth Wire Cable",
+    "weight_per_meter": 0.0729
+  },
+  {
+    "item_no": "E2V70",
+    "description": "1C70 BC/PVC  Earth Wire Cable",
+    "weight_per_meter": 0.6889
+  },
+  {
+    "item_no": "E2V95",
+    "description": "1C95 BC/PVC  Earth Wire Cable",
+    "weight_per_meter": 0.9319
+  },
+  {
+    "item_no": "E5V10",
+    "description": "1C10 BCCL5/PVC FLEXILBE Earth G/Y",
+    "weight_per_meter": 0.111
+  },
+  {
+    "item_no": "E5V16",
+    "description": "1C16 BCCL5/PVC FLEXILBE Earth G/Y",
+    "weight_per_meter": 0.168
+  },
+  {
+    "item_no": "E5V25",
+    "description": "1C25 BCCL5/PVC FLEXILBE Earth G/Y",
+    "weight_per_meter": 0.261
+  },
+  {
+    "item_no": "E5V35",
+    "description": "1C35 BCCL5/PVC FLEXILBE Earth G/Y",
+    "weight_per_meter": 0.354
+  },
+  {
+    "item_no": "E5V4",
+    "description": "1C4 BCCL5/PVC FLEXILBE Earth G/Y",
+    "weight_per_meter": 0.052
+  },
+  {
+    "item_no": "E5V6",
+    "description": "1C6 BCCL5/PVC FLEXILBE Earth G/Y",
+    "weight_per_meter": 0.073
+  },
+  {
+    "item_no": "AL120",
+    "description": "1C 120mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 0.496
+  },
+  {
+    "item_no": "AL120X2H2",
+    "description": "1C 120mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "weight_per_meter": 0.59
+  },
+  {
+    "item_no": "AL150",
+    "description": "1C 150mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 0.616
+  },
+  {
+    "item_no": "AL150X2H2",
+    "description": "1C 150mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "weight_per_meter": 0.725
+  },
+  {
+    "item_no": "AL185",
+    "description": "1C 185mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 0.754
+  },
+  {
+    "item_no": "AL185X2H2",
+    "description": "1C 185mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "weight_per_meter": 0.883
+  },
+  {
+    "item_no": "AL240",
+    "description": "1C 240mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 0.948
+  },
+  {
+    "item_no": "AL240X2H2",
+    "description": "1C 240mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "weight_per_meter": 1.094
+  },
+  {
+    "item_no": "AL300",
+    "description": "1C 300mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 1.148
+  },
+  {
+    "item_no": "AL300X2H2",
+    "description": "1C 300mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "weight_per_meter": 1.33
+  },
+  {
+    "item_no": "AL35",
+    "description": "1C 35mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 0.18
+  },
+  {
+    "item_no": "AL400",
+    "description": "1C 400mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 1.502
+  },
+  {
+    "item_no": "AL400X2H2",
+    "description": "1C 400mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "weight_per_meter": 1.737
+  },
+  {
+    "item_no": "AL50",
+    "description": "1C 50mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 0.242
+  },
+  {
+    "item_no": "AL50X2H2",
+    "description": "1C 50mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "weight_per_meter": 0.289
+  },
+  {
+    "item_no": "AL70",
+    "description": "1C 70mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 0.318
+  },
+  {
+    "item_no": "AL70X2H2",
+    "description": "1C 70mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "weight_per_meter": 0.386
+  },
+  {
+    "item_no": "AL95",
+    "description": "1C 95mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 0.408
+  },
+  {
+    "item_no": "AL95X2H2",
+    "description": "1C 95mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "weight_per_meter": 0.477
+  },
+  {
+    "item_no": "E5V120",
+    "description": "1C 120mm2 BC Cl5/PVC V90 Flexible Earth G/Y",
+    "weight_per_meter": 1.182
+  },
+  {
+    "item_no": "E5V50",
+    "description": "1C 50mm2 BC Cl5/PVC V90 Flexible Earth G/Y",
+    "weight_per_meter": 0.52
+  },
+  {
+    "item_no": "E5V70",
+    "description": "1C 70mm2 BC Cl5/PVC V90 Flexible Earth G/Y",
+    "weight_per_meter": 0.705
+  },
+  {
+    "item_no": "E5V95",
+    "description": "1C 95mm2 BC Cl5/PVC V90 Flexible Earth G/Y",
+    "weight_per_meter": 0.95
+  },
+  {
+    "item_no": "1031UA-OR",
+    "description": "2C+E 1.5mm2 BC Cl2/PVC/PVC V90 1KV ORG CTRL",
+    "weight_per_meter": 0.16
+  },
+  {
+    "item_no": 1126,
+    "description": "Sig. Mic.:12x16/0.20mm (0.5mm2) TC",
+    "weight_per_meter": 0.13
+  },
+  {
+    "item_no": 1186,
+    "description": "Sig. Mic.:18x16/0.20mm (0.5mm2) TC",
+    "weight_per_meter": 0.19
+  },
+  {
+    "item_no": "1215-21",
+    "description": "11C+E 1.5mm2 BC Cl5/PVC/PVC V75 300/500V Black",
+    "weight_per_meter": 0.27
+  },
+  {
+    "item_no": 1256,
+    "description": "Sig. Mic.:25x16/0.20mm (0.5mm2) TC",
+    "weight_per_meter": 0.26
+  },
+  {
+    "item_no": 1447,
+    "description": "Sig. Mic.:4 x 7/0.20mm (0.2mm2) TC",
+    "weight_per_meter": 0.01
+  },
+  {
+    "item_no": 1467,
+    "description": "Sig. Mic.:6 x 7/0.20mm (0.2mm2) TC",
+    "weight_per_meter": 0.01
+  },
+  {
+    "item_no": "4015ERBC",
+    "description": "3C+E 1.5mm2 BC Cl5/EPR/CPE 1KV",
+    "weight_per_meter": 0.2134
+  },
+  {
+    "item_no": "4060ERBC",
+    "description": "3C+E 6mm2 BC Cl5/EPR/CPE 1KV",
+    "weight_per_meter": 0.483
+  },
+  {
+    "item_no": "4096-1C35",
+    "description": "1C 35MM2 TC CL6/EPR/TCB/CR 6.6/6.6kV RED",
+    "weight_per_meter": 0.55
+  },
+  {
+    "item_no": "4096-1C35E",
+    "description": "1C 35MM2 TC CL6/EPR/TCB/CR 6.6/6.6kV EARTH",
+    "weight_per_meter": 0.55
+  },
+  {
+    "item_no": "4096-1C70",
+    "description": "1C 70MM2 TC CL6/EPR/TCB/CR 6.6/6.6kV RED",
+    "weight_per_meter": 1.0
+  },
+  {
+    "item_no": "4100ERBC",
+    "description": "3C+E 10mm2 BC Cl5/EPR/CPE 1KV",
+    "weight_per_meter": 0.9217
+  },
+  {
+    "item_no": "4160ERBC",
+    "description": "3C+E 16mm2 BC Cl5/EPR/CPE 1KV",
+    "weight_per_meter": 1.2727
+  },
+  {
+    "item_no": "4250ERBC",
+    "description": "3C+E 25mm2 BC Cl5/EPR/CPE 1KV",
+    "weight_per_meter": 1.8586
+  },
+  {
+    "item_no": 4915,
+    "description": "MachineCable:Type1 2C1.5mm2 PVC V90",
+    "weight_per_meter": 0.05
+  },
+  {
+    "item_no": 6615,
+    "description": "Silicone: 2 x 1.50mm2 180TC Black",
+    "weight_per_meter": 0.08
+  },
+  {
+    "item_no": 6810,
+    "description": "2C 1.0mm2 TC CL5/Silicone Rubber/Silicone Rubber 300/500V Black",
+    "weight_per_meter": 0.06
+  },
+  {
+    "item_no": 6825,
+    "description": "2C+E 2.5mm2 TC CL5/Silicone Rubber/Silicone Rubber 300/500V Black",
+    "weight_per_meter": 0.17
+  },
+  {
+    "item_no": "7812X2H2-OR",
+    "description": "1C 120MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 1.24079127139968
+  },
+  {
+    "item_no": "7812XT",
+    "description": "1C 120mm2 BC Cl5/XLPE/TPE X90 1KV BLACK Flexible",
+    "weight_per_meter": 1.248
+  },
+  {
+    "item_no": "7815X2H2-OR",
+    "description": "1C 150MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 1.59728688756252
+  },
+  {
+    "item_no": "7815XT",
+    "description": "1C 150mm2 BC Cl5/XLPE/TPE X90 1KV BLACK Flexible",
+    "weight_per_meter": 1.552
+  },
+  {
+    "item_no": "7816X2H2-OR",
+    "description": "1C 16MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 0.20401676064
+  },
+  {
+    "item_no": "7818X2H2-OR",
+    "description": "1C 185MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 1.96156001193075
+  },
+  {
+    "item_no": "7824X2H2-OR",
+    "description": "1C 240MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 2.51875119461427
+  },
+  {
+    "item_no": "7825X2H2-OR",
+    "description": "1C 25MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 0.30436260624
+  },
+  {
+    "item_no": "7830X2H2-OR",
+    "description": "1C 300MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 3.11076194369787
+  },
+  {
+    "item_no": "7830XT",
+    "description": "1C 300mm2 BC Cl5/XLPE/TPE X90 1KV BLACK Flexible",
+    "weight_per_meter": 3.01
+  },
+  {
+    "item_no": "7835X2H2-OR",
+    "description": "1C 35MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 0.40812148608
+  },
+  {
+    "item_no": "7840X2H2-OR",
+    "description": "1C 400MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 4.09520765228652
+  },
+  {
+    "item_no": "7850X2H2-OR",
+    "description": "1C 50MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 0.56282517984
+  },
+  {
+    "item_no": "7863XT-OR",
+    "description": "1C 630mm2 BC Cl5/XLPE/TPE X90 1KV ORG Flexible",
+    "weight_per_meter": 6.3
+  },
+  {
+    "item_no": "7870X2H2-OR",
+    "description": "1C 70MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 0.75131597169552
+  },
+  {
+    "item_no": "7895X2H2-OR",
+    "description": "1C 95MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "weight_per_meter": 0.97630486515408
+  },
+  {
+    "item_no": "7895XT",
+    "description": "1C 95mm2 BC Cl5/XLPE/TPE X90 1KV BLACK Flexible",
+    "weight_per_meter": 0.995
+  },
+  {
+    "item_no": "AL4C16E16XV9",
+    "description": "4C 16mm2 + E 16mm2 Flexible AL/XLPE X-90/PVC 5V-90 1kV ORG",
+    "weight_per_meter": 0.46108509216
+  },
+  {
+    "item_no": "AL4C25E25XV9",
+    "description": "4C 25mm2 + E 25mm2 Flexible AL/XLPE X-90/PVC 5V-90 1kV ORG",
+    "weight_per_meter": 0.67399101
+  },
+  {
+    "item_no": "AL4C35E35XV9",
+    "description": "4C 35mm2 + E 35mm2 Flexible AL/XLPE X-90/PVC 5V-90 1kV ORG",
+    "weight_per_meter": 0.8709080688
+  },
+  {
+    "item_no": "AL4C50E50XV9",
+    "description": "4C 50mm2 + E 50mm2 Flexible AL/XLPE X-90/PVC 5V-90 1kV ORG",
+    "weight_per_meter": 1.197645421203
+  },
+  {
+    "item_no": "AL4C70E70XV9",
+    "description": "4C 70mm2 + E 70mm2 Flexible AL/XLPE X-90/PVC 5V-90 1kV ORG",
+    "weight_per_meter": 1.56958302941674
+  },
+  {
+    "item_no": "DCR7812",
+    "description": "1C 120mm2 BC CL6/TPE/TPU 0.6/1kV",
+    "weight_per_meter": 1.54
+  },
+  {
+    "item_no": "EAL120V2",
+    "description": "1C 120mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 0.447
+  },
+  {
+    "item_no": "EAL150V2",
+    "description": "1C 150mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 0.556
+  },
+  {
+    "item_no": "EAL16V2",
+    "description": "1C 16mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 0.077
+  },
+  {
+    "item_no": "EAL185V2",
+    "description": "1C 185mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 0.688
+  },
+  {
+    "item_no": "EAL240V2",
+    "description": "1C 240mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 0.886
+  },
+  {
+    "item_no": "EAL25V2",
+    "description": "1C 25mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 0.115
+  },
+  {
+    "item_no": "EAL300V2",
+    "description": "1C 300mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 1.098
+  },
+  {
+    "item_no": "EAL35V2",
+    "description": "1C 35mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 0.15
+  },
+  {
+    "item_no": "EAL400V2",
+    "description": "1C 400mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 1.386
+  },
+  {
+    "item_no": "EAL50V2",
+    "description": "1C 50mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 0.207
+  },
+  {
+    "item_no": "EAL70V2",
+    "description": "1C 70mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 0.273
+  },
+  {
+    "item_no": "EAL95V2",
+    "description": "1C 95mm2 AL Flex AL/PVC V90HT EARTH",
+    "weight_per_meter": 0.37
+  },
+  {
+    "item_no": "SM1516UAX2H2-OR",
+    "description": "4C+E 16mm2 BC Cl2/XHF-110/HFS-110-TP 1KV O/C",
+    "weight_per_meter": 0.88
+  },
+  {
+    "item_no": "SM1516UAX2H25-OR",
+    "description": "4C+E 16mm2 BC CL5/XHF-110/HFS-110-TP 0.6/1kV O/C",
+    "weight_per_meter": 0.878
+  },
+  {
+    "item_no": "SM1525UAX2H25-OR",
+    "description": "4C+E 25mm2 BC CL5/XHF-110/HFS-110-TP 0.6/1kV O/C",
+    "weight_per_meter": 1.265
+  },
+  {
+    "item_no": "SM1535UAX2H25-OR",
+    "description": "4C+E 35mm2 BC CL5/XHF-110/HFS-110-TP 0.6/1kV O/C",
+    "weight_per_meter": 1.7
+  },
+  {
+    "item_no": "SMAL500-BLK",
+    "description": "1C 500mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 1.863
+  },
+  {
+    "item_no": "SMAL500X2H29-BK",
+    "description": "1C 500mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "weight_per_meter": 2.236
+  },
+  {
+    "item_no": "SMAL630-BLK",
+    "description": "1C 630mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "weight_per_meter": 2.296
+  },
+  {
+    "item_no": "SMAL630X2H29-BK",
+    "description": "1C 630mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "weight_per_meter": 2.906
+  }
+]

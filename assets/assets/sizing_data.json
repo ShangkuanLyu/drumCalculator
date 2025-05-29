@@ -1,0 +1,6095 @@
+[
+  {
+    "#": 1,
+    "item_no": 1004,
+    "description": "3C+E 4 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 19.425,
+    "multiplying": 12,
+    "min_bending_radius": 233.1,
+    "min_barrel_diameter": 372.96
+  },
+  {
+    "#": 2,
+    "item_no": "1004UA",
+    "description": "3C+E 4 BC/PVC/PVC 1KV O/C",
+    "od": 14.7,
+    "multiplying": 6,
+    "min_bending_radius": 88.2,
+    "min_barrel_diameter": 141.12
+  },
+  {
+    "#": 3,
+    "item_no": "1004UA-47",
+    "description": "3C+E 4 BC/PVC/PVC 450/750V O/C",
+    "od": 12.81,
+    "multiplying": 6,
+    "min_bending_radius": 76.86,
+    "min_barrel_diameter": 122.976
+  },
+  {
+    "#": 4,
+    "item_no": 1006,
+    "description": "3C+E 6 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 20.895,
+    "multiplying": 12,
+    "min_bending_radius": 250.74,
+    "min_barrel_diameter": 401.184
+  },
+  {
+    "#": 5,
+    "item_no": "1006UA",
+    "description": "3C+E 6 BC/PVC/PVC 1KV O/C",
+    "od": 15.855,
+    "multiplying": 6,
+    "min_bending_radius": 95.13,
+    "min_barrel_diameter": 152.208
+  },
+  {
+    "#": 6,
+    "item_no": "1006UA-47",
+    "description": "3C+E 6 BC/PVC/PVC 450/750V O/C",
+    "od": 14.07,
+    "multiplying": 6,
+    "min_bending_radius": 84.42,
+    "min_barrel_diameter": 135.072
+  },
+  {
+    "#": 7,
+    "item_no": 1010,
+    "description": "3C+E 10 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 22.785,
+    "multiplying": 12,
+    "min_bending_radius": 273.42,
+    "min_barrel_diameter": 437.472
+  },
+  {
+    "#": 8,
+    "item_no": "1010UA",
+    "description": "3C+E 10 BC/PVC/PVC 1KV O/C",
+    "od": 17.745,
+    "multiplying": 6,
+    "min_bending_radius": 106.47,
+    "min_barrel_diameter": 170.352
+  },
+  {
+    "#": 9,
+    "item_no": 1015,
+    "description": "3C+E 1.5 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 15.54,
+    "multiplying": 12,
+    "min_bending_radius": 186.48,
+    "min_barrel_diameter": 298.368
+  },
+  {
+    "#": 10,
+    "item_no": "1015UA",
+    "description": "3C+E 1.5 BC/PVC/PVC 1KV O/C",
+    "od": 11.76,
+    "multiplying": 6,
+    "min_bending_radius": 70.56,
+    "min_barrel_diameter": 112.896
+  },
+  {
+    "#": 11,
+    "item_no": "1015UA-47",
+    "description": "3C+E 1.5 BC/PVC/PVC 450/750V O/C",
+    "od": 9.555,
+    "multiplying": 6,
+    "min_bending_radius": 57.33,
+    "min_barrel_diameter": 91.728
+  },
+  {
+    "#": 12,
+    "item_no": 1016,
+    "description": "3C+E 16 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 25.2,
+    "multiplying": 12,
+    "min_bending_radius": 302.4,
+    "min_barrel_diameter": 483.84
+  },
+  {
+    "#": 13,
+    "item_no": "1016UA",
+    "description": "3C+E 16 BC/XLPE/PVC 1KV O/C",
+    "od": 19.11,
+    "multiplying": 8,
+    "min_bending_radius": 152.88,
+    "min_barrel_diameter": 244.608
+  },
+  {
+    "#": 14,
+    "item_no": 1025,
+    "description": "3C+E 2.5 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 17.64,
+    "multiplying": 12,
+    "min_bending_radius": 211.68,
+    "min_barrel_diameter": 338.688
+  },
+  {
+    "#": 15,
+    "item_no": "1025UA",
+    "description": "3C+E 2.5 BC/PVC/PVC 1KV O/C",
+    "od": 12.915,
+    "multiplying": 6,
+    "min_bending_radius": 77.49,
+    "min_barrel_diameter": 123.984
+  },
+  {
+    "#": 16,
+    "item_no": "1025UA-47",
+    "description": "3C+E 2.5 BC/PVC/PVC 450/750V O/C",
+    "od": 11.445,
+    "multiplying": 6,
+    "min_bending_radius": 68.67,
+    "min_barrel_diameter": 109.872
+  },
+  {
+    "#": 17,
+    "item_no": 1031,
+    "description": "2C+E 1.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 14.5,
+    "multiplying": 12,
+    "min_bending_radius": 174.0,
+    "min_barrel_diameter": 278.4
+  },
+  {
+    "#": 18,
+    "item_no": "1031UA",
+    "description": "2C+E 1.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 10.9,
+    "multiplying": 6,
+    "min_bending_radius": 65.4,
+    "min_barrel_diameter": 104.64
+  },
+  {
+    "#": 19,
+    "item_no": 1032,
+    "description": "2C+E 2.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 15.6,
+    "multiplying": 12,
+    "min_bending_radius": 187.2,
+    "min_barrel_diameter": 299.52
+  },
+  {
+    "#": 20,
+    "item_no": "1032UA",
+    "description": "2C+E 2.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 12.0,
+    "multiplying": 6,
+    "min_bending_radius": 72.0,
+    "min_barrel_diameter": 115.2
+  },
+  {
+    "#": 21,
+    "item_no": 1035,
+    "description": "3C+E 35 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 30.555,
+    "multiplying": 12,
+    "min_bending_radius": 366.66,
+    "min_barrel_diameter": 586.656
+  },
+  {
+    "#": 22,
+    "item_no": "1035UA",
+    "description": "3C+E 35 BC/XLPE/PVC 1KV O/C",
+    "od": 24.465,
+    "multiplying": 8,
+    "min_bending_radius": 195.72,
+    "min_barrel_diameter": 313.152
+  },
+  {
+    "#": 23,
+    "item_no": 1041,
+    "description": "3C+E 1.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 15.3,
+    "multiplying": 12,
+    "min_bending_radius": 183.6,
+    "min_barrel_diameter": 293.76
+  },
+  {
+    "#": 24,
+    "item_no": 1042,
+    "description": "3C+E 2.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 16.5,
+    "multiplying": 12,
+    "min_bending_radius": 198.0,
+    "min_barrel_diameter": 316.8
+  },
+  {
+    "#": 25,
+    "item_no": 1050,
+    "description": "3C+E 50 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 34.44,
+    "multiplying": 12,
+    "min_bending_radius": 413.28,
+    "min_barrel_diameter": 661.248
+  },
+  {
+    "#": 26,
+    "item_no": "1050UA",
+    "description": "3C+E 50 BC/XLPE/PVC 1KV O/C",
+    "od": 28.14,
+    "multiplying": 8,
+    "min_bending_radius": 225.12,
+    "min_barrel_diameter": 360.192
+  },
+  {
+    "#": 27,
+    "item_no": 1051,
+    "description": "4C+E 1.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 16.2,
+    "multiplying": 12,
+    "min_bending_radius": 194.4,
+    "min_barrel_diameter": 311.04
+  },
+  {
+    "#": 28,
+    "item_no": "1051UA",
+    "description": "4C+E 1.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 12.6,
+    "multiplying": 6,
+    "min_bending_radius": 75.6,
+    "min_barrel_diameter": 120.96
+  },
+  {
+    "#": 29,
+    "item_no": 1052,
+    "description": "4C+E 2.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 18.5,
+    "multiplying": 12,
+    "min_bending_radius": 222.0,
+    "min_barrel_diameter": 355.2
+  },
+  {
+    "#": 30,
+    "item_no": "1052UA",
+    "description": "4C+E 2.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 14.0,
+    "multiplying": 6,
+    "min_bending_radius": 84.0,
+    "min_barrel_diameter": 134.4
+  },
+  {
+    "#": 31,
+    "item_no": 1070,
+    "description": "3C+E 70 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 40.845,
+    "multiplying": 12,
+    "min_bending_radius": 490.14,
+    "min_barrel_diameter": 784.224
+  },
+  {
+    "#": 32,
+    "item_no": "1070UA",
+    "description": "3C+E 70 BC/XLPE/PVC 1KV O/C",
+    "od": 33.075,
+    "multiplying": 8,
+    "min_bending_radius": 264.6,
+    "min_barrel_diameter": 423.36
+  },
+  {
+    "#": 33,
+    "item_no": 1095,
+    "description": "3C+E 95 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 44.1,
+    "multiplying": 12,
+    "min_bending_radius": 529.2,
+    "min_barrel_diameter": 846.72
+  },
+  {
+    "#": 34,
+    "item_no": "1095UA",
+    "description": "3C+E 95 BC/XLPE/PVC 1KV O/C",
+    "od": 36.33,
+    "multiplying": 8,
+    "min_bending_radius": 290.64,
+    "min_barrel_diameter": 465.024
+  },
+  {
+    "#": 35,
+    "item_no": 1111,
+    "description": "10C+E 1.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 22.3,
+    "multiplying": 12,
+    "min_bending_radius": 267.6,
+    "min_barrel_diameter": 428.16
+  },
+  {
+    "#": 36,
+    "item_no": "1111UA",
+    "description": "10C+E 1.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 17.3,
+    "multiplying": 6,
+    "min_bending_radius": 103.8,
+    "min_barrel_diameter": 166.08
+  },
+  {
+    "#": 37,
+    "item_no": 1112,
+    "description": "10C+E 2.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 24.4,
+    "multiplying": 12,
+    "min_bending_radius": 292.8,
+    "min_barrel_diameter": 468.48
+  },
+  {
+    "#": 38,
+    "item_no": "1112UA",
+    "description": "10C+E 2.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 19.4,
+    "multiplying": 6,
+    "min_bending_radius": 116.4,
+    "min_barrel_diameter": 186.24
+  },
+  {
+    "#": 39,
+    "item_no": 1120,
+    "description": "3C+E 120 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 49.665,
+    "multiplying": 12,
+    "min_bending_radius": 595.98,
+    "min_barrel_diameter": 953.568
+  },
+  {
+    "#": 40,
+    "item_no": "1120UA",
+    "description": "3C+E 120 BC/XLPE/PVC 1KV O/C",
+    "od": 40.425,
+    "multiplying": 8,
+    "min_bending_radius": 323.4,
+    "min_barrel_diameter": 517.44
+  },
+  {
+    "#": 41,
+    "item_no": 1125,
+    "description": "3C+E 25 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 28.245,
+    "multiplying": 12,
+    "min_bending_radius": 338.94,
+    "min_barrel_diameter": 542.304
+  },
+  {
+    "#": 42,
+    "item_no": "1125UA",
+    "description": "3C+E 25 BC/XLPE/PVC 1KV O/C",
+    "od": 22.155,
+    "multiplying": 8,
+    "min_bending_radius": 177.24,
+    "min_barrel_diameter": 283.584
+  },
+  {
+    "#": 43,
+    "item_no": 1131,
+    "description": "12C+E 1.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 23.1,
+    "multiplying": 12,
+    "min_bending_radius": 277.2,
+    "min_barrel_diameter": 443.52
+  },
+  {
+    "#": 44,
+    "item_no": "1131UA",
+    "description": "12C+E 1.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 18.1,
+    "multiplying": 6,
+    "min_bending_radius": 108.6,
+    "min_barrel_diameter": 173.76
+  },
+  {
+    "#": 45,
+    "item_no": 1132,
+    "description": "12C+E 2.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 26.4,
+    "multiplying": 12,
+    "min_bending_radius": 316.8,
+    "min_barrel_diameter": 506.88
+  },
+  {
+    "#": 46,
+    "item_no": "1132UA",
+    "description": "12C+E 2.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 20.3,
+    "multiplying": 6,
+    "min_bending_radius": 121.8,
+    "min_barrel_diameter": 194.88
+  },
+  {
+    "#": 47,
+    "item_no": 1161,
+    "description": "15C+E 1.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 24.0,
+    "multiplying": 12,
+    "min_bending_radius": 288.0,
+    "min_barrel_diameter": 460.8
+  },
+  {
+    "#": 48,
+    "item_no": "1161UA",
+    "description": "15C+E 1.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 19.0,
+    "multiplying": 6,
+    "min_bending_radius": 114.0,
+    "min_barrel_diameter": 182.4
+  },
+  {
+    "#": 49,
+    "item_no": 1162,
+    "description": "15C+E 2.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 27.4,
+    "multiplying": 12,
+    "min_bending_radius": 328.8,
+    "min_barrel_diameter": 526.08
+  },
+  {
+    "#": 50,
+    "item_no": "1162UA",
+    "description": "15C+E 2.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 21.9,
+    "multiplying": 6,
+    "min_bending_radius": 131.4,
+    "min_barrel_diameter": 210.24
+  },
+  {
+    "#": 51,
+    "item_no": "120E",
+    "description": "1C120 Bare Copper Earth Wire",
+    "od": 14.91,
+    "multiplying": 8,
+    "min_bending_radius": 119.28,
+    "min_barrel_diameter": 190.848
+  },
+  {
+    "#": 52,
+    "item_no": 1210,
+    "description": "11C+E 1 BCCL5/PVC/PVC V75 500V",
+    "od": 11.445,
+    "multiplying": 5,
+    "min_bending_radius": 57.225,
+    "min_barrel_diameter": 91.56
+  },
+  {
+    "#": 53,
+    "item_no": 1211,
+    "description": "20C+E 1.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 27.0,
+    "multiplying": 12,
+    "min_bending_radius": 324.0,
+    "min_barrel_diameter": 518.4
+  },
+  {
+    "#": 54,
+    "item_no": "1211UA",
+    "description": "20C+E 1.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 21.4,
+    "multiplying": 6,
+    "min_bending_radius": 128.4,
+    "min_barrel_diameter": 205.44
+  },
+  {
+    "#": 55,
+    "item_no": 1212,
+    "description": "20C+E 2.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 29.7,
+    "multiplying": 12,
+    "min_bending_radius": 356.4,
+    "min_barrel_diameter": 570.24
+  },
+  {
+    "#": 56,
+    "item_no": "1212UA",
+    "description": "20C+E 2.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 24.2,
+    "multiplying": 6,
+    "min_bending_radius": 145.2,
+    "min_barrel_diameter": 232.32
+  },
+  {
+    "#": 57,
+    "item_no": 1215,
+    "description": "11C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "od": 12.6,
+    "multiplying": 5,
+    "min_bending_radius": 63.0,
+    "min_barrel_diameter": 100.8
+  },
+  {
+    "#": 58,
+    "item_no": 1250,
+    "description": "11C+E 0.5 BCCL5/PVC/PVC V75 500V",
+    "od": 9.555,
+    "multiplying": 5,
+    "min_bending_radius": 47.775,
+    "min_barrel_diameter": 76.44
+  },
+  {
+    "#": 59,
+    "item_no": 1261,
+    "description": "25C+E 1.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 29.6,
+    "multiplying": 12,
+    "min_bending_radius": 355.2,
+    "min_barrel_diameter": 568.32
+  },
+  {
+    "#": 60,
+    "item_no": "1261UA",
+    "description": "25C+E 1.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 24.1,
+    "multiplying": 6,
+    "min_bending_radius": 144.6,
+    "min_barrel_diameter": 231.36
+  },
+  {
+    "#": 61,
+    "item_no": "1262UA",
+    "description": "25C+E 2.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 27.4,
+    "multiplying": 6,
+    "min_bending_radius": 164.4,
+    "min_barrel_diameter": 263.04
+  },
+  {
+    "#": 62,
+    "item_no": 1275,
+    "description": "11C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "od": 10.815,
+    "multiplying": 5,
+    "min_bending_radius": 54.075,
+    "min_barrel_diameter": 86.52
+  },
+  {
+    "#": 63,
+    "item_no": 1301,
+    "description": "2C+E 1.5 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 14.7,
+    "multiplying": 12,
+    "min_bending_radius": 176.4,
+    "min_barrel_diameter": 282.24
+  },
+  {
+    "#": 64,
+    "item_no": "1301UA",
+    "description": "2C+E 1.5 BC/PVC/PVC 1KV O/C",
+    "od": 11.025,
+    "multiplying": 6,
+    "min_bending_radius": 66.15,
+    "min_barrel_diameter": 105.84
+  },
+  {
+    "#": 65,
+    "item_no": "1301UA-47",
+    "description": "2C+E 1.5 BC/PVC/PVC 450/750V O/C",
+    "od": 8.82,
+    "multiplying": 6,
+    "min_bending_radius": 52.92,
+    "min_barrel_diameter": 84.672
+  },
+  {
+    "#": 66,
+    "item_no": 1302,
+    "description": "2C+E 2.5 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 15.75,
+    "multiplying": 12,
+    "min_bending_radius": 189.0,
+    "min_barrel_diameter": 302.4
+  },
+  {
+    "#": 67,
+    "item_no": "1302UA",
+    "description": "2C+E 2.5 BC/PVC/PVC 1KV O/C",
+    "od": 12.075,
+    "multiplying": 6,
+    "min_bending_radius": 72.45,
+    "min_barrel_diameter": 115.92
+  },
+  {
+    "#": 68,
+    "item_no": "1302UA-47",
+    "description": "2C+E 2.5 BC/PVC/PVC 450/750V O/C",
+    "od": 10.5,
+    "multiplying": 6,
+    "min_bending_radius": 63.0,
+    "min_barrel_diameter": 100.8
+  },
+  {
+    "#": 69,
+    "item_no": 1304,
+    "description": "2C+E 4 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 17.22,
+    "multiplying": 12,
+    "min_bending_radius": 206.64,
+    "min_barrel_diameter": 330.624
+  },
+  {
+    "#": 70,
+    "item_no": "1304UA",
+    "description": "2C+E 4 BC/PVC/PVC 1KV O/C",
+    "od": 13.545,
+    "multiplying": 6,
+    "min_bending_radius": 81.27,
+    "min_barrel_diameter": 130.032
+  },
+  {
+    "#": 71,
+    "item_no": "1304UA-47",
+    "description": "2C+E 4 BC/PVC/PVC 450/750V O/C",
+    "od": 11.55,
+    "multiplying": 6,
+    "min_bending_radius": 69.3,
+    "min_barrel_diameter": 110.88
+  },
+  {
+    "#": 72,
+    "item_no": 1306,
+    "description": "2C+E 6 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 19.32,
+    "multiplying": 12,
+    "min_bending_radius": 231.84,
+    "min_barrel_diameter": 370.944
+  },
+  {
+    "#": 73,
+    "item_no": "1306UA",
+    "description": "2C+E 6 BC/PVC/PVC 1KV O/C",
+    "od": 14.7,
+    "multiplying": 6,
+    "min_bending_radius": 88.2,
+    "min_barrel_diameter": 141.12
+  },
+  {
+    "#": 74,
+    "item_no": "1306UA-47",
+    "description": "2C+E 6 BC/PVC/PVC 450/750V O/C",
+    "od": 12.495,
+    "multiplying": 6,
+    "min_bending_radius": 74.97,
+    "min_barrel_diameter": 119.952
+  },
+  {
+    "#": 75,
+    "item_no": 1310,
+    "description": "2C+E 10 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 21.21,
+    "multiplying": 12,
+    "min_bending_radius": 254.52,
+    "min_barrel_diameter": 407.232
+  },
+  {
+    "#": 76,
+    "item_no": "1310UA",
+    "description": "2C+E 10 BC/PVC/PVC 1KV O/C",
+    "od": 16.275,
+    "multiplying": 6,
+    "min_bending_radius": 97.65,
+    "min_barrel_diameter": 156.24
+  },
+  {
+    "#": 77,
+    "item_no": "1311UA",
+    "description": "30C+E 1.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 25.8,
+    "multiplying": 6,
+    "min_bending_radius": 154.8,
+    "min_barrel_diameter": 247.68
+  },
+  {
+    "#": 78,
+    "item_no": "1312UA",
+    "description": "30C+E 2.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 29.4,
+    "multiplying": 6,
+    "min_bending_radius": 176.4,
+    "min_barrel_diameter": 282.24
+  },
+  {
+    "#": 79,
+    "item_no": 1316,
+    "description": "2C+E 16 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 23.1,
+    "multiplying": 12,
+    "min_bending_radius": 277.2,
+    "min_barrel_diameter": 443.52
+  },
+  {
+    "#": 80,
+    "item_no": "1316UA",
+    "description": "2C+E 16 BC/XLPE/PVC 1KV O/C",
+    "od": 17.745,
+    "multiplying": 8,
+    "min_bending_radius": 141.96,
+    "min_barrel_diameter": 227.136
+  },
+  {
+    "#": 81,
+    "item_no": 1325,
+    "description": "2C+E 25 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 25.62,
+    "multiplying": 12,
+    "min_bending_radius": 307.44,
+    "min_barrel_diameter": 491.904
+  },
+  {
+    "#": 82,
+    "item_no": "1325UA",
+    "description": "2C+E 25 BC/XLPE/PVC 1KV O/C",
+    "od": 20.79,
+    "multiplying": 8,
+    "min_bending_radius": 166.32,
+    "min_barrel_diameter": 266.112
+  },
+  {
+    "#": 83,
+    "item_no": "1335UA",
+    "description": "2C+E 35 BC/XLPE/PVC 1KV O/C",
+    "od": 22.89,
+    "multiplying": 8,
+    "min_bending_radius": 183.12,
+    "min_barrel_diameter": 292.992
+  },
+  {
+    "#": 84,
+    "item_no": 1350,
+    "description": "2C+E 50 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 32.34,
+    "multiplying": 12,
+    "min_bending_radius": 388.08,
+    "min_barrel_diameter": 620.928
+  },
+  {
+    "#": 85,
+    "item_no": 1502,
+    "description": "4C+E 2.5 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 17.745,
+    "multiplying": 12,
+    "min_bending_radius": 212.94,
+    "min_barrel_diameter": 340.704
+  },
+  {
+    "#": 86,
+    "item_no": "1502UA",
+    "description": "4C+E 2.5 BC/PVC/PVC 1KV O/C",
+    "od": 13.965,
+    "multiplying": 8,
+    "min_bending_radius": 111.72,
+    "min_barrel_diameter": 178.752
+  },
+  {
+    "#": 87,
+    "item_no": "1502UA-47",
+    "description": "4C+E 2.5 BC/PVC/PVC 450/750V O/C",
+    "od": 12.39,
+    "multiplying": 6,
+    "min_bending_radius": 74.34,
+    "min_barrel_diameter": 118.944
+  },
+  {
+    "#": 88,
+    "item_no": 1504,
+    "description": "4C+E 4 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 21.0,
+    "multiplying": 12,
+    "min_bending_radius": 252.0,
+    "min_barrel_diameter": 403.2
+  },
+  {
+    "#": 89,
+    "item_no": "1504HFSMICA-FLEX",
+    "description": "4C+E 4 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 18.27,
+    "multiplying": 8,
+    "min_bending_radius": 146.16,
+    "min_barrel_diameter": 233.856
+  },
+  {
+    "#": 90,
+    "item_no": "1504UA",
+    "description": "4C+E 4 BC/PVC/PVC 1KV O/C",
+    "od": 16.275,
+    "multiplying": 6,
+    "min_bending_radius": 97.65,
+    "min_barrel_diameter": 156.24
+  },
+  {
+    "#": 91,
+    "item_no": "1504UA-47",
+    "description": "4C+E 4 BC/PVC/PVC 450/750V O/C",
+    "od": 14.28,
+    "multiplying": 6,
+    "min_bending_radius": 85.68,
+    "min_barrel_diameter": 137.088
+  },
+  {
+    "#": 92,
+    "item_no": 1505,
+    "description": "4C+E 1.5 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 16.485,
+    "multiplying": 12,
+    "min_bending_radius": 197.82,
+    "min_barrel_diameter": 316.512
+  },
+  {
+    "#": 93,
+    "item_no": "1505UA",
+    "description": "4C+E 1.5 BC/PVC/PVC 1KV O/C",
+    "od": 12.705,
+    "multiplying": 6,
+    "min_bending_radius": 76.23,
+    "min_barrel_diameter": 121.968
+  },
+  {
+    "#": 94,
+    "item_no": "1505UA-47",
+    "description": "4C+E 1.5 BC/PVC/PVC 450/750V O/C",
+    "od": 10.605,
+    "multiplying": 6,
+    "min_bending_radius": 63.63,
+    "min_barrel_diameter": 101.808
+  },
+  {
+    "#": 95,
+    "item_no": 1506,
+    "description": "4C+E 6 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 22.68,
+    "multiplying": 12,
+    "min_bending_radius": 272.16,
+    "min_barrel_diameter": 435.456
+  },
+  {
+    "#": 96,
+    "item_no": "1506HFSMICA-FLEX",
+    "description": "4C+E 6 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 19.53,
+    "multiplying": 8,
+    "min_bending_radius": 156.24,
+    "min_barrel_diameter": 249.984
+  },
+  {
+    "#": 97,
+    "item_no": "1506UA",
+    "description": "4C+E 6 BC/PVC/PVC 1KV O/C",
+    "od": 17.535,
+    "multiplying": 6,
+    "min_bending_radius": 105.21,
+    "min_barrel_diameter": 168.336
+  },
+  {
+    "#": 98,
+    "item_no": "1506UA-47",
+    "description": "4C+E 6 BC/PVC/PVC 450/750V O/C",
+    "od": 15.54,
+    "multiplying": 6,
+    "min_bending_radius": 93.24,
+    "min_barrel_diameter": 149.184
+  },
+  {
+    "#": 99,
+    "item_no": 1510,
+    "description": "4C+E 10 BC/PVC/SWA/PVC 1KV O/C",
+    "od": 25.725,
+    "multiplying": 12,
+    "min_bending_radius": 308.7,
+    "min_barrel_diameter": 493.92
+  },
+  {
+    "#": 100,
+    "item_no": "1510HFSMICA-FLEX",
+    "description": "4C+E 10 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 22.68,
+    "multiplying": 8,
+    "min_bending_radius": 181.44,
+    "min_barrel_diameter": 290.304
+  },
+  {
+    "#": 101,
+    "item_no": "1510UA",
+    "description": "4C+E 10 BC/PVC/PVC 1KV O/C",
+    "od": 19.635,
+    "multiplying": 6,
+    "min_bending_radius": 117.81,
+    "min_barrel_diameter": 188.496
+  },
+  {
+    "#": 102,
+    "item_no": 1515,
+    "description": "4C+E 150 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 61.32,
+    "multiplying": 12,
+    "min_bending_radius": 735.84,
+    "min_barrel_diameter": 1177.344
+  },
+  {
+    "#": 103,
+    "item_no": "1515UA",
+    "description": "4C+E 150 BC/XLPE/PVC 1KV O/C",
+    "od": 51.03,
+    "multiplying": 8,
+    "min_bending_radius": 408.24,
+    "min_barrel_diameter": 653.184
+  },
+  {
+    "#": 104,
+    "item_no": 1516,
+    "description": "4C+E 16 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 27.09,
+    "multiplying": 12,
+    "min_bending_radius": 325.08,
+    "min_barrel_diameter": 520.128
+  },
+  {
+    "#": 105,
+    "item_no": "1516HFSMICA-FLEX",
+    "description": "4C+E 16 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 25.515,
+    "multiplying": 8,
+    "min_bending_radius": 204.12,
+    "min_barrel_diameter": 326.592
+  },
+  {
+    "#": 106,
+    "item_no": "1516UA",
+    "description": "4C+E 16 BC/XLPE/PVC 1KV O/C",
+    "od": 21.0,
+    "multiplying": 8,
+    "min_bending_radius": 168.0,
+    "min_barrel_diameter": 268.8
+  },
+  {
+    "#": 107,
+    "item_no": 1520,
+    "description": "4C+E 120 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 55.02,
+    "multiplying": 12,
+    "min_bending_radius": 660.24,
+    "min_barrel_diameter": 1056.384
+  },
+  {
+    "#": 108,
+    "item_no": "1520UA",
+    "description": "4C+E 120 BC/XLPE/PVC 1KV O/C",
+    "od": 45.36,
+    "multiplying": 8,
+    "min_bending_radius": 362.88,
+    "min_barrel_diameter": 580.608
+  },
+  {
+    "#": 109,
+    "item_no": 1524,
+    "description": "4C+E 240 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 75.6,
+    "multiplying": 12,
+    "min_bending_radius": 907.2,
+    "min_barrel_diameter": 1451.52
+  },
+  {
+    "#": 110,
+    "item_no": "1524UA",
+    "description": "4C+E 240 BC/XLPE/PVC 1KV O/C",
+    "od": 63.735,
+    "multiplying": 8,
+    "min_bending_radius": 509.88,
+    "min_barrel_diameter": 815.808
+  },
+  {
+    "#": 111,
+    "item_no": 1525,
+    "description": "4C+E 25 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 30.975,
+    "multiplying": 12,
+    "min_bending_radius": 371.7,
+    "min_barrel_diameter": 594.72
+  },
+  {
+    "#": 112,
+    "item_no": "1525HFSMICA-FLEX",
+    "description": "4C+E 25 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 29.82,
+    "multiplying": 8,
+    "min_bending_radius": 238.56,
+    "min_barrel_diameter": 381.696
+  },
+  {
+    "#": 113,
+    "item_no": "1525UA",
+    "description": "4C+E 25 BC/XLPE/PVC 1KV O/C",
+    "od": 24.675,
+    "multiplying": 8,
+    "min_bending_radius": 197.4,
+    "min_barrel_diameter": 315.84
+  },
+  {
+    "#": 114,
+    "item_no": 1526,
+    "description": "2C0.5 TCCL5/PVC/TCB/PVC 400V UV",
+    "od": 5.25,
+    "multiplying": 7,
+    "min_bending_radius": 36.75,
+    "min_barrel_diameter": 58.8
+  },
+  {
+    "#": 115,
+    "item_no": 1535,
+    "description": "4C+E 35 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 33.81,
+    "multiplying": 12,
+    "min_bending_radius": 405.72,
+    "min_barrel_diameter": 649.152
+  },
+  {
+    "#": 116,
+    "item_no": "1535HFSMICA-FLEX",
+    "description": "4C+E 35 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 34.65,
+    "multiplying": 8,
+    "min_bending_radius": 277.2,
+    "min_barrel_diameter": 443.52
+  },
+  {
+    "#": 117,
+    "item_no": "1535UA",
+    "description": "4C+E 35 BC/XLPE/PVC 1KV O/C",
+    "od": 27.3,
+    "multiplying": 8,
+    "min_bending_radius": 218.4,
+    "min_barrel_diameter": 349.44
+  },
+  {
+    "#": 118,
+    "item_no": 1536,
+    "description": "3C0.5 TCCL5/PVC/TCB/PVC 400V UV",
+    "od": 5.565,
+    "multiplying": 7,
+    "min_bending_radius": 38.955,
+    "min_barrel_diameter": 62.328
+  },
+  {
+    "#": 119,
+    "item_no": 1546,
+    "description": "4C0.5 TCCL5/PVC/TCB/PVC 400V UV",
+    "od": 6.3,
+    "multiplying": 7,
+    "min_bending_radius": 44.1,
+    "min_barrel_diameter": 70.56
+  },
+  {
+    "#": 120,
+    "item_no": 1550,
+    "description": "4C+E 50 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 39.27,
+    "multiplying": 12,
+    "min_bending_radius": 471.24,
+    "min_barrel_diameter": 753.984
+  },
+  {
+    "#": 121,
+    "item_no": "1550HFSMICA-FLEX",
+    "description": "4C+E 50 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 40.215,
+    "multiplying": 8,
+    "min_bending_radius": 321.72,
+    "min_barrel_diameter": 514.752
+  },
+  {
+    "#": 122,
+    "item_no": "1550UA",
+    "description": "4C+E 50 BC/XLPE/PVC 1KV O/C",
+    "od": 31.71,
+    "multiplying": 8,
+    "min_bending_radius": 253.68,
+    "min_barrel_diameter": 405.888
+  },
+  {
+    "#": 123,
+    "item_no": 1566,
+    "description": "6C0.5 TC/PVC/TCB/PVC 400V UV",
+    "od": 7.56,
+    "multiplying": 7,
+    "min_bending_radius": 52.92,
+    "min_barrel_diameter": 84.672
+  },
+  {
+    "#": 125,
+    "item_no": 1570,
+    "description": "4C+E 70 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 45.15,
+    "multiplying": 12,
+    "min_bending_radius": 541.8,
+    "min_barrel_diameter": 866.88
+  },
+  {
+    "#": 126,
+    "item_no": "1570UA",
+    "description": "4C+E 70 BC/XLPE/PVC 1KV O/C",
+    "od": 36.96,
+    "multiplying": 8,
+    "min_bending_radius": 295.68,
+    "min_barrel_diameter": 473.088
+  },
+  {
+    "#": 127,
+    "item_no": 1585,
+    "description": "4C+E 185 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 67.305,
+    "multiplying": 12,
+    "min_bending_radius": 807.66,
+    "min_barrel_diameter": 1292.256
+  },
+  {
+    "#": 128,
+    "item_no": "1585UA",
+    "description": "4C+E 185 BC/XLPE/PVC 1KV O/C",
+    "od": 57.015,
+    "multiplying": 8,
+    "min_bending_radius": 456.12,
+    "min_barrel_diameter": 729.792
+  },
+  {
+    "#": 129,
+    "item_no": 1595,
+    "description": "4C+E 95 BC/XLPE/SWA/PVC 1KV O/C",
+    "od": 50.4,
+    "multiplying": 12,
+    "min_bending_radius": 604.8,
+    "min_barrel_diameter": 967.68
+  },
+  {
+    "#": 130,
+    "item_no": "1595UA",
+    "description": "4C+E 95 BC/XLPE/PVC 1KV O/C",
+    "od": 40.74,
+    "multiplying": 8,
+    "min_bending_radius": 325.92,
+    "min_barrel_diameter": 521.472
+  },
+  {
+    "#": 131,
+    "item_no": 1701,
+    "description": "6C+E 1.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 17.2,
+    "multiplying": 12,
+    "min_bending_radius": 206.4,
+    "min_barrel_diameter": 330.24
+  },
+  {
+    "#": 132,
+    "item_no": "1701UA",
+    "description": "6C+E 1.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 13.6,
+    "multiplying": 6,
+    "min_bending_radius": 81.6,
+    "min_barrel_diameter": 130.56
+  },
+  {
+    "#": 133,
+    "item_no": 1702,
+    "description": "6C+E 2.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 19.7,
+    "multiplying": 12,
+    "min_bending_radius": 236.4,
+    "min_barrel_diameter": 378.24
+  },
+  {
+    "#": 134,
+    "item_no": "1702UA",
+    "description": "6C+E 2.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 15.2,
+    "multiplying": 6,
+    "min_bending_radius": 91.2,
+    "min_barrel_diameter": 145.92
+  },
+  {
+    "#": 135,
+    "item_no": 1810,
+    "description": "17C+E 1 BCCL5/PVC/PVC V75 500V",
+    "od": 13.86,
+    "multiplying": 5,
+    "min_bending_radius": 69.3,
+    "min_barrel_diameter": 110.88
+  },
+  {
+    "#": 136,
+    "item_no": 1815,
+    "description": "17C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "od": 15.12,
+    "multiplying": 5,
+    "min_bending_radius": 75.6,
+    "min_barrel_diameter": 120.96
+  },
+  {
+    "#": 137,
+    "item_no": 1850,
+    "description": "17C+E 0.5 BCCL5/PVC/PVC V75 500V",
+    "od": 11.55,
+    "multiplying": 5,
+    "min_bending_radius": 57.75,
+    "min_barrel_diameter": 92.4
+  },
+  {
+    "#": 138,
+    "item_no": 1875,
+    "description": "17C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "od": 12.6,
+    "multiplying": 5,
+    "min_bending_radius": 63.0,
+    "min_barrel_diameter": 100.8
+  },
+  {
+    "#": 139,
+    "item_no": 1901,
+    "description": "8C+E 1.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 21.1,
+    "multiplying": 12,
+    "min_bending_radius": 253.2,
+    "min_barrel_diameter": 405.12
+  },
+  {
+    "#": 140,
+    "item_no": "1901UA",
+    "description": "8C+E 1.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 16.1,
+    "multiplying": 6,
+    "min_bending_radius": 96.6,
+    "min_barrel_diameter": 154.56
+  },
+  {
+    "#": 141,
+    "item_no": 1902,
+    "description": "8C+E 2.5 BC/PVC/SWA/PVC 1KV BLK CTRL",
+    "od": 23.1,
+    "multiplying": 12,
+    "min_bending_radius": 277.2,
+    "min_barrel_diameter": 443.52
+  },
+  {
+    "#": 142,
+    "item_no": "1902UA",
+    "description": "8C+E 2.5 BC/PVC/PVC 1KV BLK CTRL",
+    "od": 18.1,
+    "multiplying": 6,
+    "min_bending_radius": 108.6,
+    "min_barrel_diameter": 173.76
+  },
+  {
+    "#": 143,
+    "item_no": "2015ERTC",
+    "description": "2C1.5 TCCL5/EPR/CPE 1KV H07",
+    "od": 10.75345033,
+    "multiplying": 5,
+    "min_bending_radius": 53.76725165,
+    "min_barrel_diameter": 86.02760264
+  },
+  {
+    "#": 144,
+    "item_no": 2275,
+    "description": "2C0.75 BCCL5/PVC/PVC V75 500V C/C",
+    "od": 5.46,
+    "multiplying": 5,
+    "min_bending_radius": 27.3,
+    "min_barrel_diameter": 43.68
+  },
+  {
+    "#": 145,
+    "item_no": 2310,
+    "description": "2C+E 1.0 BCCL5/PVC/PVC V75 500V",
+    "od": 6.405,
+    "multiplying": 5,
+    "min_bending_radius": 32.025,
+    "min_barrel_diameter": 51.24
+  },
+  {
+    "#": 146,
+    "item_no": 2315,
+    "description": "2C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "od": 6.93,
+    "multiplying": 5,
+    "min_bending_radius": 34.65,
+    "min_barrel_diameter": 55.44
+  },
+  {
+    "#": 147,
+    "item_no": 2325,
+    "description": "2C+E 2.5 BCCL5/PVC/PVC V75 500V",
+    "od": 8.505,
+    "multiplying": 5,
+    "min_bending_radius": 42.525,
+    "min_barrel_diameter": 68.04
+  },
+  {
+    "#": 148,
+    "item_no": 2375,
+    "description": "2C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "od": 5.775,
+    "multiplying": 5,
+    "min_bending_radius": 28.875,
+    "min_barrel_diameter": 46.2
+  },
+  {
+    "#": 150,
+    "item_no": 2415,
+    "description": "3C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "od": 7.77,
+    "multiplying": 5,
+    "min_bending_radius": 38.85,
+    "min_barrel_diameter": 62.16
+  },
+  {
+    "#": 152,
+    "item_no": 2452,
+    "description": "3C+E 2.5 BCCL5/PVC/PVC V75 500V",
+    "od": 9.345,
+    "multiplying": 5,
+    "min_bending_radius": 46.725,
+    "min_barrel_diameter": 74.76
+  },
+  {
+    "#": 154,
+    "item_no": 2510,
+    "description": "24C+E 1.0 BCCL5/PVC/PVC V75 500V",
+    "od": 17.115,
+    "multiplying": 5,
+    "min_bending_radius": 85.575,
+    "min_barrel_diameter": 136.92
+  },
+  {
+    "#": 155,
+    "item_no": 2515,
+    "description": "24C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "od": 18.9,
+    "multiplying": 5,
+    "min_bending_radius": 94.5,
+    "min_barrel_diameter": 151.2
+  },
+  {
+    "#": 156,
+    "item_no": 2550,
+    "description": "24C+E 0.5 BCCL5/PVC/PVC V75 500V",
+    "od": 14.175,
+    "multiplying": 5,
+    "min_bending_radius": 70.875,
+    "min_barrel_diameter": 113.4
+  },
+  {
+    "#": 157,
+    "item_no": 2575,
+    "description": "24C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "od": 15.435,
+    "multiplying": 5,
+    "min_bending_radius": 77.175,
+    "min_barrel_diameter": 123.48
+  },
+  {
+    "#": 158,
+    "item_no": "2715ERTC",
+    "description": "26C+E 1.5 TCCL5/EPR/CPE 1KV H07",
+    "od": 31.29,
+    "multiplying": 5,
+    "min_bending_radius": 156.45,
+    "min_barrel_diameter": 250.32
+  },
+  {
+    "#": 159,
+    "item_no": "3010ERTC",
+    "description": "2C+E 1.0 TCCL5/EPR/CPE 1KV H07",
+    "od": 10.75283988,
+    "multiplying": 5,
+    "min_bending_radius": 53.7641994,
+    "min_barrel_diameter": 86.02271904
+  },
+  {
+    "#": 160,
+    "item_no": "3015ERTC",
+    "description": "2C+E 1.5 TCCL5/EPR/CPE 1KV H07",
+    "od": 11.55492635,
+    "multiplying": 5,
+    "min_bending_radius": 57.77463175,
+    "min_barrel_diameter": 92.4394108
+  },
+  {
+    "#": 161,
+    "item_no": "3025ERTC",
+    "description": "2C+E 2.5 TCCL5/EPR/CPE 1KV H07",
+    "od": 12.74441157,
+    "multiplying": 5,
+    "min_bending_radius": 63.72205785,
+    "min_barrel_diameter": 101.95529256
+  },
+  {
+    "#": 162,
+    "item_no": "3040ERTC",
+    "description": "2C+E 4 TCCL5/EPR/CPE 1KV H07",
+    "od": 14.12295347,
+    "multiplying": 5,
+    "min_bending_radius": 70.61476735,
+    "min_barrel_diameter": 112.98362776
+  },
+  {
+    "#": 163,
+    "item_no": "3060ERTC",
+    "description": "2C+E 6 TCCL5/EPR/CPE 1KV H07",
+    "od": 15.73865053,
+    "multiplying": 5,
+    "min_bending_radius": 78.69325265,
+    "min_barrel_diameter": 125.90920424
+  },
+  {
+    "#": 164,
+    "item_no": 3610,
+    "description": "35C+E 1.0 BCCL5/PVC/PVC V75 500V",
+    "od": 19.32,
+    "multiplying": 5,
+    "min_bending_radius": 96.6,
+    "min_barrel_diameter": 154.56
+  },
+  {
+    "#": 165,
+    "item_no": 3615,
+    "description": "35C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "od": 20.79,
+    "multiplying": 5,
+    "min_bending_radius": 103.95,
+    "min_barrel_diameter": 166.32
+  },
+  {
+    "#": 166,
+    "item_no": 4001,
+    "description": "1Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "od": 4.515,
+    "multiplying": 6,
+    "min_bending_radius": 27.09,
+    "min_barrel_diameter": 43.344
+  },
+  {
+    "#": 167,
+    "item_no": 4002,
+    "description": "2Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "od": 5.67,
+    "multiplying": 6,
+    "min_bending_radius": 34.02,
+    "min_barrel_diameter": 54.432
+  },
+  {
+    "#": 168,
+    "item_no": 4003,
+    "description": "3Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "od": 6.0,
+    "multiplying": 6,
+    "min_bending_radius": 36.0,
+    "min_barrel_diameter": 57.6
+  },
+  {
+    "#": 169,
+    "item_no": 4004,
+    "description": "4Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "od": 7.0,
+    "multiplying": 6,
+    "min_bending_radius": 42.0,
+    "min_barrel_diameter": 67.2
+  },
+  {
+    "#": 170,
+    "item_no": 4006,
+    "description": "6Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "od": 8.0,
+    "multiplying": 6,
+    "min_bending_radius": 48.0,
+    "min_barrel_diameter": 76.8
+  },
+  {
+    "#": 171,
+    "item_no": 4008,
+    "description": "8Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "od": 8.7,
+    "multiplying": 6,
+    "min_bending_radius": 52.2,
+    "min_barrel_diameter": 83.52
+  },
+  {
+    "#": 172,
+    "item_no": 4010,
+    "description": "10Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "od": 10.3,
+    "multiplying": 6,
+    "min_bending_radius": 61.8,
+    "min_barrel_diameter": 98.88
+  },
+  {
+    "#": 173,
+    "item_no": "4011ERTC",
+    "description": "3C+E 1.0 TCCL5/EPR/CPE 1KV H07",
+    "od": 11.85271875,
+    "multiplying": 5,
+    "min_bending_radius": 59.26359375,
+    "min_barrel_diameter": 94.82175
+  },
+  {
+    "#": 174,
+    "item_no": 4012,
+    "description": "12Pr 24AWG TC/PP/OS/PVC V75 300V",
+    "od": 10.7,
+    "multiplying": 6,
+    "min_bending_radius": 64.2,
+    "min_barrel_diameter": 102.72
+  },
+  {
+    "#": 175,
+    "item_no": "4015ERTC",
+    "description": "3C+E 1.5 TCCL5/EPR/CPE 1KV H07",
+    "od": 12.7260749,
+    "multiplying": 5,
+    "min_bending_radius": 63.6303745,
+    "min_barrel_diameter": 101.8085992
+  },
+  {
+    "#": 176,
+    "item_no": "4025ERTC",
+    "description": "3C+E 2.5 TCCL5/EPR/CPE 1KV H07",
+    "od": 14.07,
+    "multiplying": 5,
+    "min_bending_radius": 70.35,
+    "min_barrel_diameter": 112.56
+  },
+  {
+    "#": 177,
+    "item_no": "4040ERTC",
+    "description": "3C+E 4 TCCL5/EPR/CPE 1KV H07",
+    "od": 15.855,
+    "multiplying": 5,
+    "min_bending_radius": 79.275,
+    "min_barrel_diameter": 126.84
+  },
+  {
+    "#": 178,
+    "item_no": "4060ERTC",
+    "description": "3C+E 6 TCCL5/EPR/CPE 1KV H07",
+    "od": 17.535,
+    "multiplying": 5,
+    "min_bending_radius": 87.675,
+    "min_barrel_diameter": 140.28
+  },
+  {
+    "#": 179,
+    "item_no": "4100ERTC",
+    "description": "3C+E 10 TCCL5/EPR/CPE 1KV H07",
+    "od": 24.99,
+    "multiplying": 5,
+    "min_bending_radius": 124.95,
+    "min_barrel_diameter": 199.92
+  },
+  {
+    "#": 180,
+    "item_no": 4102,
+    "description": "2Pr 24AWG TC/PP/IOS/PVC V75 300V",
+    "od": 6.5,
+    "multiplying": 6,
+    "min_bending_radius": 39.0,
+    "min_barrel_diameter": 62.4
+  },
+  {
+    "#": 181,
+    "item_no": 4103,
+    "description": "3Pr 24AWG TC/PP/IOS/PVC V75 300V",
+    "od": 7.1,
+    "multiplying": 6,
+    "min_bending_radius": 42.6,
+    "min_barrel_diameter": 68.16
+  },
+  {
+    "#": 182,
+    "item_no": "4160ERTC",
+    "description": "3C+E 16 TCCL5/EPR/CPE 1KV H07",
+    "od": 28.245,
+    "multiplying": 5,
+    "min_bending_radius": 141.225,
+    "min_barrel_diameter": 225.96
+  },
+  {
+    "#": 184,
+    "item_no": 4204,
+    "description": "4C 24AWG TC/PVC/OS/PVC V75 300V",
+    "od": 4.5,
+    "multiplying": 6,
+    "min_bending_radius": 27.0,
+    "min_barrel_diameter": 43.2
+  },
+  {
+    "#": 185,
+    "item_no": 4206,
+    "description": "6C 24AWG TC/PVC/OS/PVC V75 300V",
+    "od": 5.1,
+    "multiplying": 6,
+    "min_bending_radius": 30.6,
+    "min_barrel_diameter": 48.96
+  },
+  {
+    "#": 186,
+    "item_no": 4207,
+    "description": "7C 20AWG TCCL5/PVC/OS/PVC V75 300V",
+    "od": 5.6,
+    "multiplying": 6,
+    "min_bending_radius": 33.6,
+    "min_barrel_diameter": 53.76
+  },
+  {
+    "#": 187,
+    "item_no": 4208,
+    "description": "8C 24AWG TC/PVC/OS/PVC V75 300V",
+    "od": 5.985,
+    "multiplying": 6,
+    "min_bending_radius": 35.91,
+    "min_barrel_diameter": 57.456
+  },
+  {
+    "#": 188,
+    "item_no": 4212,
+    "description": "12C 24AWG TC/PVC/OS/PVC V75 300V",
+    "od": 7.14,
+    "multiplying": 6,
+    "min_bending_radius": 42.84,
+    "min_barrel_diameter": 68.544
+  },
+  {
+    "#": 189,
+    "item_no": 4218,
+    "description": "18C 24AWG TC/PVC/OS/PVC V75 300V",
+    "od": 8.19,
+    "multiplying": 6,
+    "min_bending_radius": 49.14,
+    "min_barrel_diameter": 78.624
+  },
+  {
+    "#": 190,
+    "item_no": 4225,
+    "description": "25C 24AWG TC/PVC/OS/PVC V75 300V",
+    "od": 9.45,
+    "multiplying": 6,
+    "min_bending_radius": 56.7,
+    "min_barrel_diameter": 90.72
+  },
+  {
+    "#": 191,
+    "item_no": 4236,
+    "description": "36C 24AWG TC/PVC/OS/PVC V75 300V",
+    "od": 11.13,
+    "multiplying": 6,
+    "min_bending_radius": 66.78,
+    "min_barrel_diameter": 106.848
+  },
+  {
+    "#": 192,
+    "item_no": "4250ERTC",
+    "description": "3C+E 25 TCCL5/EPR/CPE 1KV H07",
+    "od": 33.39,
+    "multiplying": 5,
+    "min_bending_radius": 166.95,
+    "min_barrel_diameter": 267.12
+  },
+  {
+    "#": 193,
+    "item_no": "4350ERTC",
+    "description": "3C+E 35 TCCL5/EPR/CPE 1KV H07",
+    "od": 37.8,
+    "multiplying": 5,
+    "min_bending_radius": 189.0,
+    "min_barrel_diameter": 302.4
+  },
+  {
+    "#": 194,
+    "item_no": "4500ERTC",
+    "description": "3C+E 50 TCCL5/EPR/CPE 1KV H07",
+    "od": 43.995,
+    "multiplying": 5,
+    "min_bending_radius": 219.975,
+    "min_barrel_diameter": 351.96
+  },
+  {
+    "#": 195,
+    "item_no": "4700ERTC",
+    "description": "3C+E 70 TCCL5/EPR/CPE 1KV H07",
+    "od": 49.455,
+    "multiplying": 5,
+    "min_bending_radius": 247.275,
+    "min_barrel_diameter": 395.64
+  },
+  {
+    "#": 196,
+    "item_no": "4950ERTC",
+    "description": "3C+E 95 TCCL5/EPR/CPE 1KV H07",
+    "od": 55.44,
+    "multiplying": 5,
+    "min_bending_radius": 277.2,
+    "min_barrel_diameter": 443.52
+  },
+  {
+    "#": 197,
+    "item_no": 5001,
+    "description": "1Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 7.035,
+    "multiplying": 8,
+    "min_bending_radius": 56.28,
+    "min_barrel_diameter": 90.048
+  },
+  {
+    "#": 198,
+    "item_no": 5002,
+    "description": "2Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 10.395,
+    "multiplying": 8,
+    "min_bending_radius": 83.16,
+    "min_barrel_diameter": 133.056
+  },
+  {
+    "#": 199,
+    "item_no": 5003,
+    "description": "3Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 11.025,
+    "multiplying": 8,
+    "min_bending_radius": 88.2,
+    "min_barrel_diameter": 141.12
+  },
+  {
+    "#": 200,
+    "item_no": 5004,
+    "description": "4Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 12.6,
+    "multiplying": 8,
+    "min_bending_radius": 100.8,
+    "min_barrel_diameter": 161.28
+  },
+  {
+    "#": 201,
+    "item_no": 5006,
+    "description": "6Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 15.54,
+    "multiplying": 8,
+    "min_bending_radius": 124.32,
+    "min_barrel_diameter": 198.912
+  },
+  {
+    "#": 202,
+    "item_no": 5008,
+    "description": "8Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 17.535,
+    "multiplying": 8,
+    "min_bending_radius": 140.28,
+    "min_barrel_diameter": 224.448
+  },
+  {
+    "#": 203,
+    "item_no": 5010,
+    "description": "10Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 20.37,
+    "multiplying": 8,
+    "min_bending_radius": 162.96,
+    "min_barrel_diameter": 260.736
+  },
+  {
+    "#": 204,
+    "item_no": 5012,
+    "description": "12Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 21.21,
+    "multiplying": 8,
+    "min_bending_radius": 169.68,
+    "min_barrel_diameter": 271.488
+  },
+  {
+    "#": 206,
+    "item_no": "5015ERTC",
+    "description": "4C+E 1.5 TCCL5/EPR/CPE 1KV H07",
+    "od": 13.97115794,
+    "multiplying": 5,
+    "min_bending_radius": 69.8557897,
+    "min_barrel_diameter": 111.76926352
+  },
+  {
+    "#": 207,
+    "item_no": 5016,
+    "description": "16Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 23.835,
+    "multiplying": 8,
+    "min_bending_radius": 190.68,
+    "min_barrel_diameter": 305.088
+  },
+  {
+    "#": 208,
+    "item_no": 5020,
+    "description": "20Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 26.985,
+    "multiplying": 8,
+    "min_bending_radius": 215.88,
+    "min_barrel_diameter": 345.408
+  },
+  {
+    "#": 209,
+    "item_no": 5024,
+    "description": "24Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 30.24,
+    "multiplying": 8,
+    "min_bending_radius": 241.92,
+    "min_barrel_diameter": 387.072
+  },
+  {
+    "#": 210,
+    "item_no": "5025ERTC",
+    "description": "4C+E 2.5 TCCL5/EPR/CPE 1KV H07",
+    "od": 15.54,
+    "multiplying": 5,
+    "min_bending_radius": 77.7,
+    "min_barrel_diameter": 124.32
+  },
+  {
+    "#": 211,
+    "item_no": 5036,
+    "description": "36Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 35.07,
+    "multiplying": 8,
+    "min_bending_radius": 280.56,
+    "min_barrel_diameter": 448.896
+  },
+  {
+    "#": 212,
+    "item_no": "5040ERTC",
+    "description": "4C+E 4 TCCL5/EPR/CPE 1KV H07",
+    "od": 17.325,
+    "multiplying": 5,
+    "min_bending_radius": 86.625,
+    "min_barrel_diameter": 138.6
+  },
+  {
+    "#": 213,
+    "item_no": 5050,
+    "description": "50Pr1.5 BC/PVC/OS/PVC 110V",
+    "od": 40.005,
+    "multiplying": 8,
+    "min_bending_radius": 320.04,
+    "min_barrel_diameter": 512.064
+  },
+  {
+    "#": 214,
+    "item_no": "5060ERTC",
+    "description": "4C+E 6 TCCL5/EPR/CPE 1KV H07",
+    "od": 19.20081317,
+    "multiplying": 5,
+    "min_bending_radius": 96.00406585,
+    "min_barrel_diameter": 153.60650536
+  },
+  {
+    "#": 215,
+    "item_no": "5100ERTC",
+    "description": "4C+E 10 TCCL5/EPR/CPE 1KV H07",
+    "od": 27.03645,
+    "multiplying": 5,
+    "min_bending_radius": 135.18225,
+    "min_barrel_diameter": 216.2916
+  },
+  {
+    "#": 216,
+    "item_no": 5101,
+    "description": "1Pr1.0 BC/PVC/OS/PVC 110V",
+    "od": 5.88,
+    "multiplying": 8,
+    "min_bending_radius": 47.04,
+    "min_barrel_diameter": 75.264
+  },
+  {
+    "#": 217,
+    "item_no": 5102,
+    "description": "2Pr1.0 BC/PVC/OS/PVC 110V",
+    "od": 9.03,
+    "multiplying": 8,
+    "min_bending_radius": 72.24,
+    "min_barrel_diameter": 115.584
+  },
+  {
+    "#": 218,
+    "item_no": 5103,
+    "description": "3Pr1.0 BC/PVC/OS/PVC 110V",
+    "od": 9.555,
+    "multiplying": 8,
+    "min_bending_radius": 76.44,
+    "min_barrel_diameter": 122.304
+  },
+  {
+    "#": 219,
+    "item_no": 5110,
+    "description": "2Tr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 9.24,
+    "multiplying": 8,
+    "min_bending_radius": 73.92,
+    "min_barrel_diameter": 118.272
+  },
+  {
+    "#": 220,
+    "item_no": "5110N",
+    "description": "2Tr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 9.24,
+    "multiplying": 8,
+    "min_bending_radius": 73.92,
+    "min_barrel_diameter": 118.272
+  },
+  {
+    "#": 221,
+    "item_no": 5111,
+    "description": "4Tr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 10.92,
+    "multiplying": 8,
+    "min_bending_radius": 87.36,
+    "min_barrel_diameter": 139.776
+  },
+  {
+    "#": 222,
+    "item_no": "5111N",
+    "description": "4Tr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 10.92,
+    "multiplying": 8,
+    "min_bending_radius": 87.36,
+    "min_barrel_diameter": 139.776
+  },
+  {
+    "#": 223,
+    "item_no": 5112,
+    "description": "6Tr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 13.23,
+    "multiplying": 8,
+    "min_bending_radius": 105.84,
+    "min_barrel_diameter": 169.344
+  },
+  {
+    "#": 224,
+    "item_no": "5112N",
+    "description": "6Tr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 13.23,
+    "multiplying": 8,
+    "min_bending_radius": 105.84,
+    "min_barrel_diameter": 169.344
+  },
+  {
+    "#": 225,
+    "item_no": 5115,
+    "description": "12Tr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 18.06,
+    "multiplying": 8,
+    "min_bending_radius": 144.48,
+    "min_barrel_diameter": 231.168
+  },
+  {
+    "#": 226,
+    "item_no": "5115N",
+    "description": "12Tr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 18.06,
+    "multiplying": 8,
+    "min_bending_radius": 144.48,
+    "min_barrel_diameter": 231.168
+  },
+  {
+    "#": 227,
+    "item_no": 5122,
+    "description": "4Tr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 15.54,
+    "multiplying": 8,
+    "min_bending_radius": 124.32,
+    "min_barrel_diameter": 198.912
+  },
+  {
+    "#": 228,
+    "item_no": "5122N",
+    "description": "4Tr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 15.54,
+    "multiplying": 8,
+    "min_bending_radius": 124.32,
+    "min_barrel_diameter": 198.912
+  },
+  {
+    "#": 229,
+    "item_no": 5123,
+    "description": "6Tr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 18.9,
+    "multiplying": 8,
+    "min_bending_radius": 151.2,
+    "min_barrel_diameter": 241.92
+  },
+  {
+    "#": 230,
+    "item_no": "5123N",
+    "description": "6Tr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 18.9,
+    "multiplying": 8,
+    "min_bending_radius": 151.2,
+    "min_barrel_diameter": 241.92
+  },
+  {
+    "#": 231,
+    "item_no": 5126,
+    "description": "12Tr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 25.725,
+    "multiplying": 8,
+    "min_bending_radius": 205.8,
+    "min_barrel_diameter": 329.28
+  },
+  {
+    "#": 232,
+    "item_no": "5126N",
+    "description": "12Tr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 25.725,
+    "multiplying": 8,
+    "min_bending_radius": 205.8,
+    "min_barrel_diameter": 329.28
+  },
+  {
+    "#": 233,
+    "item_no": 5127,
+    "description": "16Tr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 29.085,
+    "multiplying": 8,
+    "min_bending_radius": 232.68,
+    "min_barrel_diameter": 372.288
+  },
+  {
+    "#": 234,
+    "item_no": "5127N",
+    "description": "16Tr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 29.085,
+    "multiplying": 8,
+    "min_bending_radius": 232.68,
+    "min_barrel_diameter": 372.288
+  },
+  {
+    "#": 235,
+    "item_no": 5131,
+    "description": "36Tr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 42.315,
+    "multiplying": 8,
+    "min_bending_radius": 338.52,
+    "min_barrel_diameter": 541.632
+  },
+  {
+    "#": 236,
+    "item_no": "5131N",
+    "description": "36Tr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 42.315,
+    "multiplying": 8,
+    "min_bending_radius": 338.52,
+    "min_barrel_diameter": 541.632
+  },
+  {
+    "#": 237,
+    "item_no": 5133,
+    "description": "3Tr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 9.975,
+    "multiplying": 8,
+    "min_bending_radius": 79.8,
+    "min_barrel_diameter": 127.68
+  },
+  {
+    "#": 238,
+    "item_no": 5143,
+    "description": "3Tr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 14.175,
+    "multiplying": 8,
+    "min_bending_radius": 113.4,
+    "min_barrel_diameter": 181.44
+  },
+  {
+    "#": 239,
+    "item_no": "5160ERTC",
+    "description": "4C+E 16 TCCL5/EPR/CPE 1KV H07",
+    "od": 30.66,
+    "multiplying": 5,
+    "min_bending_radius": 153.3,
+    "min_barrel_diameter": 245.28
+  },
+  {
+    "#": 240,
+    "item_no": 5201,
+    "description": "1Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 5.46,
+    "multiplying": 8,
+    "min_bending_radius": 43.68,
+    "min_barrel_diameter": 69.888
+  },
+  {
+    "#": 241,
+    "item_no": 5202,
+    "description": "2Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 7.98,
+    "multiplying": 8,
+    "min_bending_radius": 63.84,
+    "min_barrel_diameter": 102.144
+  },
+  {
+    "#": 242,
+    "item_no": 5203,
+    "description": "3Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 8.4,
+    "multiplying": 8,
+    "min_bending_radius": 67.2,
+    "min_barrel_diameter": 107.52
+  },
+  {
+    "#": 243,
+    "item_no": 5204,
+    "description": "4Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 9.45,
+    "multiplying": 8,
+    "min_bending_radius": 75.6,
+    "min_barrel_diameter": 120.96
+  },
+  {
+    "#": 244,
+    "item_no": 5206,
+    "description": "6Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 11.025,
+    "multiplying": 8,
+    "min_bending_radius": 88.2,
+    "min_barrel_diameter": 141.12
+  },
+  {
+    "#": 245,
+    "item_no": 5208,
+    "description": "8Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 11.55,
+    "multiplying": 8,
+    "min_bending_radius": 92.4,
+    "min_barrel_diameter": 147.84
+  },
+  {
+    "#": 246,
+    "item_no": 5210,
+    "description": "10Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 13.755,
+    "multiplying": 8,
+    "min_bending_radius": 110.04,
+    "min_barrel_diameter": 176.064
+  },
+  {
+    "#": 247,
+    "item_no": 5212,
+    "description": "12Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 14.595,
+    "multiplying": 8,
+    "min_bending_radius": 116.76,
+    "min_barrel_diameter": 186.816
+  },
+  {
+    "#": 248,
+    "item_no": 5216,
+    "description": "16Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 17.22,
+    "multiplying": 8,
+    "min_bending_radius": 137.76,
+    "min_barrel_diameter": 220.416
+  },
+  {
+    "#": 249,
+    "item_no": 5218,
+    "description": "18Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 17.64,
+    "multiplying": 8,
+    "min_bending_radius": 141.12,
+    "min_barrel_diameter": 225.792
+  },
+  {
+    "#": 250,
+    "item_no": 5220,
+    "description": "20Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 18.06,
+    "multiplying": 8,
+    "min_bending_radius": 144.48,
+    "min_barrel_diameter": 231.168
+  },
+  {
+    "#": 251,
+    "item_no": 5224,
+    "description": "24Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 20.685,
+    "multiplying": 8,
+    "min_bending_radius": 165.48,
+    "min_barrel_diameter": 264.768
+  },
+  {
+    "#": 252,
+    "item_no": 5236,
+    "description": "36Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 25.2,
+    "multiplying": 8,
+    "min_bending_radius": 201.6,
+    "min_barrel_diameter": 322.56
+  },
+  {
+    "#": 253,
+    "item_no": "5250ERTC",
+    "description": "4C+E 25 TCCL5/EPR/CPE 1KV H07",
+    "od": 36.54,
+    "multiplying": 5,
+    "min_bending_radius": 182.7,
+    "min_barrel_diameter": 292.32
+  },
+  {
+    "#": 254,
+    "item_no": 5251,
+    "description": "50Pr0.5 BC/PVC/OS/PVC 110V",
+    "od": 29.925,
+    "multiplying": 8,
+    "min_bending_radius": 239.4,
+    "min_barrel_diameter": 383.04
+  },
+  {
+    "#": 255,
+    "item_no": 5303,
+    "description": "1Tr0.5 BC/PVC/OS/PVC 110V",
+    "od": 5.565,
+    "multiplying": 8,
+    "min_bending_radius": 44.52,
+    "min_barrel_diameter": 71.232
+  },
+  {
+    "#": 256,
+    "item_no": 5304,
+    "description": "2Tr0.5 BC/PVC/OS/PVC 110V",
+    "od": 8.82,
+    "multiplying": 8,
+    "min_bending_radius": 70.56,
+    "min_barrel_diameter": 112.896
+  },
+  {
+    "#": 257,
+    "item_no": 5305,
+    "description": "3Tr0.5 BC/PVC/OS/PVC 110V",
+    "od": 9.555,
+    "multiplying": 8,
+    "min_bending_radius": 76.44,
+    "min_barrel_diameter": 122.304
+  },
+  {
+    "#": 258,
+    "item_no": 5307,
+    "description": "6Tr0.5 BC/PVC/OS/PVC 110V",
+    "od": 12.495,
+    "multiplying": 8,
+    "min_bending_radius": 99.96,
+    "min_barrel_diameter": 159.936
+  },
+  {
+    "#": 259,
+    "item_no": 5310,
+    "description": "12Tr0.5 BC/PVC/OS/PVC 110V",
+    "od": 16.695,
+    "multiplying": 8,
+    "min_bending_radius": 133.56,
+    "min_barrel_diameter": 213.696
+  },
+  {
+    "#": 260,
+    "item_no": 5313,
+    "description": "10Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 23.415,
+    "multiplying": 12,
+    "min_bending_radius": 280.98,
+    "min_barrel_diameter": 449.568
+  },
+  {
+    "#": 261,
+    "item_no": "5313N",
+    "description": "10Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 23.415,
+    "multiplying": 12,
+    "min_bending_radius": 280.98,
+    "min_barrel_diameter": 449.568
+  },
+  {
+    "#": 262,
+    "item_no": 5315,
+    "description": "10Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 30.975,
+    "multiplying": 12,
+    "min_bending_radius": 371.7,
+    "min_barrel_diameter": 594.72
+  },
+  {
+    "#": 263,
+    "item_no": "5315N",
+    "description": "10Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 30.975,
+    "multiplying": 12,
+    "min_bending_radius": 371.7,
+    "min_barrel_diameter": 594.72
+  },
+  {
+    "#": 264,
+    "item_no": 5333,
+    "description": "3Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 15.225,
+    "multiplying": 12,
+    "min_bending_radius": 182.7,
+    "min_barrel_diameter": 292.32
+  },
+  {
+    "#": 265,
+    "item_no": "5333N",
+    "description": "3Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 15.225,
+    "multiplying": 12,
+    "min_bending_radius": 182.7,
+    "min_barrel_diameter": 292.32
+  },
+  {
+    "#": 266,
+    "item_no": 5335,
+    "description": "3Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 19.005,
+    "multiplying": 12,
+    "min_bending_radius": 228.06,
+    "min_barrel_diameter": 364.896
+  },
+  {
+    "#": 267,
+    "item_no": "5335N",
+    "description": "3Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 19.53,
+    "multiplying": 12,
+    "min_bending_radius": 234.36,
+    "min_barrel_diameter": 374.976
+  },
+  {
+    "#": 268,
+    "item_no": 5343,
+    "description": "4Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 16.275,
+    "multiplying": 12,
+    "min_bending_radius": 195.3,
+    "min_barrel_diameter": 312.48
+  },
+  {
+    "#": 269,
+    "item_no": "5343N",
+    "description": "4Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 16.275,
+    "multiplying": 12,
+    "min_bending_radius": 195.3,
+    "min_barrel_diameter": 312.48
+  },
+  {
+    "#": 270,
+    "item_no": 5345,
+    "description": "4Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 21.105,
+    "multiplying": 12,
+    "min_bending_radius": 253.26,
+    "min_barrel_diameter": 405.216
+  },
+  {
+    "#": 271,
+    "item_no": "5345N",
+    "description": "4Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 21.105,
+    "multiplying": 12,
+    "min_bending_radius": 253.26,
+    "min_barrel_diameter": 405.216
+  },
+  {
+    "#": 272,
+    "item_no": 5346,
+    "description": "6Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 25.2,
+    "multiplying": 12,
+    "min_bending_radius": 302.4,
+    "min_barrel_diameter": 483.84
+  },
+  {
+    "#": 273,
+    "item_no": "5346N",
+    "description": "6Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 25.2,
+    "multiplying": 12,
+    "min_bending_radius": 302.4,
+    "min_barrel_diameter": 483.84
+  },
+  {
+    "#": 274,
+    "item_no": 5348,
+    "description": "8Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 27.615,
+    "multiplying": 12,
+    "min_bending_radius": 331.38,
+    "min_barrel_diameter": 530.208
+  },
+  {
+    "#": 275,
+    "item_no": "5348N",
+    "description": "8Tr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 27.615,
+    "multiplying": 12,
+    "min_bending_radius": 331.38,
+    "min_barrel_diameter": 530.208
+  },
+  {
+    "#": 276,
+    "item_no": "5350ERTC",
+    "description": "4C+E 35 TCCL5/EPR/CPE 1KV H07",
+    "od": 41.79,
+    "multiplying": 5,
+    "min_bending_radius": 208.95,
+    "min_barrel_diameter": 334.32
+  },
+  {
+    "#": 277,
+    "item_no": 5363,
+    "description": "6Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 18.9,
+    "multiplying": 12,
+    "min_bending_radius": 226.8,
+    "min_barrel_diameter": 362.88
+  },
+  {
+    "#": 278,
+    "item_no": "5363N",
+    "description": "6Tr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 18.9,
+    "multiplying": 12,
+    "min_bending_radius": 226.8,
+    "min_barrel_diameter": 362.88
+  },
+  {
+    "#": 279,
+    "item_no": 5403,
+    "description": "1Tr1.5 BC/PVC/OS/PVC 110V",
+    "od": 7.455,
+    "multiplying": 8,
+    "min_bending_radius": 59.64,
+    "min_barrel_diameter": 95.424
+  },
+  {
+    "#": 280,
+    "item_no": "5403BLU",
+    "description": "1Tr1.5 BC/PVC/OS/PVC 110V BLU",
+    "od": 7.455,
+    "multiplying": 8,
+    "min_bending_radius": 59.64,
+    "min_barrel_diameter": 95.424
+  },
+  {
+    "#": 281,
+    "item_no": 5404,
+    "description": "2Tr1.5 BC/PVC/OS/PVC 110V",
+    "od": 11.865,
+    "multiplying": 8,
+    "min_bending_radius": 94.92,
+    "min_barrel_diameter": 151.872
+  },
+  {
+    "#": 282,
+    "item_no": 5405,
+    "description": "1Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 12.285,
+    "multiplying": 12,
+    "min_bending_radius": 147.42,
+    "min_barrel_diameter": 235.872
+  },
+  {
+    "#": 283,
+    "item_no": "5405BLU",
+    "description": "1Tr1.5 BC/PVC/OS/SWA/PVC 110V BLU",
+    "od": 12.285,
+    "multiplying": 12,
+    "min_bending_radius": 147.42,
+    "min_barrel_diameter": 235.872
+  },
+  {
+    "#": 284,
+    "item_no": 5406,
+    "description": "3Tr1.5 BC/PVC/OS/PVC 110V",
+    "od": 12.6,
+    "multiplying": 8,
+    "min_bending_radius": 100.8,
+    "min_barrel_diameter": 161.28
+  },
+  {
+    "#": 285,
+    "item_no": "5406BLU",
+    "description": "3Tr1.5 BC/PVC/OS/PVC 110V BLU",
+    "od": 12.6,
+    "multiplying": 8,
+    "min_bending_radius": 100.8,
+    "min_barrel_diameter": 161.28
+  },
+  {
+    "#": 286,
+    "item_no": 5407,
+    "description": "4Tr1.5 BC/PVC/OS/PVC 110V",
+    "od": 14.175,
+    "multiplying": 8,
+    "min_bending_radius": 113.4,
+    "min_barrel_diameter": 181.44
+  },
+  {
+    "#": 287,
+    "item_no": 5408,
+    "description": "6Tr1.5 BC/PVC/OS/PVC 110V",
+    "od": 17.43,
+    "multiplying": 8,
+    "min_bending_radius": 139.44,
+    "min_barrel_diameter": 223.104
+  },
+  {
+    "#": 288,
+    "item_no": 5411,
+    "description": "12Tr1.5 BC/PVC/OS/PVC 110V",
+    "od": 24.045,
+    "multiplying": 8,
+    "min_bending_radius": 192.36,
+    "min_barrel_diameter": 307.776
+  },
+  {
+    "#": 289,
+    "item_no": 5413,
+    "description": "10Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 21.84,
+    "multiplying": 12,
+    "min_bending_radius": 262.08,
+    "min_barrel_diameter": 419.328
+  },
+  {
+    "#": 290,
+    "item_no": 5415,
+    "description": "10Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 29.295,
+    "multiplying": 12,
+    "min_bending_radius": 351.54,
+    "min_barrel_diameter": 562.464
+  },
+  {
+    "#": 291,
+    "item_no": 5420,
+    "description": "1Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 10.92,
+    "multiplying": 12,
+    "min_bending_radius": 131.04,
+    "min_barrel_diameter": 209.664
+  },
+  {
+    "#": 292,
+    "item_no": 5433,
+    "description": "3Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 14.385,
+    "multiplying": 12,
+    "min_bending_radius": 172.62,
+    "min_barrel_diameter": 276.192
+  },
+  {
+    "#": 293,
+    "item_no": 5435,
+    "description": "3Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 18.585,
+    "multiplying": 12,
+    "min_bending_radius": 223.02,
+    "min_barrel_diameter": 356.832
+  },
+  {
+    "#": 294,
+    "item_no": 5443,
+    "description": "4Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 15.225,
+    "multiplying": 12,
+    "min_bending_radius": 182.7,
+    "min_barrel_diameter": 292.32
+  },
+  {
+    "#": 295,
+    "item_no": 5445,
+    "description": "4Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 19.95,
+    "multiplying": 12,
+    "min_bending_radius": 239.4,
+    "min_barrel_diameter": 383.04
+  },
+  {
+    "#": 296,
+    "item_no": 5449,
+    "description": "12Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 22.575,
+    "multiplying": 12,
+    "min_bending_radius": 270.9,
+    "min_barrel_diameter": 433.44
+  },
+  {
+    "#": 297,
+    "item_no": 5463,
+    "description": "6Tr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 18.27,
+    "multiplying": 12,
+    "min_bending_radius": 219.24,
+    "min_barrel_diameter": 350.784
+  },
+  {
+    "#": 298,
+    "item_no": 5465,
+    "description": "6Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 22.995,
+    "multiplying": 12,
+    "min_bending_radius": 275.94,
+    "min_barrel_diameter": 441.504
+  },
+  {
+    "#": 299,
+    "item_no": 5486,
+    "description": "12Tr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 29.925,
+    "multiplying": 12,
+    "min_bending_radius": 359.1,
+    "min_barrel_diameter": 574.56
+  },
+  {
+    "#": 300,
+    "item_no": "5500ERTC",
+    "description": "4C+E 50 TCCL5/EPR/CPE 1KV H07",
+    "od": 48.51,
+    "multiplying": 5,
+    "min_bending_radius": 242.55,
+    "min_barrel_diameter": 388.08
+  },
+  {
+    "#": 301,
+    "item_no": 5501,
+    "description": "1Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 11.865,
+    "multiplying": 12,
+    "min_bending_radius": 142.38,
+    "min_barrel_diameter": 227.808
+  },
+  {
+    "#": 302,
+    "item_no": "5501BLU",
+    "description": "1Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 11.865,
+    "multiplying": 12,
+    "min_bending_radius": 142.38,
+    "min_barrel_diameter": 227.808
+  },
+  {
+    "#": 303,
+    "item_no": 5502,
+    "description": "2Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 15.435,
+    "multiplying": 12,
+    "min_bending_radius": 185.22,
+    "min_barrel_diameter": 296.352
+  },
+  {
+    "#": 304,
+    "item_no": "5502BLU",
+    "description": "2Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 15.435,
+    "multiplying": 12,
+    "min_bending_radius": 185.22,
+    "min_barrel_diameter": 296.352
+  },
+  {
+    "#": 305,
+    "item_no": 5504,
+    "description": "4Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 18.375,
+    "multiplying": 12,
+    "min_bending_radius": 220.5,
+    "min_barrel_diameter": 352.8
+  },
+  {
+    "#": 306,
+    "item_no": "5504BLU",
+    "description": "4Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 18.375,
+    "multiplying": 12,
+    "min_bending_radius": 220.5,
+    "min_barrel_diameter": 352.8
+  },
+  {
+    "#": 307,
+    "item_no": 5506,
+    "description": "6Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 21.105,
+    "multiplying": 12,
+    "min_bending_radius": 253.26,
+    "min_barrel_diameter": 405.216
+  },
+  {
+    "#": 308,
+    "item_no": "5506BLU",
+    "description": "6Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 21.105,
+    "multiplying": 12,
+    "min_bending_radius": 253.26,
+    "min_barrel_diameter": 405.216
+  },
+  {
+    "#": 309,
+    "item_no": 5508,
+    "description": "8Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 23.31,
+    "multiplying": 12,
+    "min_bending_radius": 279.72,
+    "min_barrel_diameter": 447.552
+  },
+  {
+    "#": 310,
+    "item_no": "5508BLU",
+    "description": "8Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 23.31,
+    "multiplying": 12,
+    "min_bending_radius": 279.72,
+    "min_barrel_diameter": 447.552
+  },
+  {
+    "#": 311,
+    "item_no": 5510,
+    "description": "10Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 26.46,
+    "multiplying": 12,
+    "min_bending_radius": 317.52,
+    "min_barrel_diameter": 508.032
+  },
+  {
+    "#": 312,
+    "item_no": "5510BLU",
+    "description": "10Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 26.46,
+    "multiplying": 12,
+    "min_bending_radius": 317.52,
+    "min_barrel_diameter": 508.032
+  },
+  {
+    "#": 313,
+    "item_no": 5512,
+    "description": "12Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 27.09,
+    "multiplying": 12,
+    "min_bending_radius": 325.08,
+    "min_barrel_diameter": 520.128
+  },
+  {
+    "#": 314,
+    "item_no": "5512BLU",
+    "description": "12Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 27.09,
+    "multiplying": 12,
+    "min_bending_radius": 325.08,
+    "min_barrel_diameter": 520.128
+  },
+  {
+    "#": 315,
+    "item_no": 5516,
+    "description": "16Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 29.715,
+    "multiplying": 12,
+    "min_bending_radius": 356.58,
+    "min_barrel_diameter": 570.528
+  },
+  {
+    "#": 316,
+    "item_no": "5516BLU",
+    "description": "16Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 29.715,
+    "multiplying": 12,
+    "min_bending_radius": 356.58,
+    "min_barrel_diameter": 570.528
+  },
+  {
+    "#": 317,
+    "item_no": 5520,
+    "description": "20Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 32.445,
+    "multiplying": 12,
+    "min_bending_radius": 389.34,
+    "min_barrel_diameter": 622.944
+  },
+  {
+    "#": 318,
+    "item_no": 5524,
+    "description": "24Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 36.54,
+    "multiplying": 12,
+    "min_bending_radius": 438.48,
+    "min_barrel_diameter": 701.568
+  },
+  {
+    "#": 319,
+    "item_no": "5524BLU",
+    "description": "24Pr1.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 36.54,
+    "multiplying": 12,
+    "min_bending_radius": 438.48,
+    "min_barrel_diameter": 701.568
+  },
+  {
+    "#": 320,
+    "item_no": 5530,
+    "description": "10Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 20.475,
+    "multiplying": 12,
+    "min_bending_radius": 245.7,
+    "min_barrel_diameter": 393.12
+  },
+  {
+    "#": 321,
+    "item_no": "5530BLU",
+    "description": "10Pr0.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 20.475,
+    "multiplying": 12,
+    "min_bending_radius": 245.7,
+    "min_barrel_diameter": 393.12
+  },
+  {
+    "#": 322,
+    "item_no": 5531,
+    "description": "1Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 10.605,
+    "multiplying": 12,
+    "min_bending_radius": 127.26,
+    "min_barrel_diameter": 203.616
+  },
+  {
+    "#": 323,
+    "item_no": 5532,
+    "description": "2Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 13.125,
+    "multiplying": 12,
+    "min_bending_radius": 157.5,
+    "min_barrel_diameter": 252.0
+  },
+  {
+    "#": 324,
+    "item_no": 5533,
+    "description": "4Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 14.7,
+    "multiplying": 12,
+    "min_bending_radius": 176.4,
+    "min_barrel_diameter": 282.24
+  },
+  {
+    "#": 325,
+    "item_no": 5534,
+    "description": "6Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 17.325,
+    "multiplying": 12,
+    "min_bending_radius": 207.9,
+    "min_barrel_diameter": 332.64
+  },
+  {
+    "#": 326,
+    "item_no": 5535,
+    "description": "8Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 17.955,
+    "multiplying": 12,
+    "min_bending_radius": 215.46,
+    "min_barrel_diameter": 344.736
+  },
+  {
+    "#": 327,
+    "item_no": "5535BLU",
+    "description": "8Pr0.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 17.955,
+    "multiplying": 12,
+    "min_bending_radius": 215.46,
+    "min_barrel_diameter": 344.736
+  },
+  {
+    "#": 328,
+    "item_no": 5536,
+    "description": "12Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 21.0,
+    "multiplying": 12,
+    "min_bending_radius": 252.0,
+    "min_barrel_diameter": 403.2
+  },
+  {
+    "#": 329,
+    "item_no": "5536BLU",
+    "description": "12Pr0.5 BC/PVC/OS/SWA/PVC BLU 110V",
+    "od": 21.0,
+    "multiplying": 12,
+    "min_bending_radius": 252.0,
+    "min_barrel_diameter": 403.2
+  },
+  {
+    "#": 330,
+    "item_no": 5537,
+    "description": "16Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 22.995,
+    "multiplying": 12,
+    "min_bending_radius": 275.94,
+    "min_barrel_diameter": 441.504
+  },
+  {
+    "#": 331,
+    "item_no": 5538,
+    "description": "24Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 26.985,
+    "multiplying": 12,
+    "min_bending_radius": 323.82,
+    "min_barrel_diameter": 518.112
+  },
+  {
+    "#": 332,
+    "item_no": 5539,
+    "description": "36Pr0.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 31.395,
+    "multiplying": 12,
+    "min_bending_radius": 376.74,
+    "min_barrel_diameter": 602.784
+  },
+  {
+    "#": 333,
+    "item_no": 5550,
+    "description": "50Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 46.935,
+    "multiplying": 12,
+    "min_bending_radius": 563.22,
+    "min_barrel_diameter": 901.152
+  },
+  {
+    "#": 334,
+    "item_no": 5556,
+    "description": "36Pr1.5 BC/PVC/OS/SWA/PVC 110V",
+    "od": 41.58,
+    "multiplying": 12,
+    "min_bending_radius": 498.96,
+    "min_barrel_diameter": 798.336
+  },
+  {
+    "#": 335,
+    "item_no": 5601,
+    "description": "1Pr0.75 BC/PVC/OS/PVC 110V",
+    "od": 5.565,
+    "multiplying": 8,
+    "min_bending_radius": 44.52,
+    "min_barrel_diameter": 71.232
+  },
+  {
+    "#": 336,
+    "item_no": 5602,
+    "description": "2Pr0.75 BC/PVC/OS/PVC 110V",
+    "od": 8.295,
+    "multiplying": 8,
+    "min_bending_radius": 66.36,
+    "min_barrel_diameter": 106.176
+  },
+  {
+    "#": 337,
+    "item_no": 5603,
+    "description": "3Pr0.75 BC/PVC/OS/PVC 110V",
+    "od": 8.82,
+    "multiplying": 8,
+    "min_bending_radius": 70.56,
+    "min_barrel_diameter": 112.896
+  },
+  {
+    "#": 338,
+    "item_no": 5610,
+    "description": "10Pr0.5 BC/PVC/OS/SWA/PVC 600V",
+    "od": 25.725,
+    "multiplying": 12,
+    "min_bending_radius": 308.7,
+    "min_barrel_diameter": 493.92
+  },
+  {
+    "#": 339,
+    "item_no": 5611,
+    "description": "1Pr1.5 BC/PVC/OS/SWA/PVC 600V",
+    "od": 13.755,
+    "multiplying": 12,
+    "min_bending_radius": 165.06,
+    "min_barrel_diameter": 264.096
+  },
+  {
+    "#": 340,
+    "item_no": 5612,
+    "description": "2Pr1.5 BC/PVC/OS/SWA/PVC 600V",
+    "od": 19.53,
+    "multiplying": 12,
+    "min_bending_radius": 234.36,
+    "min_barrel_diameter": 374.976
+  },
+  {
+    "#": 341,
+    "item_no": 5613,
+    "description": "4Pr1.5 BC/PVC/OS/SWA/PVC 600V",
+    "od": 21.945,
+    "multiplying": 12,
+    "min_bending_radius": 263.34,
+    "min_barrel_diameter": 421.344
+  },
+  {
+    "#": 342,
+    "item_no": 5641,
+    "description": "1Pr0.5 BC/PVC/OS/SWA/PVC 600V",
+    "od": 11.97,
+    "multiplying": 12,
+    "min_bending_radius": 143.64,
+    "min_barrel_diameter": 229.824
+  },
+  {
+    "#": 343,
+    "item_no": 5642,
+    "description": "2Pr0.5 BC/PVC/OS/SWA/PVC 600V",
+    "od": 16.59,
+    "multiplying": 12,
+    "min_bending_radius": 199.08,
+    "min_barrel_diameter": 318.528
+  },
+  {
+    "#": 344,
+    "item_no": 5644,
+    "description": "4Pr0.5 BC/PVC/OS/SWA/PVC 600V",
+    "od": 18.48,
+    "multiplying": 12,
+    "min_bending_radius": 221.76,
+    "min_barrel_diameter": 354.816
+  },
+  {
+    "#": 345,
+    "item_no": "5700ERTC",
+    "description": "4C+E 70 TCCL5/EPR/CPE 1KV H07",
+    "od": 54.6,
+    "multiplying": 5,
+    "min_bending_radius": 273.0,
+    "min_barrel_diameter": 436.8
+  },
+  {
+    "#": 346,
+    "item_no": 5702,
+    "description": "2Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 8.295,
+    "multiplying": 8,
+    "min_bending_radius": 66.36,
+    "min_barrel_diameter": 106.176
+  },
+  {
+    "#": 347,
+    "item_no": "5702N",
+    "description": "2Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 8.295,
+    "multiplying": 8,
+    "min_bending_radius": 66.36,
+    "min_barrel_diameter": 106.176
+  },
+  {
+    "#": 348,
+    "item_no": 5704,
+    "description": "4Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 10.29,
+    "multiplying": 8,
+    "min_bending_radius": 82.32,
+    "min_barrel_diameter": 131.712
+  },
+  {
+    "#": 349,
+    "item_no": "5704N",
+    "description": "4Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 10.29,
+    "multiplying": 8,
+    "min_bending_radius": 82.32,
+    "min_barrel_diameter": 131.712
+  },
+  {
+    "#": 350,
+    "item_no": 5706,
+    "description": "6Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 12.495,
+    "multiplying": 8,
+    "min_bending_radius": 99.96,
+    "min_barrel_diameter": 159.936
+  },
+  {
+    "#": 351,
+    "item_no": "5706N",
+    "description": "6Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 12.495,
+    "multiplying": 8,
+    "min_bending_radius": 99.96,
+    "min_barrel_diameter": 159.936
+  },
+  {
+    "#": 352,
+    "item_no": 5710,
+    "description": "10Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 15.54,
+    "multiplying": 8,
+    "min_bending_radius": 124.32,
+    "min_barrel_diameter": 198.912
+  },
+  {
+    "#": 353,
+    "item_no": "5710N",
+    "description": "10Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 15.54,
+    "multiplying": 8,
+    "min_bending_radius": 124.32,
+    "min_barrel_diameter": 198.912
+  },
+  {
+    "#": 354,
+    "item_no": 5712,
+    "description": "12Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 16.065,
+    "multiplying": 8,
+    "min_bending_radius": 128.52,
+    "min_barrel_diameter": 205.632
+  },
+  {
+    "#": 355,
+    "item_no": "5712N",
+    "description": "12Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 16.065,
+    "multiplying": 8,
+    "min_bending_radius": 128.52,
+    "min_barrel_diameter": 205.632
+  },
+  {
+    "#": 356,
+    "item_no": 5716,
+    "description": "16Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 18.06,
+    "multiplying": 8,
+    "min_bending_radius": 144.48,
+    "min_barrel_diameter": 231.168
+  },
+  {
+    "#": 357,
+    "item_no": "5716N",
+    "description": "16Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 18.06,
+    "multiplying": 8,
+    "min_bending_radius": 144.48,
+    "min_barrel_diameter": 231.168
+  },
+  {
+    "#": 358,
+    "item_no": 5724,
+    "description": "24Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 21.735,
+    "multiplying": 8,
+    "min_bending_radius": 173.88,
+    "min_barrel_diameter": 278.208
+  },
+  {
+    "#": 359,
+    "item_no": "5724N",
+    "description": "24Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 21.735,
+    "multiplying": 8,
+    "min_bending_radius": 173.88,
+    "min_barrel_diameter": 278.208
+  },
+  {
+    "#": 360,
+    "item_no": 5730,
+    "description": "10Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 22.26,
+    "multiplying": 8,
+    "min_bending_radius": 178.08,
+    "min_barrel_diameter": 284.928
+  },
+  {
+    "#": 361,
+    "item_no": "5730N",
+    "description": "10Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 22.26,
+    "multiplying": 8,
+    "min_bending_radius": 178.08,
+    "min_barrel_diameter": 284.928
+  },
+  {
+    "#": 362,
+    "item_no": 5732,
+    "description": "2Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 11.34,
+    "multiplying": 8,
+    "min_bending_radius": 90.72,
+    "min_barrel_diameter": 145.152
+  },
+  {
+    "#": 363,
+    "item_no": "5732BLU",
+    "description": "2Pr1.5 BC/PVC/IOS/PVC 110V BLU",
+    "od": 11.34,
+    "multiplying": 8,
+    "min_bending_radius": 90.72,
+    "min_barrel_diameter": 145.152
+  },
+  {
+    "#": 364,
+    "item_no": "5732BLU-N",
+    "description": "2Pr1.5 BC/PVC/IOS/PVC 110V BLU",
+    "od": 11.34,
+    "multiplying": 8,
+    "min_bending_radius": 90.72,
+    "min_barrel_diameter": 145.152
+  },
+  {
+    "#": 365,
+    "item_no": "5732N",
+    "description": "2Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 11.34,
+    "multiplying": 8,
+    "min_bending_radius": 90.72,
+    "min_barrel_diameter": 145.152
+  },
+  {
+    "#": 366,
+    "item_no": 5734,
+    "description": "4Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 13.545,
+    "multiplying": 8,
+    "min_bending_radius": 108.36,
+    "min_barrel_diameter": 173.376
+  },
+  {
+    "#": 367,
+    "item_no": "5734N",
+    "description": "4Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 13.545,
+    "multiplying": 8,
+    "min_bending_radius": 108.36,
+    "min_barrel_diameter": 173.376
+  },
+  {
+    "#": 368,
+    "item_no": 5736,
+    "description": "6Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 25.62,
+    "multiplying": 8,
+    "min_bending_radius": 204.96,
+    "min_barrel_diameter": 327.936
+  },
+  {
+    "#": 369,
+    "item_no": "5736BLU",
+    "description": "6Pr1.5 BC/PVC/IOS/PVC 110V BLU",
+    "od": 16.695,
+    "multiplying": 8,
+    "min_bending_radius": 133.56,
+    "min_barrel_diameter": 213.696
+  },
+  {
+    "#": 370,
+    "item_no": "5736BLU-N",
+    "description": "6Pr1.5 BC/PVC/IOS/PVC 110V BLU",
+    "od": 16.695,
+    "multiplying": 8,
+    "min_bending_radius": 133.56,
+    "min_barrel_diameter": 213.696
+  },
+  {
+    "#": 371,
+    "item_no": "5736N",
+    "description": "6Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 25.62,
+    "multiplying": 8,
+    "min_bending_radius": 204.96,
+    "min_barrel_diameter": 327.936
+  },
+  {
+    "#": 372,
+    "item_no": 5737,
+    "description": "36Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 25.62,
+    "multiplying": 8,
+    "min_bending_radius": 204.96,
+    "min_barrel_diameter": 327.936
+  },
+  {
+    "#": 373,
+    "item_no": "5737N",
+    "description": "36Pr0.5 BC/PVC/IOS/PVC 110V",
+    "od": 25.62,
+    "multiplying": 8,
+    "min_bending_radius": 204.96,
+    "min_barrel_diameter": 327.936
+  },
+  {
+    "#": 374,
+    "item_no": 5738,
+    "description": "8Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 19.005,
+    "multiplying": 8,
+    "min_bending_radius": 152.04,
+    "min_barrel_diameter": 243.264
+  },
+  {
+    "#": 375,
+    "item_no": "5738N",
+    "description": "8Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 19.005,
+    "multiplying": 8,
+    "min_bending_radius": 152.04,
+    "min_barrel_diameter": 243.264
+  },
+  {
+    "#": 376,
+    "item_no": 5740,
+    "description": "12Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 22.995,
+    "multiplying": 8,
+    "min_bending_radius": 183.96,
+    "min_barrel_diameter": 294.336
+  },
+  {
+    "#": 377,
+    "item_no": "5740N",
+    "description": "12Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 22.995,
+    "multiplying": 8,
+    "min_bending_radius": 183.96,
+    "min_barrel_diameter": 294.336
+  },
+  {
+    "#": 378,
+    "item_no": 5742,
+    "description": "16Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 25.935,
+    "multiplying": 8,
+    "min_bending_radius": 207.48,
+    "min_barrel_diameter": 331.968
+  },
+  {
+    "#": 379,
+    "item_no": "5742N",
+    "description": "16Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 25.935,
+    "multiplying": 8,
+    "min_bending_radius": 207.48,
+    "min_barrel_diameter": 331.968
+  },
+  {
+    "#": 380,
+    "item_no": 5743,
+    "description": "20Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 29.4,
+    "multiplying": 8,
+    "min_bending_radius": 235.2,
+    "min_barrel_diameter": 376.32
+  },
+  {
+    "#": 381,
+    "item_no": "5743N",
+    "description": "20Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 29.4,
+    "multiplying": 8,
+    "min_bending_radius": 235.2,
+    "min_barrel_diameter": 376.32
+  },
+  {
+    "#": 382,
+    "item_no": 5744,
+    "description": "24Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 32.97,
+    "multiplying": 8,
+    "min_bending_radius": 263.76,
+    "min_barrel_diameter": 422.016
+  },
+  {
+    "#": 383,
+    "item_no": "5744N",
+    "description": "24Pr1.5 BC/PVC/IOS/PVC 110V",
+    "od": 32.97,
+    "multiplying": 8,
+    "min_bending_radius": 263.76,
+    "min_barrel_diameter": 422.016
+  },
+  {
+    "#": 384,
+    "item_no": 5801,
+    "description": "1Pr0.5 BC/PVC/OS/PVC Type 600",
+    "od": 6.615,
+    "multiplying": 8,
+    "min_bending_radius": 52.92,
+    "min_barrel_diameter": 84.672
+  },
+  {
+    "#": 385,
+    "item_no": 5802,
+    "description": "2Pr0.5 BC/PVC/OS/PVC Type 600",
+    "od": 10.29,
+    "multiplying": 8,
+    "min_bending_radius": 82.32,
+    "min_barrel_diameter": 131.712
+  },
+  {
+    "#": 386,
+    "item_no": 5803,
+    "description": "3Pr0.5 BC/PVC/OS/PVC Type 600",
+    "od": 10.92,
+    "multiplying": 8,
+    "min_bending_radius": 87.36,
+    "min_barrel_diameter": 139.776
+  },
+  {
+    "#": 387,
+    "item_no": 5804,
+    "description": "4Pr0.5 BC/PVC/OS/PVC Type 600",
+    "od": 12.18,
+    "multiplying": 8,
+    "min_bending_radius": 97.44,
+    "min_barrel_diameter": 155.904
+  },
+  {
+    "#": 388,
+    "item_no": 5806,
+    "description": "6Pr0.5 BC/PVC/OS/PVC Type 600",
+    "od": 14.28,
+    "multiplying": 8,
+    "min_bending_radius": 114.24,
+    "min_barrel_diameter": 182.784
+  },
+  {
+    "#": 389,
+    "item_no": 5812,
+    "description": "12Pr0.5 BC/PVC/OS/PVC 600V",
+    "od": 19.635,
+    "multiplying": 8,
+    "min_bending_radius": 157.08,
+    "min_barrel_diameter": 251.328
+  },
+  {
+    "#": 390,
+    "item_no": 5816,
+    "description": "16Pr0.5 BC/PVC/OS/PVC 600V",
+    "od": 22.155,
+    "multiplying": 8,
+    "min_bending_radius": 177.24,
+    "min_barrel_diameter": 283.584
+  },
+  {
+    "#": 391,
+    "item_no": 5824,
+    "description": "24Pr0.5 BC/PVC/OS/PVC 600V",
+    "od": 28.035,
+    "multiplying": 8,
+    "min_bending_radius": 224.28,
+    "min_barrel_diameter": 358.848
+  },
+  {
+    "#": 392,
+    "item_no": 5854,
+    "description": "24Pr0.5 BC/PVC/IOS/SWA/PVC 600V BLU",
+    "od": 36.435,
+    "multiplying": 12,
+    "min_bending_radius": 437.22,
+    "min_barrel_diameter": 699.552
+  },
+  {
+    "#": 393,
+    "item_no": 5901,
+    "description": "1Pr1.5 BC/PVC/OS/PVC 600V BLU",
+    "od": 8.295,
+    "multiplying": 8,
+    "min_bending_radius": 66.36,
+    "min_barrel_diameter": 106.176
+  },
+  {
+    "#": 394,
+    "item_no": 5902,
+    "description": "2Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 16.17,
+    "multiplying": 12,
+    "min_bending_radius": 194.04,
+    "min_barrel_diameter": 310.464
+  },
+  {
+    "#": 395,
+    "item_no": "5902BLU",
+    "description": "2Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 16.17,
+    "multiplying": 12,
+    "min_bending_radius": 194.04,
+    "min_barrel_diameter": 310.464
+  },
+  {
+    "#": 396,
+    "item_no": "5902BLU-N",
+    "description": "2Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 16.17,
+    "multiplying": 12,
+    "min_bending_radius": 194.04,
+    "min_barrel_diameter": 310.464
+  },
+  {
+    "#": 397,
+    "item_no": "5902N",
+    "description": "2Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 16.17,
+    "multiplying": 12,
+    "min_bending_radius": 194.04,
+    "min_barrel_diameter": 310.464
+  },
+  {
+    "#": 398,
+    "item_no": 5904,
+    "description": "4Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 19.32,
+    "multiplying": 12,
+    "min_bending_radius": 231.84,
+    "min_barrel_diameter": 370.944
+  },
+  {
+    "#": 399,
+    "item_no": "5904BLU",
+    "description": "4Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 19.32,
+    "multiplying": 12,
+    "min_bending_radius": 231.84,
+    "min_barrel_diameter": 370.944
+  },
+  {
+    "#": 400,
+    "item_no": "5904BLU-N",
+    "description": "4Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 19.32,
+    "multiplying": 12,
+    "min_bending_radius": 231.84,
+    "min_barrel_diameter": 370.944
+  },
+  {
+    "#": 401,
+    "item_no": "5904N",
+    "description": "4Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 19.32,
+    "multiplying": 12,
+    "min_bending_radius": 231.84,
+    "min_barrel_diameter": 370.944
+  },
+  {
+    "#": 402,
+    "item_no": 5906,
+    "description": "6Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 22.26,
+    "multiplying": 12,
+    "min_bending_radius": 267.12,
+    "min_barrel_diameter": 427.392
+  },
+  {
+    "#": 403,
+    "item_no": "5906BLU",
+    "description": "6Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 22.26,
+    "multiplying": 12,
+    "min_bending_radius": 267.12,
+    "min_barrel_diameter": 427.392
+  },
+  {
+    "#": 404,
+    "item_no": "5906BLU-N",
+    "description": "6Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 22.26,
+    "multiplying": 12,
+    "min_bending_radius": 267.12,
+    "min_barrel_diameter": 427.392
+  },
+  {
+    "#": 405,
+    "item_no": "5906N",
+    "description": "6Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 22.26,
+    "multiplying": 12,
+    "min_bending_radius": 267.12,
+    "min_barrel_diameter": 427.392
+  },
+  {
+    "#": 406,
+    "item_no": 5908,
+    "description": "8Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 25.305,
+    "multiplying": 12,
+    "min_bending_radius": 303.66,
+    "min_barrel_diameter": 485.856
+  },
+  {
+    "#": 407,
+    "item_no": "5908BLU",
+    "description": "8Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 25.305,
+    "multiplying": 12,
+    "min_bending_radius": 303.66,
+    "min_barrel_diameter": 485.856
+  },
+  {
+    "#": 408,
+    "item_no": "5908BLU-N",
+    "description": "8Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 25.305,
+    "multiplying": 12,
+    "min_bending_radius": 303.66,
+    "min_barrel_diameter": 485.856
+  },
+  {
+    "#": 409,
+    "item_no": "5908N",
+    "description": "8Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 25.305,
+    "multiplying": 12,
+    "min_bending_radius": 303.66,
+    "min_barrel_diameter": 485.856
+  },
+  {
+    "#": 410,
+    "item_no": 5910,
+    "description": "10Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 27.93,
+    "multiplying": 12,
+    "min_bending_radius": 335.16,
+    "min_barrel_diameter": 536.256
+  },
+  {
+    "#": 411,
+    "item_no": "5910N",
+    "description": "10Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 27.93,
+    "multiplying": 12,
+    "min_bending_radius": 335.16,
+    "min_barrel_diameter": 536.256
+  },
+  {
+    "#": 412,
+    "item_no": 5912,
+    "description": "12Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 28.875,
+    "multiplying": 12,
+    "min_bending_radius": 346.5,
+    "min_barrel_diameter": 554.4
+  },
+  {
+    "#": 413,
+    "item_no": "5912BLU",
+    "description": "12Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 28.875,
+    "multiplying": 12,
+    "min_bending_radius": 346.5,
+    "min_barrel_diameter": 554.4
+  },
+  {
+    "#": 414,
+    "item_no": "5912BLU-N",
+    "description": "12Pr1.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 28.875,
+    "multiplying": 12,
+    "min_bending_radius": 346.5,
+    "min_barrel_diameter": 554.4
+  },
+  {
+    "#": 415,
+    "item_no": "5912N",
+    "description": "12Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 28.875,
+    "multiplying": 12,
+    "min_bending_radius": 346.5,
+    "min_barrel_diameter": 554.4
+  },
+  {
+    "#": 416,
+    "item_no": 5916,
+    "description": "16Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 31.395,
+    "multiplying": 12,
+    "min_bending_radius": 376.74,
+    "min_barrel_diameter": 602.784
+  },
+  {
+    "#": 417,
+    "item_no": "5916N",
+    "description": "16Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 31.395,
+    "multiplying": 12,
+    "min_bending_radius": 376.74,
+    "min_barrel_diameter": 602.784
+  },
+  {
+    "#": 418,
+    "item_no": 5920,
+    "description": "20Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 34.65,
+    "multiplying": 12,
+    "min_bending_radius": 415.8,
+    "min_barrel_diameter": 665.28
+  },
+  {
+    "#": 419,
+    "item_no": "5920N",
+    "description": "20Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 34.65,
+    "multiplying": 12,
+    "min_bending_radius": 415.8,
+    "min_barrel_diameter": 665.28
+  },
+  {
+    "#": 420,
+    "item_no": 5924,
+    "description": "24Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 38.85,
+    "multiplying": 12,
+    "min_bending_radius": 466.2,
+    "min_barrel_diameter": 745.92
+  },
+  {
+    "#": 421,
+    "item_no": "5924N",
+    "description": "24Pr1.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 38.85,
+    "multiplying": 12,
+    "min_bending_radius": 466.2,
+    "min_barrel_diameter": 745.92
+  },
+  {
+    "#": 422,
+    "item_no": 5960,
+    "description": "2Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 13.65,
+    "multiplying": 12,
+    "min_bending_radius": 163.8,
+    "min_barrel_diameter": 262.08
+  },
+  {
+    "#": 423,
+    "item_no": "5960BLU",
+    "description": "2Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 13.65,
+    "multiplying": 12,
+    "min_bending_radius": 163.8,
+    "min_barrel_diameter": 262.08
+  },
+  {
+    "#": 424,
+    "item_no": "5960BLU-N",
+    "description": "2Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 13.65,
+    "multiplying": 12,
+    "min_bending_radius": 163.8,
+    "min_barrel_diameter": 262.08
+  },
+  {
+    "#": 425,
+    "item_no": "5960N",
+    "description": "2Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 13.65,
+    "multiplying": 12,
+    "min_bending_radius": 163.8,
+    "min_barrel_diameter": 262.08
+  },
+  {
+    "#": 426,
+    "item_no": 5961,
+    "description": "4Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 15.12,
+    "multiplying": 12,
+    "min_bending_radius": 181.44,
+    "min_barrel_diameter": 290.304
+  },
+  {
+    "#": 427,
+    "item_no": "5961BLU",
+    "description": "4Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 15.12,
+    "multiplying": 12,
+    "min_bending_radius": 181.44,
+    "min_barrel_diameter": 290.304
+  },
+  {
+    "#": 428,
+    "item_no": "5961BLU-N",
+    "description": "4Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 15.12,
+    "multiplying": 12,
+    "min_bending_radius": 181.44,
+    "min_barrel_diameter": 290.304
+  },
+  {
+    "#": 429,
+    "item_no": "5961N",
+    "description": "4Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 15.12,
+    "multiplying": 12,
+    "min_bending_radius": 181.44,
+    "min_barrel_diameter": 290.304
+  },
+  {
+    "#": 430,
+    "item_no": 5962,
+    "description": "6Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 18.165,
+    "multiplying": 12,
+    "min_bending_radius": 217.98,
+    "min_barrel_diameter": 348.768
+  },
+  {
+    "#": 431,
+    "item_no": "5962BLU",
+    "description": "6Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 18.165,
+    "multiplying": 12,
+    "min_bending_radius": 217.98,
+    "min_barrel_diameter": 348.768
+  },
+  {
+    "#": 432,
+    "item_no": "5962BLU-N",
+    "description": "6Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 18.165,
+    "multiplying": 12,
+    "min_bending_radius": 217.98,
+    "min_barrel_diameter": 348.768
+  },
+  {
+    "#": 433,
+    "item_no": "5962N",
+    "description": "6Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 18.165,
+    "multiplying": 12,
+    "min_bending_radius": 217.98,
+    "min_barrel_diameter": 348.768
+  },
+  {
+    "#": 434,
+    "item_no": 5963,
+    "description": "8Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 19.215,
+    "multiplying": 12,
+    "min_bending_radius": 230.58,
+    "min_barrel_diameter": 368.928
+  },
+  {
+    "#": 435,
+    "item_no": "5963BLU",
+    "description": "8Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 19.215,
+    "multiplying": 12,
+    "min_bending_radius": 230.58,
+    "min_barrel_diameter": 368.928
+  },
+  {
+    "#": 436,
+    "item_no": "5963BLU-N",
+    "description": "8Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 19.215,
+    "multiplying": 12,
+    "min_bending_radius": 230.58,
+    "min_barrel_diameter": 368.928
+  },
+  {
+    "#": 437,
+    "item_no": "5963N",
+    "description": "8Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 19.215,
+    "multiplying": 12,
+    "min_bending_radius": 230.58,
+    "min_barrel_diameter": 368.928
+  },
+  {
+    "#": 438,
+    "item_no": 5964,
+    "description": "10Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 21.21,
+    "multiplying": 12,
+    "min_bending_radius": 254.52,
+    "min_barrel_diameter": 407.232
+  },
+  {
+    "#": 439,
+    "item_no": "5964N",
+    "description": "10Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 21.21,
+    "multiplying": 12,
+    "min_bending_radius": 254.52,
+    "min_barrel_diameter": 407.232
+  },
+  {
+    "#": 440,
+    "item_no": 5965,
+    "description": "12Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 21.735,
+    "multiplying": 12,
+    "min_bending_radius": 260.82,
+    "min_barrel_diameter": 417.312
+  },
+  {
+    "#": 441,
+    "item_no": "5965BLU",
+    "description": "12Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 21.735,
+    "multiplying": 12,
+    "min_bending_radius": 260.82,
+    "min_barrel_diameter": 417.312
+  },
+  {
+    "#": 442,
+    "item_no": "5965BLU-N",
+    "description": "12Pr0.5 BC/PVC/IOS/SWA/PVC 110V BLU",
+    "od": 21.735,
+    "multiplying": 12,
+    "min_bending_radius": 260.82,
+    "min_barrel_diameter": 417.312
+  },
+  {
+    "#": 443,
+    "item_no": "5965N",
+    "description": "12Pr0.5 BC/PVC/IOS/SWA/PVC 110V",
+    "od": 21.735,
+    "multiplying": 12,
+    "min_bending_radius": 260.82,
+    "min_barrel_diameter": 417.312
+  },
+  {
+    "#": 444,
+    "item_no": 5990,
+    "description": "2Pr1.5 BC/PVC/OS/PVC 600V  BLU",
+    "od": 13.23,
+    "multiplying": 8,
+    "min_bending_radius": 105.84,
+    "min_barrel_diameter": 169.344
+  },
+  {
+    "#": 445,
+    "item_no": 5992,
+    "description": "4Pr1.5 BC/PVC/OS/PVC 600V  BLU",
+    "od": 15.96,
+    "multiplying": 8,
+    "min_bending_radius": 127.68,
+    "min_barrel_diameter": 204.288
+  },
+  {
+    "#": 446,
+    "item_no": 5993,
+    "description": "6Pr1.5 BC/PVC/OS/PVC 600V  BLU",
+    "od": 19.425,
+    "multiplying": 8,
+    "min_bending_radius": 155.4,
+    "min_barrel_diameter": 248.64
+  },
+  {
+    "#": 447,
+    "item_no": "7015ERTC",
+    "description": "6C+E 1.5 TCCL5/EPR/CPE 1KV H07",
+    "od": 15.33,
+    "multiplying": 5,
+    "min_bending_radius": 76.65,
+    "min_barrel_diameter": 122.64
+  },
+  {
+    "#": 448,
+    "item_no": "7025ERTC",
+    "description": "6C+E 2.5 TCCL5/EPR/CPE 1KV H07",
+    "od": 16.905,
+    "multiplying": 5,
+    "min_bending_radius": 84.525,
+    "min_barrel_diameter": 135.24
+  },
+  {
+    "#": 449,
+    "item_no": "70E",
+    "description": "1C70 Bare Copper Earth Wire",
+    "od": 10.5,
+    "multiplying": 8,
+    "min_bending_radius": 84.0,
+    "min_barrel_diameter": 134.4
+  },
+  {
+    "#": 463,
+    "item_no": "7805HFSMICA-FLEX",
+    "description": "1C500 BCCl5/MICA/XHF/HFS110 1KV",
+    "od": 44.625,
+    "multiplying": 8,
+    "min_bending_radius": 357.0,
+    "min_barrel_diameter": 571.2
+  },
+  {
+    "#": 464,
+    "item_no": "7805XV",
+    "description": "1C500 BC/XLPE/PVC 1KV SDI",
+    "od": 38.535,
+    "multiplying": 6,
+    "min_bending_radius": 231.21,
+    "min_barrel_diameter": 369.936
+  },
+  {
+    "#": 465,
+    "item_no": "7812HFSMICA-FLEX",
+    "description": "1C120 BCCl5/MICA/XHF/HFS110 1KV",
+    "od": 23.52,
+    "multiplying": 8,
+    "min_bending_radius": 188.16,
+    "min_barrel_diameter": 301.056
+  },
+  {
+    "#": 466,
+    "item_no": "7812XT-OR",
+    "description": "1C120 BCCL5/XLPE/TPE 1KV ORG",
+    "od": 22.05,
+    "multiplying": 4,
+    "min_bending_radius": 88.2,
+    "min_barrel_diameter": 141.12
+  },
+  {
+    "#": 467,
+    "item_no": "7812XV",
+    "description": "1C120 BC/XLPE/PVC 1KV SDI",
+    "od": 19.425,
+    "multiplying": 6,
+    "min_bending_radius": 116.55,
+    "min_barrel_diameter": 186.48
+  },
+  {
+    "#": 468,
+    "item_no": "7815HFSMICA-FLEX",
+    "description": "1C150 BCCl5/MICA/XHF/HFS110 1KV",
+    "od": 25.095,
+    "multiplying": 8,
+    "min_bending_radius": 200.76,
+    "min_barrel_diameter": 321.216
+  },
+  {
+    "#": 469,
+    "item_no": "7815XT-OR",
+    "description": "1C150 BCCL5/XLPE/TPE 1KV ORG",
+    "od": 23.625,
+    "multiplying": 4,
+    "min_bending_radius": 94.5,
+    "min_barrel_diameter": 151.2
+  },
+  {
+    "#": 470,
+    "item_no": "7815XV",
+    "description": "1C150 BC/XLPE/PVC 1KV SDI",
+    "od": 21.63,
+    "multiplying": 6,
+    "min_bending_radius": 129.78,
+    "min_barrel_diameter": 207.648
+  },
+  {
+    "#": 471,
+    "item_no": "7816HFSMICA-FLEX",
+    "description": "1C16 BCCL5/MICA/XHF/HFS-110 0.6/kV",
+    "od": 11.445,
+    "multiplying": 8,
+    "min_bending_radius": 91.56,
+    "min_barrel_diameter": 146.496
+  },
+  {
+    "#": 472,
+    "item_no": "7816XT-OR",
+    "description": "1C16 BCCL5/XLPE/TPE 1KV ORG",
+    "od": 10.08,
+    "multiplying": 4,
+    "min_bending_radius": 40.32,
+    "min_barrel_diameter": 64.512
+  },
+  {
+    "#": 473,
+    "item_no": "7816XV",
+    "description": "1C16 BC/XLPE/PVC 1KV SDI",
+    "od": 9.45,
+    "multiplying": 6,
+    "min_bending_radius": 56.7,
+    "min_barrel_diameter": 90.72
+  },
+  {
+    "#": 474,
+    "item_no": "7818HFSMICA-FLEX",
+    "description": "1C185 BCCl5/MICA/XHF/HFS110 1KV",
+    "od": 27.72,
+    "multiplying": 8,
+    "min_bending_radius": 221.76,
+    "min_barrel_diameter": 354.816
+  },
+  {
+    "#": 475,
+    "item_no": "7818XT-OR",
+    "description": "1C185 BCCL5/XLPE/TPE 1KV ORG",
+    "od": 26.25,
+    "multiplying": 4,
+    "min_bending_radius": 105.0,
+    "min_barrel_diameter": 168.0
+  },
+  {
+    "#": 476,
+    "item_no": "7818XV",
+    "description": "1C185 BC/XLPE/PVC 1KV SDI",
+    "od": 23.94,
+    "multiplying": 6,
+    "min_bending_radius": 143.64,
+    "min_barrel_diameter": 229.824
+  },
+  {
+    "#": 477,
+    "item_no": "7824HFSMICA-FLEX",
+    "description": "1C240 BCCl5/MICA/XHF/HFS110 1KV",
+    "od": 30.765,
+    "multiplying": 8,
+    "min_bending_radius": 246.12,
+    "min_barrel_diameter": 393.792
+  },
+  {
+    "#": 478,
+    "item_no": "7824XT-OR",
+    "description": "1C240 BCCL5/XLPE/TPE 1KV ORG",
+    "od": 29.295,
+    "multiplying": 4,
+    "min_bending_radius": 117.18,
+    "min_barrel_diameter": 187.488
+  },
+  {
+    "#": 479,
+    "item_no": "7824XV",
+    "description": "1C240 BC/XLPE/PVC 1KV SDI",
+    "od": 27.93,
+    "multiplying": 6,
+    "min_bending_radius": 167.58,
+    "min_barrel_diameter": 268.128
+  },
+  {
+    "#": 480,
+    "item_no": "7825HFSMICA-FLEX",
+    "description": "1C25 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 13.44,
+    "multiplying": 8,
+    "min_bending_radius": 107.52,
+    "min_barrel_diameter": 172.032
+  },
+  {
+    "#": 481,
+    "item_no": "7825XT-OR",
+    "description": "1C25 BCCL5/XLPE/TPE 1KV ORG",
+    "od": 12.075,
+    "multiplying": 4,
+    "min_bending_radius": 48.3,
+    "min_barrel_diameter": 77.28
+  },
+  {
+    "#": 482,
+    "item_no": "7825XV",
+    "description": "1C25 BC/XLPE/PVC 1KV SDI",
+    "od": 11.025,
+    "multiplying": 6,
+    "min_bending_radius": 66.15,
+    "min_barrel_diameter": 105.84
+  },
+  {
+    "#": 485,
+    "item_no": "7830HFSMICA-FLEX",
+    "description": "1C300 BCCl5/MICA/XHF/HFS110 1KV",
+    "od": 33.6,
+    "multiplying": 8,
+    "min_bending_radius": 268.8,
+    "min_barrel_diameter": 430.08
+  },
+  {
+    "#": 486,
+    "item_no": "7830XT-OR",
+    "description": "1C300 BCCL5/XLPE/TPE 1KV ORG",
+    "od": 32.235,
+    "multiplying": 4,
+    "min_bending_radius": 128.94,
+    "min_barrel_diameter": 206.304
+  },
+  {
+    "#": 487,
+    "item_no": "7830XV",
+    "description": "1C300 BC/XLPE/PVC 1KV SDI",
+    "od": 29.19,
+    "multiplying": 6,
+    "min_bending_radius": 175.14,
+    "min_barrel_diameter": 280.224
+  },
+  {
+    "#": 488,
+    "item_no": "7835HFSMICA-FLEX",
+    "description": "1C35 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 15.225,
+    "multiplying": 8,
+    "min_bending_radius": 121.8,
+    "min_barrel_diameter": 194.88
+  },
+  {
+    "#": 489,
+    "item_no": "7835XT-OR",
+    "description": "1C35 BCCL5/XLPE/TPE 1KV ORG",
+    "od": 13.755,
+    "multiplying": 4,
+    "min_bending_radius": 55.02,
+    "min_barrel_diameter": 88.032
+  },
+  {
+    "#": 490,
+    "item_no": "7835XV",
+    "description": "1C35 BC/XLPE/PVC 1KV SDI",
+    "od": 12.075,
+    "multiplying": 6,
+    "min_bending_radius": 72.45,
+    "min_barrel_diameter": 115.92
+  },
+  {
+    "#": 491,
+    "item_no": "7840HFSMICA-FLEX",
+    "description": "1C400 BCCl5/MICA/XHF/HFS110 1KV",
+    "od": 40.845,
+    "multiplying": 8,
+    "min_bending_radius": 326.76,
+    "min_barrel_diameter": 522.816
+  },
+  {
+    "#": 492,
+    "item_no": "7840XV",
+    "description": "1C400 BC/XLPE/PVC 1KV SDI",
+    "od": 33.39,
+    "multiplying": 6,
+    "min_bending_radius": 200.34,
+    "min_barrel_diameter": 320.544
+  },
+  {
+    "#": 493,
+    "item_no": "7850HFSMICA-FLEX",
+    "description": "1C50 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 17.43,
+    "multiplying": 8,
+    "min_bending_radius": 139.44,
+    "min_barrel_diameter": 223.104
+  },
+  {
+    "#": 494,
+    "item_no": "7850XT-OR",
+    "description": "1C50 BCCL5/XLPE/TPE 1KV ORG",
+    "od": 16.065,
+    "multiplying": 4,
+    "min_bending_radius": 64.26,
+    "min_barrel_diameter": 102.816
+  },
+  {
+    "#": 495,
+    "item_no": "7850XV",
+    "description": "1C50 BC/XLPE/PVC 1KV SDI",
+    "od": 13.545,
+    "multiplying": 6,
+    "min_bending_radius": 81.27,
+    "min_barrel_diameter": 130.032
+  },
+  {
+    "#": 496,
+    "item_no": "7863HFSMICA-FLEX",
+    "description": "1C630 BCCl5/MICA/XHF/HFS110 1KV",
+    "od": 48.825,
+    "multiplying": 8,
+    "min_bending_radius": 390.6,
+    "min_barrel_diameter": 624.96
+  },
+  {
+    "#": 497,
+    "item_no": "7863XV",
+    "description": "1C630 BC/XLPE/PVC 1KV SDI",
+    "od": 43.365,
+    "multiplying": 6,
+    "min_bending_radius": 260.19,
+    "min_barrel_diameter": 416.304
+  },
+  {
+    "#": 498,
+    "item_no": "7870HFSMICA-FLEX",
+    "description": "1C70 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 19.11,
+    "multiplying": 8,
+    "min_bending_radius": 152.88,
+    "min_barrel_diameter": 244.608
+  },
+  {
+    "#": 499,
+    "item_no": "7870XT-OR",
+    "description": "1C70 BCCL5/XLPE/TPE 1KV ORG",
+    "od": 17.745,
+    "multiplying": 4,
+    "min_bending_radius": 70.98,
+    "min_barrel_diameter": 113.568
+  },
+  {
+    "#": 500,
+    "item_no": "7870XV",
+    "description": "1C70 BC/XLPE/PVC 1KV SDI",
+    "od": 15.435,
+    "multiplying": 6,
+    "min_bending_radius": 92.61,
+    "min_barrel_diameter": 148.176
+  },
+  {
+    "#": 501,
+    "item_no": "7895HFSMICA-FLEX",
+    "description": "1C95 BCCL5/MICA/XHF/HFS110 1KV",
+    "od": 21.21,
+    "multiplying": 8,
+    "min_bending_radius": 169.68,
+    "min_barrel_diameter": 271.488
+  },
+  {
+    "#": 502,
+    "item_no": "7895XT-OR",
+    "description": "1C95 BCCL5/XLPE/TPE 1KV ORG",
+    "od": 19.74,
+    "multiplying": 4,
+    "min_bending_radius": 78.96,
+    "min_barrel_diameter": 126.336
+  },
+  {
+    "#": 503,
+    "item_no": "7895XV",
+    "description": "1C95 BC/XLPE/PVC 1KV SDI",
+    "od": 18.06,
+    "multiplying": 6,
+    "min_bending_radius": 108.36,
+    "min_barrel_diameter": 173.376
+  },
+  {
+    "#": 504,
+    "item_no": 9315,
+    "description": "2C+E 1.5 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 11.235,
+    "multiplying": 6,
+    "min_bending_radius": 67.41,
+    "min_barrel_diameter": 107.856
+  },
+  {
+    "#": 505,
+    "item_no": 9325,
+    "description": "2C+E 2.5 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 12.6,
+    "multiplying": 6,
+    "min_bending_radius": 75.6,
+    "min_barrel_diameter": 120.96
+  },
+  {
+    "#": 506,
+    "item_no": 9400,
+    "description": "3C+E 1.0 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 12.075,
+    "multiplying": 6,
+    "min_bending_radius": 72.45,
+    "min_barrel_diameter": 115.92
+  },
+  {
+    "#": 507,
+    "item_no": 9401,
+    "description": "3C+E 1.5 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 12.705,
+    "multiplying": 6,
+    "min_bending_radius": 76.23,
+    "min_barrel_diameter": 121.968
+  },
+  {
+    "#": 508,
+    "item_no": 9402,
+    "description": "3C+E 2.5 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 13.965,
+    "multiplying": 6,
+    "min_bending_radius": 83.79,
+    "min_barrel_diameter": 134.064
+  },
+  {
+    "#": 509,
+    "item_no": 9404,
+    "description": "3C+E 4 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 16.695,
+    "multiplying": 6,
+    "min_bending_radius": 100.17,
+    "min_barrel_diameter": 160.272
+  },
+  {
+    "#": 510,
+    "item_no": 9406,
+    "description": "3C+E 6 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 18.165,
+    "multiplying": 6,
+    "min_bending_radius": 108.99,
+    "min_barrel_diameter": 174.384
+  },
+  {
+    "#": 511,
+    "item_no": 9410,
+    "description": "3C+3E 10 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 20.37,
+    "multiplying": 6,
+    "min_bending_radius": 122.22,
+    "min_barrel_diameter": 195.552
+  },
+  {
+    "#": 512,
+    "item_no": "9412XCTPV",
+    "description": "3C3E120 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "od": 43.995,
+    "multiplying": 12,
+    "min_bending_radius": 527.94,
+    "min_barrel_diameter": 844.704
+  },
+  {
+    "#": 513,
+    "item_no": 9416,
+    "description": "3C+3E 16 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 23.73,
+    "multiplying": 6,
+    "min_bending_radius": 142.38,
+    "min_barrel_diameter": 227.808
+  },
+  {
+    "#": 514,
+    "item_no": "9418XCTPV",
+    "description": "3C3E185 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "od": 55.02,
+    "multiplying": 12,
+    "min_bending_radius": 660.24,
+    "min_barrel_diameter": 1056.384
+  },
+  {
+    "#": 515,
+    "item_no": "9424XCTPV",
+    "description": "3C3E240 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "od": 61.74,
+    "multiplying": 12,
+    "min_bending_radius": 740.88,
+    "min_barrel_diameter": 1185.408
+  },
+  {
+    "#": 516,
+    "item_no": 9425,
+    "description": "3C+3E 25 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 29.925,
+    "multiplying": 6,
+    "min_bending_radius": 179.55,
+    "min_barrel_diameter": 287.28
+  },
+  {
+    "#": 517,
+    "item_no": "9425XCTPV",
+    "description": "3C3E25 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "od": 25.83,
+    "multiplying": 12,
+    "min_bending_radius": 309.96,
+    "min_barrel_diameter": 495.936
+  },
+  {
+    "#": 518,
+    "item_no": 9435,
+    "description": "3C+3E 35 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 33.39,
+    "multiplying": 6,
+    "min_bending_radius": 200.34,
+    "min_barrel_diameter": 320.544
+  },
+  {
+    "#": 519,
+    "item_no": "9435XCTPV",
+    "description": "3C3E35 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "od": 28.14,
+    "multiplying": 12,
+    "min_bending_radius": 337.68,
+    "min_barrel_diameter": 540.288
+  },
+  {
+    "#": 520,
+    "item_no": 9450,
+    "description": "3C+3E 50 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 37.8,
+    "multiplying": 6,
+    "min_bending_radius": 226.8,
+    "min_barrel_diameter": 362.88
+  },
+  {
+    "#": 521,
+    "item_no": "9450XCTPV",
+    "description": "3C3E50 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "od": 32.13,
+    "multiplying": 12,
+    "min_bending_radius": 385.56,
+    "min_barrel_diameter": 616.896
+  },
+  {
+    "#": 522,
+    "item_no": 9470,
+    "description": "3C+3E 70 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 42.0,
+    "multiplying": 6,
+    "min_bending_radius": 252.0,
+    "min_barrel_diameter": 403.2
+  },
+  {
+    "#": 523,
+    "item_no": "9470XCTPV",
+    "description": "3C3E70 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "od": 35.91,
+    "multiplying": 12,
+    "min_bending_radius": 430.92,
+    "min_barrel_diameter": 689.472
+  },
+  {
+    "#": 524,
+    "item_no": 9495,
+    "description": "3C+3E 95 BCCL5/PVC/TCB/PVC 1KV VSD",
+    "od": 48.615,
+    "multiplying": 6,
+    "min_bending_radius": 291.69,
+    "min_barrel_diameter": 466.704
+  },
+  {
+    "#": 525,
+    "item_no": "9495XCTPV",
+    "description": "3C3E95 BC/XLPE/PVC/CTS/PVC 1KV VSD",
+    "od": 40.95,
+    "multiplying": 12,
+    "min_bending_radius": 491.4,
+    "min_barrel_diameter": 786.24
+  },
+  {
+    "#": 526,
+    "item_no": 9510,
+    "description": "4C+E 1.0 BCCL5/PVC/PVC V75 500V",
+    "od": 7.875,
+    "multiplying": 5,
+    "min_bending_radius": 39.375,
+    "min_barrel_diameter": 63.0
+  },
+  {
+    "#": 527,
+    "item_no": 9515,
+    "description": "4C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "od": 8.505,
+    "multiplying": 5,
+    "min_bending_radius": 42.525,
+    "min_barrel_diameter": 68.04
+  },
+  {
+    "#": 528,
+    "item_no": 9525,
+    "description": "4C+E 2.5 BCCL5/PVC/PVC V75 500V",
+    "od": 10.395,
+    "multiplying": 5,
+    "min_bending_radius": 51.975,
+    "min_barrel_diameter": 83.16
+  },
+  {
+    "#": 529,
+    "item_no": 9550,
+    "description": "4C+E 0.5 BCCL5/PVC/PVC V75 500V",
+    "od": 6.615,
+    "multiplying": 5,
+    "min_bending_radius": 33.075,
+    "min_barrel_diameter": 52.92
+  },
+  {
+    "#": 530,
+    "item_no": 9575,
+    "description": "4C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "od": 7.14,
+    "multiplying": 5,
+    "min_bending_radius": 35.7,
+    "min_barrel_diameter": 57.12
+  },
+  {
+    "#": 531,
+    "item_no": "95E",
+    "description": "1C95 Bare Copper Earth Wire",
+    "od": 13.23,
+    "multiplying": 8,
+    "min_bending_radius": 105.84,
+    "min_barrel_diameter": 169.344
+  },
+  {
+    "#": 532,
+    "item_no": "95EHD",
+    "description": "1C95 Bare Copper Earth Hard Drawn",
+    "od": 13.23,
+    "multiplying": 10,
+    "min_bending_radius": 132.3,
+    "min_barrel_diameter": 211.68
+  },
+  {
+    "#": 533,
+    "item_no": 9710,
+    "description": "6C+E 1.0 BCCL5/PVC/PVC V75 500V",
+    "od": 8.505,
+    "multiplying": 5,
+    "min_bending_radius": 42.525,
+    "min_barrel_diameter": 68.04
+  },
+  {
+    "#": 534,
+    "item_no": 9715,
+    "description": "6C+E 1.5 BCCL5/PVC/PVC V75 500V",
+    "od": 9.24,
+    "multiplying": 5,
+    "min_bending_radius": 46.2,
+    "min_barrel_diameter": 73.92
+  },
+  {
+    "#": 535,
+    "item_no": 9750,
+    "description": "6C+E 0.5 BCCL5/PVC/PVC V75 500V",
+    "od": 7.14,
+    "multiplying": 5,
+    "min_bending_radius": 35.7,
+    "min_barrel_diameter": 57.12
+  },
+  {
+    "#": 536,
+    "item_no": 9775,
+    "description": "6C+E 0.75 BCCL5/PVC/PVC V75 500V",
+    "od": 7.98,
+    "multiplying": 5,
+    "min_bending_radius": 39.9,
+    "min_barrel_diameter": 63.84
+  },
+  {
+    "#": 537,
+    "item_no": "AL120",
+    "description": "1C120 AL CL2/XLPE/PVC 1KV BLK",
+    "od": 19.425,
+    "multiplying": 8,
+    "min_bending_radius": 155.4,
+    "min_barrel_diameter": 248.64
+  },
+  {
+    "#": 538,
+    "item_no": "AL120X2H2",
+    "description": "1C 120mm2 Flexible AL/XHF-110/HFS-110-TP Cable 0.6/1kV",
+    "od": 22.05,
+    "multiplying": 4,
+    "min_bending_radius": 88.2,
+    "min_barrel_diameter": 141.12
+  },
+  {
+    "#": 539,
+    "item_no": "AL150",
+    "description": "1C150 AL CL2/XLPE/PVC 1KV BLK",
+    "od": 21.63,
+    "multiplying": 8,
+    "min_bending_radius": 173.04,
+    "min_barrel_diameter": 276.864
+  },
+  {
+    "#": 540,
+    "item_no": "AL150X2H2",
+    "description": "1C 150mm2 Flexible AL/XHF-110/HFS-110-TP Cable 0.6/1kV",
+    "od": 23.625,
+    "multiplying": 4,
+    "min_bending_radius": 94.5,
+    "min_barrel_diameter": 151.2
+  },
+  {
+    "#": 541,
+    "item_no": "AL185",
+    "description": "1C185 AL CL2/XLPE/PVC 1KV BLK",
+    "od": 23.94,
+    "multiplying": 8,
+    "min_bending_radius": 191.52,
+    "min_barrel_diameter": 306.432
+  },
+  {
+    "#": 542,
+    "item_no": "AL185X2H2",
+    "description": "1C 185mm2 Flexible AL/XHF-110/HFS-110-TP Cable 0.6/1kV",
+    "od": 26.25,
+    "multiplying": 4,
+    "min_bending_radius": 105.0,
+    "min_barrel_diameter": 168.0
+  },
+  {
+    "#": 543,
+    "item_no": "AL240",
+    "description": "1C240 AL CL2/XLPE/PVC 1KV BLK",
+    "od": 17.43,
+    "multiplying": 8,
+    "min_bending_radius": 139.44,
+    "min_barrel_diameter": 223.104
+  },
+  {
+    "#": 544,
+    "item_no": "AL240X2H2",
+    "description": "1C 240mm2 Flexible AL/XHF-110/HFS-110-TP Cable 0.6/1kV",
+    "od": 29.295,
+    "multiplying": 4,
+    "min_bending_radius": 117.18,
+    "min_barrel_diameter": 187.488
+  },
+  {
+    "#": 545,
+    "item_no": "AL300",
+    "description": "1C300 AL CL2/XLPE/PVC 1KV BLK",
+    "od": 29.19,
+    "multiplying": 8,
+    "min_bending_radius": 233.52,
+    "min_barrel_diameter": 373.632
+  },
+  {
+    "#": 546,
+    "item_no": "AL300X2H2",
+    "description": "1C 300mm2 Flexible AL/XHF-110/HFS-110-TP Cable 0.6/1kV",
+    "od": 32.235,
+    "multiplying": 4,
+    "min_bending_radius": 128.94,
+    "min_barrel_diameter": 206.304
+  },
+  {
+    "#": 547,
+    "item_no": "AL35",
+    "description": "1C35 AL CL2/XLPE/PVC 1KV BLK",
+    "od": 12.075,
+    "multiplying": 8,
+    "min_bending_radius": 96.6,
+    "min_barrel_diameter": 154.56
+  },
+  {
+    "#": 548,
+    "item_no": "AL400",
+    "description": "1C400 AL CL2/XLPE/PVC 1KV BLK",
+    "od": 33.39,
+    "multiplying": 8,
+    "min_bending_radius": 267.12,
+    "min_barrel_diameter": 427.392
+  },
+  {
+    "#": 549,
+    "item_no": "AL400X2H2",
+    "description": "1C 400mm2 Flexible AL/XHF-110/HFS-110-TP Cable 0.6/1kV",
+    "od": 38.64,
+    "multiplying": 4,
+    "min_bending_radius": 154.56,
+    "min_barrel_diameter": 247.296
+  },
+  {
+    "#": 550,
+    "item_no": "AL50",
+    "description": "1C50 AL CL2/XLPE/PVC 1KV BLK",
+    "od": 13.545,
+    "multiplying": 8,
+    "min_bending_radius": 108.36,
+    "min_barrel_diameter": 173.376
+  },
+  {
+    "#": 551,
+    "item_no": "AL50X2H2",
+    "description": "1C 50mm2 Flexible AL/XHF-110/HFS-110-TP Cable 0.6/1kV",
+    "od": 16.065,
+    "multiplying": 4,
+    "min_bending_radius": 64.26,
+    "min_barrel_diameter": 102.816
+  },
+  {
+    "#": 552,
+    "item_no": "AL70",
+    "description": "1C70 AL CL2/XLPE/PVC 1KV BLK",
+    "od": 15.435,
+    "multiplying": 8,
+    "min_bending_radius": 123.48,
+    "min_barrel_diameter": 197.568
+  },
+  {
+    "#": 553,
+    "item_no": "AL70X2H2",
+    "description": "1C 70mm2 Flexible AL/XHF-110/HFS-110-TP Cable 0.6/1kV",
+    "od": 17.745,
+    "multiplying": 4,
+    "min_bending_radius": 70.98,
+    "min_barrel_diameter": 113.568
+  },
+  {
+    "#": 554,
+    "item_no": "AL95",
+    "description": "1C95 AL CL2/XLPE/PVC 1KV BLK",
+    "od": 18.06,
+    "multiplying": 8,
+    "min_bending_radius": 144.48,
+    "min_barrel_diameter": 231.168
+  },
+  {
+    "#": 555,
+    "item_no": "AL95X2H2",
+    "description": "1C 95mm2 Flexible AL/XHF-110/HFS-110-TP Cable 0.6/1kV",
+    "od": 19.74,
+    "multiplying": 4,
+    "min_bending_radius": 78.96,
+    "min_barrel_diameter": 126.336
+  },
+  {
+    "#": 556,
+    "item_no": "E2V10",
+    "description": "1C10 BC/PVC  Earth Wire Cable",
+    "od": 6.3,
+    "multiplying": 6,
+    "min_bending_radius": 37.8,
+    "min_barrel_diameter": 60.48
+  },
+  {
+    "#": 557,
+    "item_no": "E2V120",
+    "description": "1C120 BC/PVC  Earth Wire Cable",
+    "od": 17.325,
+    "multiplying": 6,
+    "min_bending_radius": 103.95,
+    "min_barrel_diameter": 166.32
+  },
+  {
+    "#": 558,
+    "item_no": "E2V150",
+    "description": "1C150 BC/PVC  Earth Wire Cable",
+    "od": 19.425,
+    "multiplying": 6,
+    "min_bending_radius": 116.55,
+    "min_barrel_diameter": 186.48
+  },
+  {
+    "#": 559,
+    "item_no": "E2V16",
+    "description": "1C16 BC/PVC  Earth Wire Cable",
+    "od": 7.35,
+    "multiplying": 6,
+    "min_bending_radius": 44.1,
+    "min_barrel_diameter": 70.56
+  },
+  {
+    "#": 560,
+    "item_no": "E2V25",
+    "description": "1C25 BC/PVC  Earth Wire Cable",
+    "od": 9.03,
+    "multiplying": 6,
+    "min_bending_radius": 54.18,
+    "min_barrel_diameter": 86.688
+  },
+  {
+    "#": 561,
+    "item_no": "E2V35",
+    "description": "1C35 BC/PVC  Earth Wire Cable",
+    "od": 9.975,
+    "multiplying": 6,
+    "min_bending_radius": 59.85,
+    "min_barrel_diameter": 95.76
+  },
+  {
+    "#": 562,
+    "item_no": "E2V4",
+    "description": "1C4 BC/PVC  Earth Wire Cable",
+    "od": 4.725,
+    "multiplying": 6,
+    "min_bending_radius": 28.35,
+    "min_barrel_diameter": 45.36
+  },
+  {
+    "#": 563,
+    "item_no": "E2V50",
+    "description": "1C50 BC/PVC  Earth Wire Cable",
+    "od": 11.97,
+    "multiplying": 6,
+    "min_bending_radius": 71.82,
+    "min_barrel_diameter": 114.912
+  },
+  {
+    "#": 564,
+    "item_no": "E2V6",
+    "description": "1C6 BC/PVC  Earth Wire Cable",
+    "od": 5.355,
+    "multiplying": 6,
+    "min_bending_radius": 32.13,
+    "min_barrel_diameter": 51.408
+  },
+  {
+    "#": 565,
+    "item_no": "E2V70",
+    "description": "1C70 BC/PVC  Earth Wire Cable",
+    "od": 13.755,
+    "multiplying": 6,
+    "min_bending_radius": 82.53,
+    "min_barrel_diameter": 132.048
+  },
+  {
+    "#": 566,
+    "item_no": "E2V95",
+    "description": "1C95 BC/PVC  Earth Wire Cable",
+    "od": 15.855,
+    "multiplying": 6,
+    "min_bending_radius": 95.13,
+    "min_barrel_diameter": 152.208
+  },
+  {
+    "#": 567,
+    "item_no": "E5V10",
+    "description": "1C10 BC CL5/PVC V90 FLEXIBLE Earth G/Y",
+    "od": 6.72,
+    "multiplying": 4,
+    "min_bending_radius": 26.88,
+    "min_barrel_diameter": 43.008
+  },
+  {
+    "#": 568,
+    "item_no": "E5V120",
+    "description": "1C120 BC CL5/PVC V90 FLEXIBLE Earth G/Y",
+    "od": 19.53,
+    "multiplying": 4,
+    "min_bending_radius": 78.12,
+    "min_barrel_diameter": 124.992
+  },
+  {
+    "#": 569,
+    "item_no": "E5V16",
+    "description": "1C16 BC CL5/PVC V90 FLEXIBLE Earth G/Y",
+    "od": 7.77,
+    "multiplying": 4,
+    "min_bending_radius": 31.08,
+    "min_barrel_diameter": 49.728
+  },
+  {
+    "#": 570,
+    "item_no": "E5V25",
+    "description": "1C25 BC CL5/PVC V90 FLEXIBLE Earth G/Y",
+    "od": 9.765,
+    "multiplying": 4,
+    "min_bending_radius": 39.06,
+    "min_barrel_diameter": 62.496
+  },
+  {
+    "#": 571,
+    "item_no": "E5V35",
+    "description": "1C35 BC CL5/PVC V90 FLEXIBLE Earth G/Y",
+    "od": 11.55,
+    "multiplying": 4,
+    "min_bending_radius": 46.2,
+    "min_barrel_diameter": 73.92
+  },
+  {
+    "#": 572,
+    "item_no": "E5V4",
+    "description": "1C4 BC CL5/PVC V90 FLEXIBLE Earth G/Y",
+    "od": 4.83,
+    "multiplying": 4,
+    "min_bending_radius": 19.32,
+    "min_barrel_diameter": 30.912
+  },
+  {
+    "#": 573,
+    "item_no": "E5V50",
+    "description": "1C50 BC CL5/PVC V90 FLEXIBLE Earth G/Y",
+    "od": 13.86,
+    "multiplying": 4,
+    "min_bending_radius": 55.44,
+    "min_barrel_diameter": 88.704
+  },
+  {
+    "#": 574,
+    "item_no": "E5V6",
+    "description": "1C6 BC CL5/PVC V90 FLEXIBLE Earth G/Y",
+    "od": 5.46,
+    "multiplying": 4,
+    "min_bending_radius": 21.84,
+    "min_barrel_diameter": 34.944
+  },
+  {
+    "#": 575,
+    "item_no": "E5V70",
+    "description": "1C70 BC CL5/PVC V90 FLEXIBLE Earth G/Y",
+    "od": 15.225,
+    "multiplying": 4,
+    "min_bending_radius": 60.9,
+    "min_barrel_diameter": 97.44
+  },
+  {
+    "#": 576,
+    "item_no": "E5V95",
+    "description": "1C95 BC CL5/PVC V90 FLEXIBLE Earth G/Y",
+    "od": 17.535,
+    "multiplying": 4,
+    "min_bending_radius": 70.14,
+    "min_barrel_diameter": 112.224
+  },
+  {
+    "#": 577,
+    "item_no": "1031UA-OR",
+    "description": "2C+E 1.5mm2 BC Cl2/PVC/PVC V90 1KV ORG CTRL",
+    "od": 10.9,
+    "multiplying": 6,
+    "min_bending_radius": 65.4,
+    "min_barrel_diameter": 104.64
+  },
+  {
+    "#": 578,
+    "item_no": "1051-OR",
+    "description": "4C+E 1.5mm2 BC Cl2/PVC/PVC/SWA/PVC V90 1KV ORG CTRL",
+    "od": 16.2,
+    "multiplying": 6,
+    "min_bending_radius": 97.2,
+    "min_barrel_diameter": 155.52
+  },
+  {
+    "#": 579,
+    "item_no": "1115ERTC",
+    "description": "11C+E 1.5mm2 TC Cl5/EPR/CPE 1KV",
+    "od": 21.0,
+    "multiplying": 4,
+    "min_bending_radius": 84.0,
+    "min_barrel_diameter": 134.4
+  },
+  {
+    "#": 580,
+    "item_no": "1118ERTC",
+    "description": "17C+E 1.5mm2 TC Cl5/EPR/CPE 1KV",
+    "od": 24.675,
+    "multiplying": 4,
+    "min_bending_radius": 98.7,
+    "min_barrel_diameter": 157.92
+  },
+  {
+    "#": 581,
+    "item_no": 1126,
+    "description": "Sig. Mic.:12x16/0.20mm (0.5mm2) TC",
+    "od": 9.345,
+    "multiplying": 4,
+    "min_bending_radius": 37.38,
+    "min_barrel_diameter": 59.808
+  },
+  {
+    "#": 582,
+    "item_no": 1186,
+    "description": "Sig. Mic.:18x16/0.20mm (0.5mm2) TC",
+    "od": 11.025,
+    "multiplying": 4,
+    "min_bending_radius": 44.1,
+    "min_barrel_diameter": 70.56
+  },
+  {
+    "#": 583,
+    "item_no": "1215-21",
+    "description": "11C+E 1.5mm2 BC Cl5/PVC/PVC V75 300/500V Black",
+    "od": 12.6,
+    "multiplying": 6,
+    "min_bending_radius": 75.6,
+    "min_barrel_diameter": 120.96
+  },
+  {
+    "#": 584,
+    "item_no": "1225ERTC",
+    "description": "11C+E 2.5mm2 TC Cl5/EPR/CPE 1KV",
+    "od": 23.31,
+    "multiplying": 4,
+    "min_bending_radius": 93.24,
+    "min_barrel_diameter": 149.184
+  },
+  {
+    "#": 585,
+    "item_no": 1256,
+    "description": "Sig. Mic.:25x16/0.20mm (0.5mm2) TC",
+    "od": 12.915,
+    "multiplying": 4,
+    "min_bending_radius": 51.66,
+    "min_barrel_diameter": 82.656
+  },
+  {
+    "#": 586,
+    "item_no": 1447,
+    "description": "Sig. Mic.:4 x 7/0.20mm (0.2mm2) TC",
+    "od": 4.725,
+    "multiplying": 4,
+    "min_bending_radius": 18.9,
+    "min_barrel_diameter": 30.24
+  },
+  {
+    "#": 587,
+    "item_no": 1467,
+    "description": "Sig. Mic.:6 x 7/0.20mm (0.2mm2) TC",
+    "od": 5.355,
+    "multiplying": 4,
+    "min_bending_radius": 21.42,
+    "min_barrel_diameter": 34.272
+  },
+  {
+    "#": 588,
+    "item_no": "1566BC",
+    "description": "6C0.5 BC/PVC/TCB/PVC 400V UV",
+    "od": 7.56,
+    "multiplying": 4,
+    "min_bending_radius": 30.24,
+    "min_barrel_diameter": 48.384
+  },
+  {
+    "#": 589,
+    "item_no": 2410,
+    "description": "3C+E 1.0mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 7.245,
+    "multiplying": 6,
+    "min_bending_radius": 43.47,
+    "min_barrel_diameter": 69.552
+  },
+  {
+    "#": 590,
+    "item_no": 2425,
+    "description": "3C+E 0.25mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 5.25,
+    "multiplying": 6,
+    "min_bending_radius": 31.5,
+    "min_barrel_diameter": 50.4
+  },
+  {
+    "#": 591,
+    "item_no": 2475,
+    "description": "3C+E 0.75mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 6.51,
+    "multiplying": 6,
+    "min_bending_radius": 39.06,
+    "min_barrel_diameter": 62.496
+  },
+  {
+    "#": 592,
+    "item_no": "4015ERBC",
+    "description": "3C+E 1.5mm2 BC Cl5/EPR/CPE 1KV",
+    "od": 12.705,
+    "multiplying": 4,
+    "min_bending_radius": 50.82,
+    "min_barrel_diameter": 81.312
+  },
+  {
+    "#": 593,
+    "item_no": "4060ERBC",
+    "description": "3C+E 6mm2 BC Cl5/EPR/CPE 1KV",
+    "od": 17.535,
+    "multiplying": 4,
+    "min_bending_radius": 70.14,
+    "min_barrel_diameter": 112.224
+  },
+  {
+    "#": 594,
+    "item_no": "4096-1C35",
+    "description": "1C 35MM2 TC CL6/EPR/TCB/CR 6.6/6.6kV RED",
+    "od": 32.025,
+    "multiplying": 6,
+    "min_bending_radius": 192.15,
+    "min_barrel_diameter": 307.44
+  },
+  {
+    "#": 595,
+    "item_no": "4096-1C35E",
+    "description": "1C 35MM2 TC CL6/EPR/TCB/CR 6.6/6.6kV EARTH",
+    "od": 32.025,
+    "multiplying": 6,
+    "min_bending_radius": 192.15,
+    "min_barrel_diameter": 307.44
+  },
+  {
+    "#": 596,
+    "item_no": "4096-1C70",
+    "description": "1C 70MM2 TC CL6/EPR/TCB/CR 6.6/6.6kV RED",
+    "od": 36.225,
+    "multiplying": 6,
+    "min_bending_radius": 217.35,
+    "min_barrel_diameter": 347.76
+  },
+  {
+    "#": 597,
+    "item_no": "4100ERBC",
+    "description": "3C+E 10mm2 BC Cl5/EPR/CPE 1KV",
+    "od": 24.99,
+    "multiplying": 4,
+    "min_bending_radius": 99.96,
+    "min_barrel_diameter": 159.936
+  },
+  {
+    "#": 598,
+    "item_no": "4160ERBC",
+    "description": "3C+E 16mm2 BC Cl5/EPR/CPE 1KV",
+    "od": 28.245,
+    "multiplying": 4,
+    "min_bending_radius": 112.98,
+    "min_barrel_diameter": 180.768
+  },
+  {
+    "#": 599,
+    "item_no": 4201,
+    "description": "1Pr 22AWG BC/PP/OS/PVC V75 300V",
+    "od": 4.2,
+    "multiplying": 4,
+    "min_bending_radius": 16.8,
+    "min_barrel_diameter": 26.88
+  },
+  {
+    "#": 600,
+    "item_no": "4250ERBC",
+    "description": "3C+E 25mm2 BC Cl5/EPR/CPE 1KV",
+    "od": 33.39,
+    "multiplying": 4,
+    "min_bending_radius": 133.56,
+    "min_barrel_diameter": 213.696
+  },
+  {
+    "#": 601,
+    "item_no": 4915,
+    "description": "MachineCable:Type1 2C1.5mm2 PVC V90",
+    "od": 0.0,
+    "multiplying": 4,
+    "min_bending_radius": 0.0,
+    "min_barrel_diameter": 0.0
+  },
+  {
+    "#": 602,
+    "item_no": "5015BC",
+    "description": "4C+E 1.5mm2 BC CL5/RUBBER/CPE 1KV H07RNF",
+    "od": 13.965,
+    "multiplying": 4,
+    "min_bending_radius": 55.86,
+    "min_barrel_diameter": 89.376
+  },
+  {
+    "#": 603,
+    "item_no": 6615,
+    "description": "Silicone: 2 x 1.50mm2 180TC Black",
+    "od": 8.4,
+    "multiplying": 4,
+    "min_bending_radius": 33.6,
+    "min_barrel_diameter": 53.76
+  },
+  {
+    "#": 604,
+    "item_no": 6810,
+    "description": "2C 1.0mm2 TC CL5/Silicone Rubber/Silicone Rubber 300/500V Black",
+    "od": 7.35,
+    "multiplying": 4,
+    "min_bending_radius": 29.4,
+    "min_barrel_diameter": 47.04
+  },
+  {
+    "#": 605,
+    "item_no": 6825,
+    "description": "2C+E 2.5mm2 TC CL5/Silicone Rubber/Silicone Rubber 300/500V Black",
+    "od": 10.5,
+    "multiplying": 4,
+    "min_bending_radius": 42.0,
+    "min_barrel_diameter": 67.2
+  },
+  {
+    "#": 606,
+    "item_no": 7301,
+    "description": "2C 0.75mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 5.46,
+    "multiplying": 6,
+    "min_bending_radius": 32.76,
+    "min_barrel_diameter": 52.416
+  },
+  {
+    "#": 607,
+    "item_no": 7302,
+    "description": "2C 2.5mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 7.98,
+    "multiplying": 6,
+    "min_bending_radius": 47.88,
+    "min_barrel_diameter": 76.608
+  },
+  {
+    "#": 608,
+    "item_no": 7303,
+    "description": "3C 0.5mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 5.355,
+    "multiplying": 6,
+    "min_bending_radius": 32.13,
+    "min_barrel_diameter": 51.408
+  },
+  {
+    "#": 609,
+    "item_no": 7304,
+    "description": "3C 0.75mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 5.775,
+    "multiplying": 6,
+    "min_bending_radius": 34.65,
+    "min_barrel_diameter": 55.44
+  },
+  {
+    "#": 610,
+    "item_no": 7305,
+    "description": "3C 1.0mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 6.405,
+    "multiplying": 6,
+    "min_bending_radius": 38.43,
+    "min_barrel_diameter": 61.488
+  },
+  {
+    "#": 611,
+    "item_no": 7306,
+    "description": "3C 1.5mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 6.93,
+    "multiplying": 6,
+    "min_bending_radius": 41.58,
+    "min_barrel_diameter": 66.528
+  },
+  {
+    "#": 612,
+    "item_no": 7307,
+    "description": "3C 2.5mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 8.505,
+    "multiplying": 6,
+    "min_bending_radius": 51.03,
+    "min_barrel_diameter": 81.648
+  },
+  {
+    "#": 613,
+    "item_no": 7308,
+    "description": "4C 0.5mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 5.88,
+    "multiplying": 6,
+    "min_bending_radius": 35.28,
+    "min_barrel_diameter": 56.448
+  },
+  {
+    "#": 614,
+    "item_no": 7309,
+    "description": "4C 0.75mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 6.51,
+    "multiplying": 6,
+    "min_bending_radius": 39.06,
+    "min_barrel_diameter": 62.496
+  },
+  {
+    "#": 615,
+    "item_no": 7310,
+    "description": "4C 1.0mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 7.035,
+    "multiplying": 6,
+    "min_bending_radius": 42.21,
+    "min_barrel_diameter": 67.536
+  },
+  {
+    "#": 616,
+    "item_no": 7311,
+    "description": "4C 1.5mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 7.77,
+    "multiplying": 6,
+    "min_bending_radius": 46.62,
+    "min_barrel_diameter": 74.592
+  },
+  {
+    "#": 617,
+    "item_no": 7312,
+    "description": "7C 1.0mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 8.61,
+    "multiplying": 6,
+    "min_bending_radius": 51.66,
+    "min_barrel_diameter": 82.656
+  },
+  {
+    "#": 618,
+    "item_no": 7313,
+    "description": "4C 0.25mm2 BC Cl5/PVC/PVC V75 300/500V Grey",
+    "od": 4.2,
+    "multiplying": 6,
+    "min_bending_radius": 25.2,
+    "min_barrel_diameter": 40.32
+  },
+  {
+    "#": 619,
+    "item_no": "7812X2H2-OR",
+    "description": "1C 120MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 22.05,
+    "multiplying": 4,
+    "min_bending_radius": 88.2,
+    "min_barrel_diameter": 141.12
+  },
+  {
+    "#": 620,
+    "item_no": "7812XT",
+    "description": "1C 120mm2 BC Cl5/XLPE/TPE X90 1KV BLACK Flexible",
+    "od": 22.05,
+    "multiplying": 4,
+    "min_bending_radius": 88.2,
+    "min_barrel_diameter": 141.12
+  },
+  {
+    "#": 621,
+    "item_no": "7815X2H2-OR",
+    "description": "1C 150MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 23.625,
+    "multiplying": 4,
+    "min_bending_radius": 94.5,
+    "min_barrel_diameter": 151.2
+  },
+  {
+    "#": 622,
+    "item_no": "7815XT",
+    "description": "1C 150mm2 BC Cl5/XLPE/TPE X90 1KV BLACK Flexible",
+    "od": 23.625,
+    "multiplying": 4,
+    "min_bending_radius": 94.5,
+    "min_barrel_diameter": 151.2
+  },
+  {
+    "#": 623,
+    "item_no": "7816X2H2-OR",
+    "description": "1C 16MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 10.08,
+    "multiplying": 4,
+    "min_bending_radius": 40.32,
+    "min_barrel_diameter": 64.512
+  },
+  {
+    "#": 624,
+    "item_no": "7818X2H2-OR",
+    "description": "1C 185MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 26.25,
+    "multiplying": 4,
+    "min_bending_radius": 105.0,
+    "min_barrel_diameter": 168.0
+  },
+  {
+    "#": 625,
+    "item_no": "7824X2H2-OR",
+    "description": "1C 240MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 29.295,
+    "multiplying": 4,
+    "min_bending_radius": 117.18,
+    "min_barrel_diameter": 187.488
+  },
+  {
+    "#": 626,
+    "item_no": "7825X2H2-OR",
+    "description": "1C 25MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 12.075,
+    "multiplying": 4,
+    "min_bending_radius": 48.3,
+    "min_barrel_diameter": 77.28
+  },
+  {
+    "#": 627,
+    "item_no": "7825XVNY-BLK-PAWA",
+    "description": "1C25 BC/XLPE/NY/PVC 1KV BLK PAWA",
+    "od": 12.81,
+    "multiplying": 20,
+    "min_bending_radius": 256.2,
+    "min_barrel_diameter": 409.92
+  },
+  {
+    "#": 628,
+    "item_no": "7825XVNY-RED-PAWA",
+    "description": "1C25 BC/XLPE/NY/PVC 1KV RED PAWA",
+    "od": 12.81,
+    "multiplying": 20,
+    "min_bending_radius": 256.2,
+    "min_barrel_diameter": 409.92
+  },
+  {
+    "#": 629,
+    "item_no": "7830X2H2-OR",
+    "description": "1C 300MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 32.235,
+    "multiplying": 4,
+    "min_bending_radius": 128.94,
+    "min_barrel_diameter": 206.304
+  },
+  {
+    "#": 630,
+    "item_no": "7830XT",
+    "description": "1C 300mm2 BC Cl5/XLPE/TPE X90 1KV BLACK Flexible",
+    "od": 32.235,
+    "multiplying": 4,
+    "min_bending_radius": 128.94,
+    "min_barrel_diameter": 206.304
+  },
+  {
+    "#": 631,
+    "item_no": "7835X2H2-OR",
+    "description": "1C 35MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 13.755,
+    "multiplying": 4,
+    "min_bending_radius": 55.02,
+    "min_barrel_diameter": 88.032
+  },
+  {
+    "#": 632,
+    "item_no": "7840X2H2-OR",
+    "description": "1C 400MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 38.64,
+    "multiplying": 4,
+    "min_bending_radius": 154.56,
+    "min_barrel_diameter": 247.296
+  },
+  {
+    "#": 633,
+    "item_no": "7850X2H2-OR",
+    "description": "1C 50MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 16.065,
+    "multiplying": 4,
+    "min_bending_radius": 64.26,
+    "min_barrel_diameter": 102.816
+  },
+  {
+    "#": 634,
+    "item_no": "7863XT-OR",
+    "description": "1C 630mm2 BC Cl5/XLPE/TPE X90 1KV ORG Flexible",
+    "od": 48.405,
+    "multiplying": 4,
+    "min_bending_radius": 193.62,
+    "min_barrel_diameter": 309.792
+  },
+  {
+    "#": 635,
+    "item_no": "7870X2H2-OR",
+    "description": "1C 70MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 17.745,
+    "multiplying": 4,
+    "min_bending_radius": 70.98,
+    "min_barrel_diameter": 113.568
+  },
+  {
+    "#": 636,
+    "item_no": "7895X2H2-OR",
+    "description": "1C 95MM2 BC CL5/X-HF-110/HFS-110-TP 0.6/1kV SDI  Cables",
+    "od": 19.74,
+    "multiplying": 4,
+    "min_bending_radius": 78.96,
+    "min_barrel_diameter": 126.336
+  },
+  {
+    "#": 637,
+    "item_no": "7895XT",
+    "description": "1C 95mm2 BC Cl5/XLPE/TPE X90 1KV BLACK Flexible",
+    "od": 19.74,
+    "multiplying": 4,
+    "min_bending_radius": 78.96,
+    "min_barrel_diameter": 126.336
+  },
+  {
+    "#": 638,
+    "item_no": 8100,
+    "description": "2C+E 1.5mm2 BC Cl5/PVC/PVC/TCB/TPE V75 BLK 1kV EMC",
+    "od": 11.55,
+    "multiplying": 6,
+    "min_bending_radius": 69.3,
+    "min_barrel_diameter": 110.88
+  },
+  {
+    "#": 639,
+    "item_no": 8101,
+    "description": "2C+E 2.5mm2 BC Cl5/PVC/PVC/TCB/TPE V75 BLK 1kV EMC",
+    "od": 12.6,
+    "multiplying": 6,
+    "min_bending_radius": 75.6,
+    "min_barrel_diameter": 120.96
+  },
+  {
+    "#": 640,
+    "item_no": 8102,
+    "description": "4C+E 1.5mm2 BC Cl5/PVC/PVC/TCB/TPE V75 BLK 1kV EMC",
+    "od": 15.435,
+    "multiplying": 6,
+    "min_bending_radius": 92.61,
+    "min_barrel_diameter": 148.176
+  },
+  {
+    "#": 641,
+    "item_no": 8103,
+    "description": "4C+E 2.5mm2 BC Cl5/PVC/PVC/TCB/TPE V75 BLK 1kV EMC",
+    "od": 13.65,
+    "multiplying": 6,
+    "min_bending_radius": 81.9,
+    "min_barrel_diameter": 131.04
+  },
+  {
+    "#": 642,
+    "item_no": 8104,
+    "description": "6C+E 1.5mm2 BC Cl5/PVC/PVC/TCB/TPE V75 BLK 1kV EMC",
+    "od": 15.12,
+    "multiplying": 6,
+    "min_bending_radius": 90.72,
+    "min_barrel_diameter": 145.152
+  },
+  {
+    "#": 643,
+    "item_no": 8105,
+    "description": "6C+E 2.5mm2 BC Cl5/PVC/PVC/TCB/TPE V75 BLK 1kV EMC",
+    "od": 17.325,
+    "multiplying": 6,
+    "min_bending_radius": 103.95,
+    "min_barrel_diameter": 166.32
+  },
+  {
+    "#": 644,
+    "item_no": 8106,
+    "description": "11C+E 1.5mm2 BC Cl5/PVC/PVC/TCB/TPE V75 BLK 1kV EMC",
+    "od": 14.91,
+    "multiplying": 6,
+    "min_bending_radius": 89.46,
+    "min_barrel_diameter": 143.136
+  },
+  {
+    "#": 645,
+    "item_no": 8107,
+    "description": "11C+E 2.5mm2 BC Cl5/PVC/PVC/TCB/TPE V75 BLK 1kV EMC",
+    "od": 16.8,
+    "multiplying": 6,
+    "min_bending_radius": 100.8,
+    "min_barrel_diameter": 161.28
+  },
+  {
+    "#": 646,
+    "item_no": 8108,
+    "description": "18C+E 1.5mm2 BC Cl5/PVC/PVC/TCB/TPE V75 BLK 1kV EMC",
+    "od": 21.525,
+    "multiplying": 6,
+    "min_bending_radius": 129.15,
+    "min_barrel_diameter": 206.64
+  },
+  {
+    "#": 647,
+    "item_no": 8109,
+    "description": "3C+E 4mm2 BC Cl5/PVC/PVC/TCB/TPE V75 BLK 1kV EMC",
+    "od": 20.265,
+    "multiplying": 6,
+    "min_bending_radius": 121.59,
+    "min_barrel_diameter": 194.544
+  },
+  {
+    "#": 648,
+    "item_no": 8110,
+    "description": "4C+E 4mm2 BC Cl5/PVC/PVC/TCB/TPE V75 BLK 1kV EMC",
+    "od": 21.84,
+    "multiplying": 6,
+    "min_bending_radius": 131.04,
+    "min_barrel_diameter": 209.664
+  },
+  {
+    "#": 649,
+    "item_no": 8200,
+    "description": "2C+E 0.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 7.56,
+    "multiplying": 6,
+    "min_bending_radius": 45.36,
+    "min_barrel_diameter": 72.576
+  },
+  {
+    "#": 650,
+    "item_no": 8201,
+    "description": "3C+E 0.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 8.085,
+    "multiplying": 6,
+    "min_bending_radius": 48.51,
+    "min_barrel_diameter": 77.616
+  },
+  {
+    "#": 651,
+    "item_no": 8202,
+    "description": "4C+E 0.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 8.4,
+    "multiplying": 6,
+    "min_bending_radius": 50.4,
+    "min_barrel_diameter": 80.64
+  },
+  {
+    "#": 652,
+    "item_no": 8203,
+    "description": "6C+E 0.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 9.03,
+    "multiplying": 6,
+    "min_bending_radius": 54.18,
+    "min_barrel_diameter": 86.688
+  },
+  {
+    "#": 653,
+    "item_no": 8204,
+    "description": "11C+E 0.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 11.76,
+    "multiplying": 6,
+    "min_bending_radius": 70.56,
+    "min_barrel_diameter": 112.896
+  },
+  {
+    "#": 654,
+    "item_no": 8205,
+    "description": "24C+E 0.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 16.59,
+    "multiplying": 6,
+    "min_bending_radius": 99.54,
+    "min_barrel_diameter": 159.264
+  },
+  {
+    "#": 655,
+    "item_no": 8206,
+    "description": "3C+E 0.75mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 8.4,
+    "multiplying": 6,
+    "min_bending_radius": 50.4,
+    "min_barrel_diameter": 80.64
+  },
+  {
+    "#": 656,
+    "item_no": 8207,
+    "description": "6C+E 0.75mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 9.87,
+    "multiplying": 6,
+    "min_bending_radius": 59.22,
+    "min_barrel_diameter": 94.752
+  },
+  {
+    "#": 657,
+    "item_no": 8208,
+    "description": "11C+E 0.75mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 12.915,
+    "multiplying": 6,
+    "min_bending_radius": 77.49,
+    "min_barrel_diameter": 123.984
+  },
+  {
+    "#": 658,
+    "item_no": 8209,
+    "description": "17C+E 0.75mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 15.12,
+    "multiplying": 6,
+    "min_bending_radius": 90.72,
+    "min_barrel_diameter": 145.152
+  },
+  {
+    "#": 659,
+    "item_no": 8210,
+    "description": "2C+E 1.0mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 8.295,
+    "multiplying": 6,
+    "min_bending_radius": 49.77,
+    "min_barrel_diameter": 79.632
+  },
+  {
+    "#": 660,
+    "item_no": 8211,
+    "description": "3C+E 1.0mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 8.925,
+    "multiplying": 6,
+    "min_bending_radius": 53.55,
+    "min_barrel_diameter": 85.68
+  },
+  {
+    "#": 661,
+    "item_no": 8212,
+    "description": "6C+E 1.0mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 10.92,
+    "multiplying": 6,
+    "min_bending_radius": 65.52,
+    "min_barrel_diameter": 104.832
+  },
+  {
+    "#": 662,
+    "item_no": 8213,
+    "description": "11C+E 1.0mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 13.965,
+    "multiplying": 6,
+    "min_bending_radius": 83.79,
+    "min_barrel_diameter": 134.064
+  },
+  {
+    "#": 663,
+    "item_no": 8214,
+    "description": "17C+E 1.0mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 16.59,
+    "multiplying": 6,
+    "min_bending_radius": 99.54,
+    "min_barrel_diameter": 159.264
+  },
+  {
+    "#": 664,
+    "item_no": 8215,
+    "description": "24C+E 1.0mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 20.265,
+    "multiplying": 6,
+    "min_bending_radius": 121.59,
+    "min_barrel_diameter": 194.544
+  },
+  {
+    "#": 665,
+    "item_no": 8216,
+    "description": "3C+E 1.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 10.08,
+    "multiplying": 6,
+    "min_bending_radius": 60.48,
+    "min_barrel_diameter": 96.768
+  },
+  {
+    "#": 666,
+    "item_no": 8217,
+    "description": "4C+E 1.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 10.815,
+    "multiplying": 6,
+    "min_bending_radius": 64.89,
+    "min_barrel_diameter": 103.824
+  },
+  {
+    "#": 667,
+    "item_no": 8218,
+    "description": "6C+E 1.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 11.55,
+    "multiplying": 6,
+    "min_bending_radius": 69.3,
+    "min_barrel_diameter": 110.88
+  },
+  {
+    "#": 668,
+    "item_no": 8219,
+    "description": "11C+E 1.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 15.33,
+    "multiplying": 6,
+    "min_bending_radius": 91.98,
+    "min_barrel_diameter": 147.168
+  },
+  {
+    "#": 669,
+    "item_no": 8220,
+    "description": "24C+E 1.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 21.525,
+    "multiplying": 6,
+    "min_bending_radius": 129.15,
+    "min_barrel_diameter": 206.64
+  },
+  {
+    "#": 670,
+    "item_no": 8221,
+    "description": "2C+E 2.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 10.815,
+    "multiplying": 6,
+    "min_bending_radius": 64.89,
+    "min_barrel_diameter": 103.824
+  },
+  {
+    "#": 671,
+    "item_no": 8222,
+    "description": "3C+E 2.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 11.55,
+    "multiplying": 6,
+    "min_bending_radius": 69.3,
+    "min_barrel_diameter": 110.88
+  },
+  {
+    "#": 672,
+    "item_no": 8223,
+    "description": "2C+E 1.5mm2 BC Cl5/PVC/PVC/TCB/PVC V75 Clear 300/500V EMC",
+    "od": 9.45,
+    "multiplying": 6,
+    "min_bending_radius": 56.7,
+    "min_barrel_diameter": 90.72
+  },
+  {
+    "#": 673,
+    "item_no": "AL4C16E16XV9",
+    "description": "4C 16mm2 + E 16mm2 Flexible AL/XLPE X-90/PVC 5V-90 1kV ORG",
+    "od": 23.1,
+    "multiplying": 6,
+    "min_bending_radius": 138.6,
+    "min_barrel_diameter": 221.76
+  },
+  {
+    "#": 674,
+    "item_no": "AL4C25E25XV9",
+    "description": "4C 25mm2 + E 25mm2 Flexible AL/XLPE X-90/PVC 5V-90 1kV ORG",
+    "od": 28.14,
+    "multiplying": 6,
+    "min_bending_radius": 168.84,
+    "min_barrel_diameter": 270.144
+  },
+  {
+    "#": 675,
+    "item_no": "AL4C35E35XV9",
+    "description": "4C 35mm2 + E 35mm2 Flexible AL/XLPE X-90/PVC 5V-90 1kV ORG",
+    "od": 33.39,
+    "multiplying": 6,
+    "min_bending_radius": 200.34,
+    "min_barrel_diameter": 320.544
+  },
+  {
+    "#": 676,
+    "item_no": "AL4C50E50XV9",
+    "description": "4C 50mm2 + E 50mm2 Flexible AL/XLPE X-90/PVC 5V-90 1kV ORG",
+    "od": 38.22,
+    "multiplying": 6,
+    "min_bending_radius": 229.32,
+    "min_barrel_diameter": 366.912
+  },
+  {
+    "#": 677,
+    "item_no": "AL4C70E70XV9",
+    "description": "4C 70mm2 + E 70mm2 Flexible AL/XLPE X-90/PVC 5V-90 1kV ORG",
+    "od": 44.31,
+    "multiplying": 6,
+    "min_bending_radius": 265.86,
+    "min_barrel_diameter": 425.376
+  },
+  {
+    "#": 678,
+    "item_no": "DCR7812",
+    "description": "1C 120mm2 BC CL6/TPE/TPU 0.6/1kV",
+    "od": 22.995,
+    "multiplying": 4,
+    "min_bending_radius": 91.98,
+    "min_barrel_diameter": 147.168
+  },
+  {
+    "#": 679,
+    "item_no": "EAL120V2",
+    "description": "1C 120mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 19.53,
+    "multiplying": 4,
+    "min_bending_radius": 78.12,
+    "min_barrel_diameter": 124.992
+  },
+  {
+    "#": 680,
+    "item_no": "EAL150V2",
+    "description": "1C 150mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 21.0,
+    "multiplying": 4,
+    "min_bending_radius": 84.0,
+    "min_barrel_diameter": 134.4
+  },
+  {
+    "#": 681,
+    "item_no": "EAL16V2",
+    "description": "1C 16mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 7.77,
+    "multiplying": 4,
+    "min_bending_radius": 31.08,
+    "min_barrel_diameter": 49.728
+  },
+  {
+    "#": 682,
+    "item_no": "EAL185V2",
+    "description": "1C 185mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 23.415,
+    "multiplying": 4,
+    "min_bending_radius": 93.66,
+    "min_barrel_diameter": 149.856
+  },
+  {
+    "#": 683,
+    "item_no": "EAL240V2",
+    "description": "1C 240mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 26.46,
+    "multiplying": 4,
+    "min_bending_radius": 105.84,
+    "min_barrel_diameter": 169.344
+  },
+  {
+    "#": 684,
+    "item_no": "EAL25V2",
+    "description": "1C 25mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 9.765,
+    "multiplying": 4,
+    "min_bending_radius": 39.06,
+    "min_barrel_diameter": 62.496
+  },
+  {
+    "#": 685,
+    "item_no": "EAL300V2",
+    "description": "1C 300mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 29.4,
+    "multiplying": 4,
+    "min_bending_radius": 117.6,
+    "min_barrel_diameter": 188.16
+  },
+  {
+    "#": 686,
+    "item_no": "EAL35V2",
+    "description": "1C 35mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 11.55,
+    "multiplying": 4,
+    "min_bending_radius": 46.2,
+    "min_barrel_diameter": 73.92
+  },
+  {
+    "#": 687,
+    "item_no": "EAL400V2",
+    "description": "1C 400mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 33.705,
+    "multiplying": 4,
+    "min_bending_radius": 134.82,
+    "min_barrel_diameter": 215.712
+  },
+  {
+    "#": 688,
+    "item_no": "EAL50V2",
+    "description": "1C 50mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 13.86,
+    "multiplying": 4,
+    "min_bending_radius": 55.44,
+    "min_barrel_diameter": 88.704
+  },
+  {
+    "#": 689,
+    "item_no": "EAL70V2",
+    "description": "1C 70mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 15.225,
+    "multiplying": 4,
+    "min_bending_radius": 60.9,
+    "min_barrel_diameter": 97.44
+  },
+  {
+    "#": 690,
+    "item_no": "EAL95V2",
+    "description": "1C 95mm2 AL Flex AL/PVC V90HT EARTH",
+    "od": 17.535,
+    "multiplying": 4,
+    "min_bending_radius": 70.14,
+    "min_barrel_diameter": 112.224
+  },
+  {
+    "#": 691,
+    "item_no": "SM1516UAX2H2-OR",
+    "description": "4C+E 16mm2 BC Cl2/XHF-110/HFS-110-TP 1KV O/C",
+    "od": 23.31,
+    "multiplying": 6,
+    "min_bending_radius": 139.86,
+    "min_barrel_diameter": 223.776
+  },
+  {
+    "#": 692,
+    "item_no": "SM1516UAX2H25-OR",
+    "description": "4C+E 16mm2 BC CL5/XHF-110/HFS-110-TP 0.6/1kV O/C",
+    "od": 21.735,
+    "multiplying": 6,
+    "min_bending_radius": 130.41,
+    "min_barrel_diameter": 208.656
+  },
+  {
+    "#": 693,
+    "item_no": "SM1525UAX2H25-OR",
+    "description": "4C+E 25mm2 BC CL5/XHF-110/HFS-110-TP 0.6/1kV O/C",
+    "od": 25.515,
+    "multiplying": 6,
+    "min_bending_radius": 153.09,
+    "min_barrel_diameter": 244.944
+  },
+  {
+    "#": 694,
+    "item_no": "SM1535UAX2H25-OR",
+    "description": "4C+E 35mm2 BC CL5/XHF-110/HFS-110-TP 0.6/1kV O/C",
+    "od": 29.715,
+    "multiplying": 6,
+    "min_bending_radius": 178.29,
+    "min_barrel_diameter": 285.264
+  },
+  {
+    "#": 695,
+    "item_no": "SMAL500-BLK",
+    "description": "1C 500mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "od": 38.85,
+    "multiplying": 8,
+    "min_bending_radius": 310.8,
+    "min_barrel_diameter": 497.28
+  },
+  {
+    "#": 696,
+    "item_no": "SMAL500X2H29-BK",
+    "description": "1C 500mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "od": 43.26,
+    "multiplying": 4,
+    "min_bending_radius": 173.04,
+    "min_barrel_diameter": 276.864
+  },
+  {
+    "#": 697,
+    "item_no": "SMAL630-BLK",
+    "description": "1C 630mm2 AL Cl2/XLPE/PVC X90 1kV BLK",
+    "od": 43.47,
+    "multiplying": 8,
+    "min_bending_radius": 347.76,
+    "min_barrel_diameter": 556.416
+  },
+  {
+    "#": 698,
+    "item_no": "SMAL630X2H29-BK",
+    "description": "1C 630mm2 Flexible AL/XHF-110/HFS-110-TP 1kV BLK",
+    "od": 48.405,
+    "multiplying": 4,
+    "min_bending_radius": 193.62,
+    "min_barrel_diameter": 309.792
+  }
+]
